@@ -1,0 +1,316 @@
+{
+  "id": "stellar-moments",
+  "title": {
+    "en": "The Stellar Moments",
+    "zh_CN": "闪耀的群星",
+    "ja": "輝く星々",
+    "ko": "빛나는 뭇별",
+    "zh_TW": "原神 - 閃耀的群星"
+  },
+  "game": "genshin_impact",
+  "upc": "3617055535295",
+  "releaseDate": "2021-02-04",
+  "artistName": "Yu-Peng Chen & HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 17,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1666680443",
+      "cn": "1550254705",
+      "jp": "1666859098",
+      "kr": "1550434005",
+      "tw": "1550276625"
+    }
+  },
+  "colors": {
+    "background": "#f3f4e6",
+    "colors": [
+      "#0d0e1b",
+      "#131929",
+      "#3b3c44",
+      "#40454f"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ba/37/bd/ba37bd18-9a45-b660-9a06-0aea30a52600/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/60/9d/ed609db5-fd76-1c7d-1dcc-926ec3b11b83/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/81/ec/44/81ec4442-eb5a-349e-45e3-ec327ca408d3/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d3/ef/9c/d3ef9c87-bad6-8c46-6345-e9b8d8c7638b/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/9c/44/329c4407-aa9a-da07-1aa3-53570ea67d65/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "The Stellar Moments",
+        "ja": "輝く星々",
+        "ko": "빛나는 뭇별",
+        "zh_CN": "闪耀的群星",
+        "zh_TW": "閃耀的群星"
+      },
+      "video": {
+        "en": "https://youtu.be/zmS7kzSHuSE",
+        "ko": "https://youtu.be/NgMlRAIlxls",
+        "ja": "https://youtu.be/VkbOdPoMlZ8"
+      },
+      "duration": 1402286,
+      "tracks": [
+        {
+          "length": 107013,
+          "ids": {
+            "ca": "1666680450",
+            "cn": "1550254706",
+            "jp": "1666859106",
+            "kr": "1550434007",
+            "tw": "1550276631"
+          },
+          "en": "Bard's Adventure",
+          "zh_CN": "诗人的工作",
+          "ja": "詩人の仕事",
+          "ko": "시인의 업무",
+          "zh_TW": "詩人的工作"
+        },
+        {
+          "length": 91500,
+          "ids": {
+            "ca": "1666680452",
+            "cn": "1550254709",
+            "jp": "1666859112",
+            "kr": "1550434012",
+            "tw": "1550276637"
+          },
+          "en": "Let's Go, Crimson Knight!",
+          "zh_CN": "真红骑士,出发!",
+          "ja": "真紅の騎士、出発!",
+          "ko": "진홍 기사, 출발!",
+          "zh_TW": "真紅騎士,出發!"
+        },
+        {
+          "length": 72500,
+          "ids": {
+            "ca": "1666680465",
+            "cn": "1550254710",
+            "jp": "1666859115",
+            "kr": "1550434015",
+            "tw": "1550276640"
+          },
+          "en": "Where the Sunlight Flees",
+          "zh_CN": "童梦历险记",
+          "ja": "小さな夢の冒険",
+          "ko": "꿈속 탐험기",
+          "zh_TW": "童夢歷險記"
+        },
+        {
+          "length": 58913,
+          "ids": {
+            "ca": "1666680764",
+            "cn": "1550255137",
+            "jp": "1666859688",
+            "kr": "1550434016",
+            "tw": "1550276642"
+          },
+          "en": "Flaming Fry",
+          "zh_CN": "烈火急烹",
+          "ja": "烈火調理",
+          "ko": "센 불에 볶아버려!",
+          "zh_TW": "烈火急烹"
+        },
+        {
+          "length": 77503,
+          "ids": {
+            "ca": "1666680860",
+            "cn": "1550255139",
+            "jp": "1666859689",
+            "kr": "1550434236",
+            "tw": "1550276645"
+          },
+          "en": "Ouvertüre der ewigen Nacht",
+          "zh_CN": "永夜的序曲",
+          "ja": "永夜の序曲",
+          "ko": "영원한 밤의 서곡",
+          "zh_TW": "永夜的序曲"
+        },
+        {
+          "length": 76000,
+          "ids": {
+            "ca": "1666680864",
+            "cn": "1550255142",
+            "jp": "1666859694",
+            "kr": "1550434237",
+            "tw": "1550276987"
+          },
+          "en": "Sieh an, mein Sommernachtgarten!",
+          "zh_CN": "夏宫灵囿",
+          "ja": "ほら!わたくしの夏の夜のガーデン",
+          "ko": "하궁의 원림",
+          "zh_TW": "夏宮靈囿"
+        },
+        {
+          "length": 60865,
+          "ids": {
+            "ca": "1666680865",
+            "cn": "1550255149",
+            "jp": "1666859703",
+            "kr": "1550434240",
+            "tw": "1550276993"
+          },
+          "en": "Preserver of Fortune",
+          "zh_CN": "度厄童子",
+          "ja": "度厄童子",
+          "ko": "도액 동자",
+          "zh_TW": "渡厄童子"
+        },
+        {
+          "length": 61000,
+          "ids": {
+            "ca": "1666680870",
+            "cn": "1550255154",
+            "jp": "1666859707",
+            "kr": "1550434241",
+            "tw": "1550276997"
+          },
+          "en": "Surge of Prophecies",
+          "zh_CN": "星天的预告",
+          "ja": "星天の予知",
+          "ko": "별하늘의 예고",
+          "zh_TW": "星天的預告"
+        },
+        {
+          "length": 93259,
+          "ids": {
+            "ca": "1666680872",
+            "cn": "1550255160",
+            "jp": "1666859711",
+            "kr": "1550434243",
+            "tw": "1550277246"
+          },
+          "en": "Letter From Ajax",
+          "zh_CN": "埃阿斯的回信",
+          "ja": "アヤックスからの返信",
+          "ko": "아약스의 답장",
+          "zh_TW": "埃阿斯的回信"
+        },
+        {
+          "length": 88886,
+          "ids": {
+            "ca": "1666680875",
+            "cn": "1550255163",
+            "jp": "1666859872",
+            "kr": "1550434246",
+            "tw": "1550277257"
+          },
+          "en": "From Snezhnaya With Boldness",
+          "zh_CN": "自雪国而来",
+          "ja": "雪国より訪れし者",
+          "ko": "설국에서 온 손님",
+          "zh_TW": "自雪國而來"
+        },
+        {
+          "length": 61334,
+          "ids": {
+            "ca": "1666680876",
+            "cn": "1550255229",
+            "jp": "1666859875",
+            "kr": "1550434247",
+            "tw": "1550277264"
+          },
+          "en": "Exclusive Specialty",
+          "zh_CN": "独家特调",
+          "ja": "スペシャルドリンク",
+          "ko": "캣테일 특제",
+          "zh_TW": "獨家特調"
+        },
+        {
+          "length": 61503,
+          "ids": {
+            "ca": "1666680879",
+            "cn": "1550255236",
+            "jp": "1666859882",
+            "kr": "1550434248",
+            "tw": "1550277274"
+          },
+          "en": "Rockin' With Fire",
+          "zh_CN": "迸发的炽焰",
+          "ja": "迸る烈焔",
+          "ko": "폭발하는 화염",
+          "zh_TW": "迸發的熾焰"
+        },
+        {
+          "length": 59428,
+          "ids": {
+            "ca": "1666680882",
+            "cn": "1550255239",
+            "jp": "1666859886",
+            "kr": "1550434252",
+            "tw": "1550277461"
+          },
+          "en": "Nimble as Lightning",
+          "zh_CN": "霆霓快雨",
+          "ja": "疾雷快雨",
+          "ko": "질뢰쾌우",
+          "zh_TW": "霆霓快雨"
+        },
+        {
+          "length": 122865,
+          "ids": {
+            "ca": "1666681218",
+            "cn": "1550255241",
+            "jp": "1666859892",
+            "kr": "1550434256",
+            "tw": "1550277468"
+          },
+          "en": "Contemplation in Snow",
+          "zh_CN": "白皑中的冥想",
+          "ja": "純白での瞑想",
+          "ko": "결백 속의 명상",
+          "zh_TW": "白皚中的冥想"
+        },
+        {
+          "length": 100369,
+          "ids": {
+            "ca": "1666681220",
+            "cn": "1550255244",
+            "jp": "1666860118",
+            "kr": "1550434260",
+            "tw": "1550277476"
+          },
+          "en": "Genius of Takwin",
+          "zh_CN": "创生的灵慧",
+          "ja": "創生の霊智",
+          "ko": "창생의 천재",
+          "zh_TW": "創生的靈慧"
+        },
+        {
+          "length": 100520,
+          "ids": {
+            "ca": "1666681221",
+            "cn": "1550255247",
+            "jp": "1666860127",
+            "kr": "1550434264",
+            "tw": "1550277479"
+          },
+          "en": "Qilin's Prance",
+          "zh_CN": "麟跃幽岩",
+          "ja": "麟躍幽岩",
+          "ko": "바위를 넘는 기린",
+          "zh_TW": "麟躍幽岩"
+        },
+        {
+          "length": 108828,
+          "ids": {
+            "ca": "1666681226",
+            "cn": "1550255249",
+            "jp": "1666860318",
+            "kr": "1550434265",
+            "tw": "1550277485"
+          },
+          "en": "Rex Incognito",
+          "zh_CN": "尘世闲游",
+          "ja": "浮世閑歩",
+          "ko": "속세 한유",
+          "zh_TW": "塵世閒遊"
+        }
+      ]
+    }
+  ]
+}

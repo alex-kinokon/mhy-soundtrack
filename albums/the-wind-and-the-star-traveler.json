@@ -1,0 +1,286 @@
+{
+  "id": "the-wind-and-the-star-traveler",
+  "title": {
+    "en": "The Wind and the Star Traveler",
+    "zh_CN": "风与异乡人",
+    "ja": "風と異邦人",
+    "ko": "바람, 그리고 이방인",
+    "zh_TW": "風與異鄉人"
+  },
+  "game": "genshin_impact",
+  "upc": "3616406674690",
+  "releaseDate": "2020-06-19",
+  "artistName": "Yu-Peng Chen & HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 15,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1519189657",
+      "cn": "1519189626",
+      "jp": "1519189572",
+      "kr": "1519189520",
+      "tw": "1519189639"
+    }
+  },
+  "colors": {
+    "background": "#ecc2c3",
+    "colors": [
+      "#0c0a07",
+      "#16290f",
+      "#392f2d",
+      "#414733"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/86/f3/0a86f317-78d7-fe7e-f279-e835a0ac51c7/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/6a/cd/1e6acdd6-4d8c-9056-8f9e-b447f2eb0f87/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/44/14/2b44146e-66fb-f389-bddf-e6fce2a00a49/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ec/b6/72/ecb67264-deb7-54e2-dc56-fac1e6453847/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b8/17/f0/b817f0e9-bd11-27c8-5ce4-d83e981211bc/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "The Wind and the Star Traveler",
+        "ja": "風と異邦人",
+        "zh_CN": "风与异乡人",
+        "zh_TW": "風與異鄉人",
+        "ko": "바람, 그리고 이방인"
+      },
+      "video": {
+        "en": "https://youtu.be/ol3ViRJlCAI",
+        "ja": "https://youtu.be/KbUTVWQR4Uo",
+        "ko": "https://youtu.be/XEkrNM-2ijw"
+      },
+      "duration": 1730150,
+      "tracks": [
+        {
+          "length": 106500,
+          "ids": {
+            "ca": "1519189675",
+            "cn": "1519189629",
+            "jp": "1519189576",
+            "kr": "1519189526",
+            "tw": "1519189655"
+          },
+          "en": "Genshin Impact Main Theme",
+          "zh_CN": "Genshin Impact Main Theme",
+          "ja": "原神メインテーマ",
+          "ko": "원신 메인 테마",
+          "zh_TW": "Genshin Impact Main Theme"
+        },
+        {
+          "length": 68321,
+          "ids": {
+            "ca": "1519189682",
+            "cn": "1519189634",
+            "jp": "1519189580",
+            "kr": "1519189532",
+            "tw": "1519189884"
+          },
+          "en": "Dawn Winery Theme",
+          "zh_CN": "Dawn Winery Theme",
+          "ja": "アカツキワイナリー",
+          "ko": "다운 와이너리",
+          "zh_TW": "Dawn Winery Theme"
+        },
+        {
+          "length": 58879,
+          "ids": {
+            "ca": "1519189836",
+            "cn": "1519189635",
+            "jp": "1519189588",
+            "kr": "1519189979",
+            "tw": "1519189890"
+          },
+          "en": "A Sweet Smile",
+          "zh_CN": "A Sweet Smile",
+          "ja": "甘美な微笑み",
+          "ko": "달콤한 미소",
+          "zh_TW": "A Sweet Smile"
+        },
+        {
+          "length": 204269,
+          "ids": {
+            "ca": "1519189839",
+            "cn": "1519189638",
+            "jp": "1519189590",
+            "kr": "1519189980",
+            "tw": "1519189895"
+          },
+          "en": "A Storm, A Spire, and A Sanctum (Dvalin's Nest)",
+          "zh_CN": "A Storm, A Spire, And A Sanctum (Dvalin'S Nest)",
+          "ja": "嵐、尖塔と聖域",
+          "ko": "폭풍, 고탑, 그리고 성지",
+          "zh_TW": "A Storm, A Spire, And A Sanctum (Dvalin'S Nest)"
+        },
+        {
+          "length": 208000,
+          "ids": {
+            "ca": "1519189843",
+            "cn": "1519189642",
+            "jp": "1519189591",
+            "kr": "1519190138",
+            "tw": "1519190052"
+          },
+          "en": "Caelestinum Finale Termini",
+          "zh_CN": "Caelestinum Finale Termini",
+          "ja": "終焉のフィナーレ",
+          "ko": "종천의 폐막곡",
+          "zh_TW": "Caelestinum Finale Termini"
+        },
+        {
+          "length": 50139,
+          "ids": {
+            "ca": "1519189844",
+            "cn": "1519189644",
+            "jp": "1519189593",
+            "kr": "1519190144",
+            "tw": "1519190066"
+          },
+          "en": "Lone Sojourner",
+          "zh_CN": "Lone Sojourner",
+          "ja": "孤独の旅路",
+          "ko": "고독한 머무름",
+          "zh_TW": "Lone Sojourner"
+        },
+        {
+          "length": 59750,
+          "ids": {
+            "ca": "1519189846",
+            "cn": "1519189652",
+            "jp": "1519189899",
+            "kr": "1519190148",
+            "tw": "1519190073"
+          },
+          "en": "A Day in Mondstadt",
+          "zh_CN": "A Day In Mondstadt",
+          "ja": "モンドの一日",
+          "ko": "몬드에서의 하루",
+          "zh_TW": "A Day In Mondstadt"
+        },
+        {
+          "length": 98746,
+          "ids": {
+            "ca": "1519189857",
+            "cn": "1519189868",
+            "jp": "1519189900",
+            "kr": "1519190154",
+            "tw": "1519190351"
+          },
+          "en": "Dream Aria (Genshin Impact Main Theme Var.)",
+          "zh_CN": "Dream Aria (Genshin Impact Main Theme Var.)",
+          "ja": "夢のアリア (原神メインテーマ変奏曲)",
+          "ko": "드림 아리아 (원신 메인 테마 Var.)",
+          "zh_TW": "Dream Aria (Genshin Impact Main Theme Var.)"
+        },
+        {
+          "length": 65632,
+          "ids": {
+            "ca": "1519189860",
+            "cn": "1519189870",
+            "jp": "1519189920",
+            "kr": "1519190163",
+            "tw": "1519190360"
+          },
+          "en": "Pure Sky",
+          "zh_CN": "Pure Sky",
+          "ja": "青空",
+          "ko": "맑은 하늘",
+          "zh_TW": "Pure Sky"
+        },
+        {
+          "length": 70290,
+          "ids": {
+            "ca": "1519189865",
+            "cn": "1519189879",
+            "jp": "1519189995",
+            "kr": "1519190468",
+            "tw": "1519190366"
+          },
+          "en": "The Edge of the Prairie",
+          "zh_CN": "The Edge Of The Prairie",
+          "ja": "平原のマージン",
+          "ko": "초원의 지평선",
+          "zh_TW": "The Edge Of The Prairie"
+        },
+        {
+          "length": 124847,
+          "ids": {
+            "ca": "1519190018",
+            "cn": "1519189886",
+            "jp": "1519190008",
+            "kr": "1519190474",
+            "tw": "1519190372"
+          },
+          "en": "A Tale of Two Dragons",
+          "zh_CN": "A Tale Of Two Dragons",
+          "ja": "トワリンとドゥリン",
+          "ko": "드발린과 두린",
+          "zh_TW": "A Tale Of Two Dragons"
+        },
+        {
+          "length": 260000,
+          "ids": {
+            "ca": "1519190020",
+            "cn": "1519189887",
+            "jp": "1519190012",
+            "kr": "1519190485",
+            "tw": "1519190373"
+          },
+          "en": "Rite of Battle",
+          "zh_CN": "Rite Of Battle",
+          "ja": "バトルの秘儀",
+          "ko": "전투의 의식",
+          "zh_TW": "Rite Of Battle"
+        },
+        {
+          "length": 93090,
+          "ids": {
+            "ca": "1519190035",
+            "cn": "1519189891",
+            "jp": "1519190107",
+            "kr": "1519190487",
+            "tw": "1519190617"
+          },
+          "en": "Knighthood Excellence",
+          "zh_CN": "Knighthood Excellence",
+          "ja": "騎士の善意",
+          "ko": "기사의 의거",
+          "zh_TW": "Knighthood Excellence"
+        },
+        {
+          "length": 152756,
+          "ids": {
+            "ca": "1519190039",
+            "cn": "1519189892",
+            "jp": "1519190114",
+            "kr": "1519190492",
+            "tw": "1519190627"
+          },
+          "en": "Happy Journey",
+          "zh_CN": "Happy Journey",
+          "ja": "楽しい旅",
+          "ko": "즐거운 여행",
+          "zh_TW": "Happy Journey"
+        },
+        {
+          "length": 108931,
+          "ids": {
+            "ca": "1519190041",
+            "cn": "1519189893",
+            "jp": "1519190119",
+            "kr": "1519190766",
+            "tw": "1519190631"
+          },
+          "en": "The Wind Catcher from a Foreign Land",
+          "zh_CN": "The Wind Catcher From A Foreign Land",
+          "ja": "風を捕まえる異邦人",
+          "ko": "바람 잡는 이방인",
+          "zh_TW": "The Wind Catcher From A Foreign Land"
+        }
+      ]
+    }
+  ]
+}

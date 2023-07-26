@@ -1,0 +1,953 @@
+{
+  "id": "the-shimmering-voyage-2",
+  "title": {
+    "en": "The Shimmering Voyage, Vol. 2",
+    "ja": "真珠の歌2",
+    "zh_CN": "珍珠之歌 2",
+    "zh_TW": "珍珠之歌2",
+    "ko": "진주의 노래 2"
+  },
+  "game": "genshin_impact",
+  "upc": "3617050074263",
+  "releaseDate": "2022-08-15",
+  "artistName": "HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 57,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1639199039",
+      "jp": "1638924783",
+      "cn": "1638935207",
+      "tw": "1638922882",
+      "kr": "1639059568"
+    },
+    "spotify": {
+      "jp": "https://open.spotify.com/album/17DpIJcLlj43NNowAOV3jJ"
+    }
+  },
+  "colors": {
+    "background": "#0b162f",
+    "colors": [
+      "#c1cdee",
+      "#99aee3",
+      "#9da9c8",
+      "#7c8fbf"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7c/ee/39/7cee391f-2ab8-6e2f-8836-4059e70c4a48/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9c/e1/73/9ce1732a-8739-3d3a-2352-053dcf7242bc/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2d/b5/47/2db547b6-464c-243a-46d7-f5bad7675130/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/35/37/85/35378536-085c-4430-0ae6-5f99ee240dd5/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a0/f3/b5/a0f3b5c9-2bb2-03f5-c284-979d808a42ca/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "A Vagrant Breeze",
+        "ja": "幻世の浮生",
+        "ko": "떠도는 바람",
+        "zh_CN": "幻世浮生",
+        "zh_TW": "幻世浮生"
+      },
+      "video": {
+        "en": "https://youtu.be/3-EkbYNPi6Q",
+        "ja": "https://youtu.be/N6uvsYTyOHQ",
+        "ko": "https://youtu.be/ydI7dGU89bw"
+      },
+      "duration": 2159156,
+      "tracks": [
+        {
+          "length": 116806,
+          "ids": {
+            "ca": "1639199053",
+            "jp": "1638925009",
+            "cn": "1638935233",
+            "tw": "1638922899",
+            "kr": "1639059835"
+          },
+          "en": "Pathos of Shirasagi",
+          "ja": "羽を広げる白鷺",
+          "zh_CN": "白鹭舒翼",
+          "zh_TW": "白鷺舒翼",
+          "ko": "Pathos of Shirasagi"
+        },
+        {
+          "length": 105201,
+          "ids": {
+            "ca": "1639199454",
+            "jp": "1638925026",
+            "cn": "1638935388",
+            "tw": "1638923212",
+            "kr": "1639059848"
+          },
+          "en": "The Comrades' Ambush",
+          "ja": "妙策急襲",
+          "zh_CN": "妙策急袭",
+          "zh_TW": "妙策急襲",
+          "ko": "The Comrades' Ambush"
+        },
+        {
+          "length": 117582,
+          "ids": {
+            "ca": "1639199467",
+            "jp": "1638925032",
+            "cn": "1638935403",
+            "tw": "1638923232",
+            "kr": "1639060037"
+          },
+          "en": "Trial of Thunder",
+          "ja": "雷霆の判決",
+          "zh_CN": "雷霆之判",
+          "zh_TW": "雷霆之判",
+          "ko": "Trial of Thunder"
+        },
+        {
+          "length": 68085,
+          "ids": {
+            "ca": "1639199473",
+            "jp": "1638925034",
+            "cn": "1638935413",
+            "tw": "1638923521",
+            "kr": "1639060044"
+          },
+          "en": "Shogun's Abdication",
+          "ja": "裁決や如何に...?",
+          "zh_CN": "裁决已定...?",
+          "zh_TW": "裁決已定...?",
+          "ko": "Shogun's Abdication"
+        },
+        {
+          "length": 40306,
+          "ids": {
+            "ca": "1639199756",
+            "jp": "1638925252",
+            "cn": "1638935786",
+            "tw": "1638923657",
+            "kr": "1639060047"
+          },
+          "en": "Unpredicted Conspiracy",
+          "ja": "予期せぬ陰謀",
+          "zh_CN": "未料的密谋",
+          "zh_TW": "未料的密謀",
+          "ko": "Unpredicted Conspiracy"
+        },
+        {
+          "length": 32406,
+          "ids": {
+            "ca": "1639199900",
+            "jp": "1638925256",
+            "cn": "1638935797",
+            "tw": "1638923667",
+            "kr": "1639060051"
+          },
+          "en": "A Sense of Foreboding",
+          "ja": "危険な予感",
+          "zh_CN": "危急的预觉",
+          "zh_TW": "危急的預覺",
+          "ko": "A Sense of Foreboding"
+        },
+        {
+          "length": 87550,
+          "ids": {
+            "ca": "1639199903",
+            "jp": "1638925269",
+            "cn": "1638935986",
+            "tw": "1638923680",
+            "kr": "1639060059"
+          },
+          "en": "Wreck of Eternal Bane",
+          "ja": "虚栄心の凋落",
+          "zh_CN": "虚荣的落幕",
+          "zh_TW": "虛榮的落幕",
+          "ko": "Wreck of Eternal Bane"
+        },
+        {
+          "length": 102465,
+          "ids": {
+            "ca": "1639199908",
+            "jp": "1638925456",
+            "cn": "1638935991",
+            "tw": "1638923989",
+            "kr": "1639060499"
+          },
+          "en": "Marching to Victory",
+          "ja": "勝利に向けて",
+          "zh_CN": "向着胜利",
+          "zh_TW": "向著勝利",
+          "ko": "Marching to Victory"
+        },
+        {
+          "length": 97453,
+          "ids": {
+            "ca": "1639199915",
+            "jp": "1638925525",
+            "cn": "1638936013",
+            "tw": "1638924001",
+            "kr": "1639060502"
+          },
+          "en": "Approaching Thunder",
+          "ja": "轟く疾雷",
+          "zh_CN": "疾雷万钧",
+          "zh_TW": "疾雷萬鈞",
+          "ko": "Approaching Thunder"
+        },
+        {
+          "length": 112356,
+          "ids": {
+            "ca": "1639200351",
+            "jp": "1638925528",
+            "cn": "1638936214",
+            "tw": "1638924297",
+            "kr": "1639060512"
+          },
+          "en": "Bitter Triumph",
+          "ja": "苦渋の凱旋",
+          "zh_CN": "苦涩的凯旋",
+          "zh_TW": "苦澀的凱旋",
+          "ko": "Bitter Triumph"
+        },
+        {
+          "length": 137672,
+          "ids": {
+            "ca": "1639200356",
+            "jp": "1638925534",
+            "cn": "1638936223",
+            "tw": "1638924470",
+            "kr": "1639060788"
+          },
+          "en": "Her Imperial Majesty",
+          "ja": "殊勝な身分",
+          "zh_CN": "殊胜之身",
+          "zh_TW": "殊勝之身",
+          "ko": "Her Imperial Majesty"
+        },
+        {
+          "length": 49555,
+          "ids": {
+            "ca": "1639200361",
+            "jp": "1638925543",
+            "cn": "1638936470",
+            "tw": "1638924483",
+            "kr": "1639060794"
+          },
+          "en": "Eureka Moment",
+          "ja": "ひらめきの時",
+          "zh_CN": "灵光乍现",
+          "zh_TW": "靈光乍現",
+          "ko": "Eureka Moment"
+        },
+        {
+          "length": 176592,
+          "ids": {
+            "ca": "1639200862",
+            "jp": "1638925792",
+            "cn": "1638936480",
+            "tw": "1638924680",
+            "kr": "1639060801"
+          },
+          "en": "Odyssey to the Uncharted",
+          "ja": "もう一つの旅路",
+          "zh_CN": "另一段旅途",
+          "zh_TW": "另一段旅途",
+          "ko": "Odyssey to the Uncharted"
+        },
+        {
+          "length": 24013,
+          "ids": {
+            "ca": "1639201039",
+            "jp": "1638925805",
+            "cn": "1638936495",
+            "tw": "1638924892",
+            "kr": "1639060805"
+          },
+          "en": "Unforeseen Disaster",
+          "ja": "急転直下",
+          "zh_CN": "急转直下",
+          "zh_TW": "急轉直下",
+          "ko": "Unforeseen Disaster"
+        },
+        {
+          "length": 83959,
+          "ids": {
+            "ca": "1639201048",
+            "jp": "1638925922",
+            "cn": "1638936708",
+            "tw": "1638924906",
+            "kr": "1639060814"
+          },
+          "en": "Fury Unleashed",
+          "ja": "晶明なる怒り",
+          "zh_CN": "晶明的怒火",
+          "zh_TW": "晶明的怒火",
+          "ko": "Fury Unleashed"
+        },
+        {
+          "length": 77569,
+          "ids": {
+            "ca": "1639201278",
+            "jp": "1638925933",
+            "cn": "1638936719",
+            "tw": "1638924908",
+            "kr": "1639061152"
+          },
+          "en": "Separate Ways",
+          "ja": "分断されし運命",
+          "zh_CN": "命途两歧",
+          "zh_TW": "命途兩歧",
+          "ko": "Separate Ways"
+        },
+        {
+          "length": 79077,
+          "ids": {
+            "ca": "1639201283",
+            "jp": "1638926180",
+            "cn": "1638936725",
+            "tw": "1638925088",
+            "kr": "1639061159"
+          },
+          "en": "Take This!",
+          "ja": "救い主の登場",
+          "zh_CN": "救星登场",
+          "zh_TW": "救星登場",
+          "ko": "Take This!"
+        },
+        {
+          "length": 85507,
+          "ids": {
+            "ca": "1639201523",
+            "jp": "1638926189",
+            "cn": "1638936735",
+            "tw": "1638925163",
+            "kr": "1639061477"
+          },
+          "en": "Suffering of Parting",
+          "ja": "愛別離苦",
+          "zh_CN": "爱别离苦",
+          "zh_TW": "愛別離苦",
+          "ko": "Suffering of Parting"
+        },
+        {
+          "length": 124662,
+          "ids": {
+            "ca": "1639201535",
+            "jp": "1638926193",
+            "cn": "1638937164",
+            "tw": "1638925172",
+            "kr": "1639061488"
+          },
+          "en": "Under the Sun",
+          "ja": "青天白日",
+          "zh_CN": "风定天晴",
+          "zh_TW": "風定天晴",
+          "ko": "Under the Sun"
+        },
+        {
+          "length": 131468,
+          "ids": {
+            "ca": "1639201536",
+            "jp": "1638926200",
+            "cn": "1638937170",
+            "tw": "1638925496",
+            "kr": "1639061628"
+          },
+          "en": "Vanished Beyond Recall",
+          "ja": "色褪せていく旧話",
+          "zh_CN": "渐淡的旧事",
+          "zh_TW": "漸淡的舊事",
+          "ko": "Vanished Beyond Recall"
+        },
+        {
+          "length": 132293,
+          "ids": {
+            "ca": "1639201819",
+            "jp": "1638926450",
+            "cn": "1638937183",
+            "tw": "1638925502",
+            "kr": "1639061637"
+          },
+          "en": "Nothing but a Dream",
+          "ja": "泡沫の永遠",
+          "zh_CN": "泡沫的永恒",
+          "zh_TW": "泡沫的永恆",
+          "ko": "Nothing but a Dream"
+        },
+        {
+          "length": 124647,
+          "ids": {
+            "ca": "1639201835",
+            "jp": "1638926452",
+            "cn": "1638937405",
+            "tw": "1638925758",
+            "kr": "1639061646"
+          },
+          "en": "Illusory Apparitions",
+          "ja": "気鬱な姿",
+          "zh_CN": "郁郁的形影",
+          "zh_TW": "鬱鬱的形影",
+          "ko": "Illusory Apparitions"
+        },
+        {
+          "length": 51932,
+          "ids": {
+            "ca": "1639202000",
+            "jp": "1638926458",
+            "cn": "1638937410",
+            "tw": "1638925766",
+            "kr": "1639061653"
+          },
+          "en": "Midnight in Mondstadt",
+          "ja": "モンドの午夜",
+          "zh_CN": "蒙德的午夜",
+          "zh_TW": "蒙德的午夜",
+          "ko": "Midnight in Mondstadt"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Fantasia of the Isles",
+        "ja": "群島奇想曲",
+        "ko": "섬의 기상곡",
+        "zh_CN": "海岛奇想曲",
+        "zh_TW": "海島奇想曲"
+      },
+      "video": {
+        "ja": "https://youtu.be/ON1j9Mx8RU4",
+        "ko": "https://youtu.be/mz7C_Wt4V8A",
+        "en": "https://youtu.be/DU8nV1IIjQs"
+      },
+      "duration": 1372541,
+      "tracks": [
+        {
+          "length": 97016,
+          "ids": {
+            "ca": "1639202005",
+            "jp": "1638926461",
+            "cn": "1638937424",
+            "tw": "1638925781",
+            "kr": "1639061960"
+          },
+          "en": "Tagelied nächtlicher Gedanken",
+          "ja": "黄昏の歌",
+          "zh_CN": "挽夜的晓歌",
+          "zh_TW": "挽夜的曉歌",
+          "ko": "Tagelied nächtlicher Gedanken"
+        },
+        {
+          "length": 87279,
+          "ids": {
+            "ca": "1639202021",
+            "jp": "1638926469",
+            "cn": "1638937705",
+            "tw": "1638926152",
+            "kr": "1639061966"
+          },
+          "en": "Traum durch die Dämmerung, erster Satz",
+          "ja": "暮景に心を馳せて·1",
+          "zh_CN": "暮景遐思·其一",
+          "zh_TW": "暮景遐思·其一",
+          "ko": "Traum durch die Dämmerung, erster Satz"
+        },
+        {
+          "length": 87362,
+          "ids": {
+            "ca": "1639202025",
+            "jp": "1638926780",
+            "cn": "1638937719",
+            "tw": "1638926170",
+            "kr": "1639062201"
+          },
+          "en": "Traum durch die Dämmerung, zweiter Satz",
+          "ja": "暮景に心を馳せて·2",
+          "zh_CN": "暮景遐思·其二",
+          "zh_TW": "暮景遐思·其二",
+          "ko": "Traum durch die Dämmerung, zweiter Satz"
+        },
+        {
+          "length": 137888,
+          "ids": {
+            "ca": "1639202439",
+            "jp": "1638926787",
+            "cn": "1638937950",
+            "tw": "1638926479",
+            "kr": "1639062207"
+          },
+          "en": "Das Folkwanglied",
+          "ja": "聖眷の浄土",
+          "zh_CN": "圣眷的净土",
+          "zh_TW": "聖眷的淨土",
+          "ko": "Das Folkwanglied"
+        },
+        {
+          "length": 122005,
+          "ids": {
+            "ca": "1639202604",
+            "jp": "1638926805",
+            "cn": "1638937965",
+            "tw": "1638926486",
+            "kr": "1639062217"
+          },
+          "en": "Ein vogellin, so wol getan",
+          "ja": "飛びし鳥の皇庭",
+          "zh_CN": "鸲翮的皇庭",
+          "zh_TW": "鴝翮的皇庭",
+          "ko": "Ein vogellin, so wol getan"
+        },
+        {
+          "length": 126019,
+          "ids": {
+            "ca": "1639202837",
+            "jp": "1638926990",
+            "cn": "1638938068",
+            "tw": "1638926490",
+            "kr": "1639062223"
+          },
+          "en": "Soliloquy of the Star",
+          "ja": "幽星の独り言",
+          "zh_CN": "幽星的独言",
+          "zh_TW": "幽星的獨言",
+          "ko": "Soliloquy of the Star"
+        },
+        {
+          "length": 239252,
+          "ids": {
+            "ca": "1639202843",
+            "jp": "1638927003",
+            "cn": "1638938297",
+            "tw": "1638926496",
+            "kr": "1639062225"
+          },
+          "en": "Flickering Brightness",
+          "ja": "烈炎の明光",
+          "zh_CN": "熙焰明光",
+          "zh_TW": "熙焰明光",
+          "ko": "Flickering Brightness"
+        },
+        {
+          "length": 240886,
+          "ids": {
+            "ca": "1639202851",
+            "jp": "1638927008",
+            "cn": "1638938306",
+            "tw": "1638926501",
+            "kr": "1639062471"
+          },
+          "en": "Burst Into Flames",
+          "ja": "烈火轟雷",
+          "zh_CN": "烈火轰雷",
+          "zh_TW": "烈火轟雷",
+          "ko": "Burst Into Flames"
+        },
+        {
+          "length": 234834,
+          "ids": {
+            "ca": "1639202862",
+            "jp": "1638927256",
+            "cn": "1638938321",
+            "tw": "1638926972",
+            "kr": "1639062481"
+          },
+          "en": "Die Mittsommernacht-Fantasie",
+          "ja": "夏の夜の幻想",
+          "zh_CN": "仲夏夜绮思",
+          "zh_TW": "仲夏夜綺思",
+          "ko": "Die Mittsommernacht-Fantasie"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "A Turbulent Peregrination",
+        "ja": "波瀾曲折",
+        "ko": "격동의 여정",
+        "zh_CN": "世路风波",
+        "zh_TW": "世路風波"
+      },
+      "video": {
+        "ja": "https://youtu.be/D_CZiEKtusI",
+        "ko": "https://youtu.be/2Nfq7CYY9E8",
+        "en": "https://youtu.be/q0CtixbZpJY"
+      },
+      "duration": 3311005,
+      "tracks": [
+        {
+          "length": 216912,
+          "ids": {
+            "ca": "1639203208",
+            "jp": "1638927267",
+            "cn": "1638938569",
+            "tw": "1638926980",
+            "kr": "1639062486"
+          },
+          "en": "The Liyue Romans-Fleuves",
+          "ja": "ご覧あれ",
+          "zh_CN": "且看今朝",
+          "zh_TW": "且看今朝",
+          "ko": "The Liyue Romans-Fleuves"
+        },
+        {
+          "length": 256219,
+          "ids": {
+            "ca": "1639203215",
+            "jp": "1638927275",
+            "cn": "1638938578",
+            "tw": "1638927176",
+            "kr": "1639062746"
+          },
+          "en": "Bravery and Tenderness",
+          "ja": "縞鶴懐霜",
+          "zh_CN": "缟鹤怀霜",
+          "zh_TW": "縞鶴懷霜",
+          "ko": "Bravery and Tenderness"
+        },
+        {
+          "length": 60577,
+          "ids": {
+            "ca": "1639203647",
+            "jp": "1638927284",
+            "cn": "1638938590",
+            "tw": "1638927184",
+            "kr": "1639062755"
+          },
+          "en": "Rumble of Thunder",
+          "ja": "雷霆猛震",
+          "zh_CN": "雷霆猛震",
+          "zh_TW": "雷霆猛震",
+          "ko": "Rumble of Thunder"
+        },
+        {
+          "length": 125195,
+          "ids": {
+            "ca": "1639203659",
+            "jp": "1638927454",
+            "cn": "1638938990",
+            "tw": "1638927192",
+            "kr": "1639062978"
+          },
+          "en": "Roots of Tranquil Eternity",
+          "ja": "永遠の脈絡",
+          "zh_CN": "永恒的脉络",
+          "zh_TW": "永恆的脈絡",
+          "ko": "Roots of Tranquil Eternity"
+        },
+        {
+          "length": 212564,
+          "ids": {
+            "ca": "1639203664",
+            "jp": "1638927465",
+            "cn": "1638938999",
+            "tw": "1638927511",
+            "kr": "1639062984"
+          },
+          "en": "Miko's Ingenuity",
+          "ja": "神子の奇想",
+          "zh_CN": "神子的机思",
+          "zh_TW": "神子的機思",
+          "ko": "Miko's Ingenuity"
+        },
+        {
+          "length": 27323,
+          "ids": {
+            "ca": "1639203670",
+            "jp": "1638927664",
+            "cn": "1638939002",
+            "tw": "1638927521",
+            "kr": "1639062993"
+          },
+          "en": "A Region Rediscovered",
+          "ja": "再臨する国土",
+          "zh_CN": "重现的国度",
+          "zh_TW": "重現的國度",
+          "ko": "A Region Rediscovered"
+        },
+        {
+          "length": 20568,
+          "ids": {
+            "ca": "1639203673",
+            "jp": "1638927675",
+            "cn": "1638939011",
+            "tw": "1638927743",
+            "kr": "1639063276"
+          },
+          "en": "Cold Light",
+          "ja": "未だ滅びぬ光",
+          "zh_CN": "尚未消殒的光",
+          "zh_TW": "尚未消殞的光",
+          "ko": "Cold Light"
+        },
+        {
+          "length": 91110,
+          "ids": {
+            "ca": "1639204139",
+            "jp": "1638927835",
+            "cn": "1638939527",
+            "tw": "1638927755",
+            "kr": "1639063289"
+          },
+          "en": "Broken Blade",
+          "ja": "破裂した剣",
+          "zh_CN": "破裂的剑刃",
+          "zh_TW": "破裂的劍刃",
+          "ko": "Broken Blade"
+        },
+        {
+          "length": 80314,
+          "ids": {
+            "ca": "1639204340",
+            "jp": "1638927843",
+            "cn": "1638939546",
+            "tw": "1638928160",
+            "kr": "1639063299"
+          },
+          "en": "Unfulfilled Aspirations",
+          "ja": "叶わぬ志",
+          "zh_CN": "未竟之志",
+          "zh_TW": "未竟之志",
+          "ko": "Unfulfilled Aspirations"
+        },
+        {
+          "length": 52913,
+          "ids": {
+            "ca": "1639204353",
+            "jp": "1638927853",
+            "cn": "1638939549",
+            "tw": "1638928174",
+            "kr": "1639063637"
+          },
+          "en": "Evergreen Cypress",
+          "ja": "風に吹かれし常緑",
+          "zh_CN": "贞柏临风",
+          "zh_TW": "貞柏臨風",
+          "ko": "Evergreen Cypress"
+        },
+        {
+          "length": 126688,
+          "ids": {
+            "ca": "1639204362",
+            "jp": "1638928129",
+            "cn": "1638939555",
+            "tw": "1638928347",
+            "kr": "1639063647"
+          },
+          "en": "Magnificent Irodori",
+          "ja": "光華容彩",
+          "zh_CN": "灼灼容彩",
+          "zh_TW": "灼灼容彩",
+          "ko": "Magnificent Irodori"
+        },
+        {
+          "length": 40199,
+          "ids": {
+            "ca": "1639204590",
+            "jp": "1638928146",
+            "cn": "1638939951",
+            "tw": "1638928361",
+            "kr": "1639063936"
+          },
+          "en": "Breaking Point",
+          "ja": "一か八か",
+          "zh_CN": "孤注一掷",
+          "zh_TW": "孤注一擲",
+          "ko": "Breaking Point"
+        },
+        {
+          "length": 33730,
+          "ids": {
+            "ca": "1639204826",
+            "jp": "1638928306",
+            "cn": "1638939960",
+            "tw": "1638928490",
+            "kr": "1639063945"
+          },
+          "en": "A Clueless Case",
+          "ja": "予期せぬ怪事",
+          "zh_CN": "奇诡难测",
+          "zh_TW": "奇詭難測",
+          "ko": "A Clueless Case"
+        },
+        {
+          "length": 236459,
+          "ids": {
+            "ca": "1639205011",
+            "jp": "1638928310",
+            "cn": "1638939971",
+            "tw": "1638928498",
+            "kr": "1639064089"
+          },
+          "en": "Hang by a Thread",
+          "ja": "命の綱渡り",
+          "zh_CN": "命悬一线",
+          "zh_TW": "命懸一線",
+          "ko": "Hang by a Thread"
+        },
+        {
+          "length": 235565,
+          "ids": {
+            "ca": "1639205023",
+            "jp": "1638928320",
+            "cn": "1638940349",
+            "tw": "1638928505",
+            "kr": "1639064099"
+          },
+          "en": "Yaksha's Reminiscence",
+          "ja": "夜叉の追想",
+          "zh_CN": "夜叉的追想",
+          "zh_TW": "夜叉的追想",
+          "ko": "Yaksha's Reminiscence"
+        },
+        {
+          "length": 92653,
+          "ids": {
+            "ca": "1639205121",
+            "jp": "1638928328",
+            "cn": "1638940585",
+            "tw": "1638928508",
+            "kr": "1639064112"
+          },
+          "en": "Easier Said Than Done",
+          "ja": "知るは易く行うは難し",
+          "zh_CN": "知易行难",
+          "zh_TW": "知易行難",
+          "ko": "Easier Said Than Done"
+        },
+        {
+          "length": 107877,
+          "ids": {
+            "ca": "1639205143",
+            "jp": "1638928547",
+            "cn": "1638940605",
+            "tw": "1638928851",
+            "kr": "1639064304"
+          },
+          "en": "A Single Thought",
+          "ja": "一念一心",
+          "zh_CN": "一念一心",
+          "zh_TW": "一念一心",
+          "ko": "A Single Thought"
+        },
+        {
+          "length": 42942,
+          "ids": {
+            "ca": "1639205401",
+            "jp": "1638928564",
+            "cn": "1638940764",
+            "tw": "1638928870",
+            "kr": "1639064317"
+          },
+          "en": "Prelude of Change",
+          "ja": "激動の前奏",
+          "zh_CN": "动变的前奏",
+          "zh_TW": "動變的前奏",
+          "ko": "Prelude of Change"
+        },
+        {
+          "length": 183099,
+          "ids": {
+            "ca": "1639205412",
+            "jp": "1638928570",
+            "cn": "1638940773",
+            "tw": "1638929097",
+            "kr": "1639064323"
+          },
+          "en": "Phantasm Suite",
+          "ja": "華夢の組曲",
+          "zh_CN": "华梦组曲",
+          "zh_TW": "華夢組曲",
+          "ko": "Phantasm Suite"
+        },
+        {
+          "length": 322563,
+          "ids": {
+            "ca": "1639205661",
+            "jp": "1638928670",
+            "cn": "1638941003",
+            "tw": "1638929106",
+            "kr": "1639064578"
+          },
+          "en": "The Everlasting Trail",
+          "ja": "終わりなき挑戦",
+          "zh_CN": "无尽的挑战",
+          "zh_TW": "無盡的挑戰",
+          "ko": "The Everlasting Trail"
+        },
+        {
+          "length": 97490,
+          "ids": {
+            "ca": "1639205667",
+            "jp": "1638928690",
+            "cn": "1638941206",
+            "tw": "1638929356",
+            "kr": "1639064592"
+          },
+          "en": "Dazzling Stars",
+          "ja": "照り輝く星々",
+          "zh_CN": "煜煜连星",
+          "zh_TW": "煜煜連星",
+          "ko": "Dazzling Stars"
+        },
+        {
+          "length": 34752,
+          "ids": {
+            "ca": "1639206051",
+            "jp": "1638928820",
+            "cn": "1638941222",
+            "tw": "1638929374",
+            "kr": "1639064779"
+          },
+          "en": "The Floating World",
+          "ja": "浮世の波",
+          "zh_CN": "浮光掠影",
+          "zh_TW": "浮光掠影",
+          "ko": "The Floating World"
+        },
+        {
+          "length": 189818,
+          "ids": {
+            "ca": "1639206061",
+            "jp": "1638928828",
+            "cn": "1638941235",
+            "tw": "1638929546",
+            "kr": "1639064789"
+          },
+          "en": "Soar in the Wind",
+          "ja": "羽ばたく時",
+          "zh_CN": "振飞之时",
+          "zh_TW": "振飛之時",
+          "ko": "Soar in the Wind"
+        },
+        {
+          "length": 257557,
+          "ids": {
+            "ca": "1639206069",
+            "jp": "1638928830",
+            "cn": "1638941393",
+            "tw": "1638929563",
+            "kr": "1639064799"
+          },
+          "en": "Elogia Cinerosa",
+          "ja": "焚燼の弔辞",
+          "zh_CN": "熛烬的悼咏",
+          "zh_TW": "熛燼的悼詠",
+          "ko": "Elogia Cinerosa"
+        },
+        {
+          "length": 165918,
+          "ids": {
+            "ca": "1639206414",
+            "jp": "1638928832",
+            "cn": "1638941405",
+            "tw": "1638929736",
+            "kr": "1639064802"
+          },
+          "en": "Song of Innocence",
+          "ja": "無垢の歌",
+          "zh_CN": "纯真的歌谣",
+          "zh_TW": "純真的歌謠",
+          "ko": "Song of Innocence"
+        }
+      ]
+    }
+  ]
+}

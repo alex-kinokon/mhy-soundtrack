@@ -1,0 +1,1115 @@
+{
+  "id": "the-shimmering-voyage-3",
+  "title": {
+    "en": "The Shimmering Voyage, Vol. 3",
+    "zh_CN": "珍珠之歌3",
+    "ja": "真珠の歌3",
+    "ko": "진주의 노래 3",
+    "zh_TW": "珍珠之歌3"
+  },
+  "game": "genshin_impact",
+  "upc": "3617225426392",
+  "releaseDate": "2023-07-26",
+  "artistName": "HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 68,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1698938337",
+      "cn": "1698938760",
+      "jp": "1698938599",
+      "kr": "1698950399",
+      "tw": "1698937859"
+    }
+  },
+  "colors": {
+    "background": "#06152d",
+    "colors": [
+      "#f7f1b1",
+      "#ecdeb0",
+      "#c7c596",
+      "#beb695"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/1c/5b/fd1c5bbd-05a9-d23c-1e12-5d7673470417/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/15/04/3c1504a2-c0d4-cbab-bfdb-6779838312cd/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/05/be/d205be43-af56-8cce-3868-93ce8cd47713/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/81/90/cc/8190ccde-d57a-8900-05ed-f567d5b64f57/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/67/64/5d6764db-acf2-df50-c845-510fdeb25521/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "La liesse, ou le fluide mirage des songes",
+        "ja": "歓喜、あるいは流れる夢の蜃気楼",
+        "ko": "환희, 또는 흐르는 꿈결",
+        "zh_CN": "欢游，或流幻的梦景",
+        "zh_TW": "歡遊，或流幻的夢景"
+      },
+      "video": {
+        "en": "https://youtu.be/aBU30syL33c",
+        "ja": "https://youtu.be/NvGp4QLcZn0",
+        "ko": "https://youtu.be/PEdGfHUxuns"
+      },
+      "duration": 2601651,
+      "tracks": [
+        {
+          "length": 123899,
+          "ids": {
+            "ca": "1698938338",
+            "cn": "1698938761",
+            "jp": "1698938602",
+            "kr": "1698950407",
+            "tw": "1698937860"
+          },
+          "en": "Euphoric Ride",
+          "zh_CN": "逸兴欢跃",
+          "ja": "ワクワクライド",
+          "ko": "Euphoric Ride",
+          "zh_TW": "逸興歡躍"
+        },
+        {
+          "length": 122325,
+          "ids": {
+            "ca": "1698938343",
+            "cn": "1698938762",
+            "jp": "1698938603",
+            "kr": "1698950412",
+            "tw": "1698937865"
+          },
+          "en": "Let's Get Started!",
+          "zh_CN": "飞车出发啦!",
+          "ja": "びゅんびゅん爆速車、出発!",
+          "ko": "Let's Get Started!",
+          "zh_TW": "飛車出發啦!"
+        },
+        {
+          "length": 69888,
+          "ids": {
+            "ca": "1698938345",
+            "cn": "1698938763",
+            "jp": "1698938609",
+            "kr": "1698950870",
+            "tw": "1698937866"
+          },
+          "en": "Bustling Bazaar",
+          "zh_CN": "市阛繁漫",
+          "ja": "バザールは大盛況",
+          "ko": "Bustling Bazaar",
+          "zh_TW": "市闤繁漫"
+        },
+        {
+          "length": 67285,
+          "ids": {
+            "ca": "1698938348",
+            "cn": "1698938767",
+            "jp": "1698938611",
+            "kr": "1698950883",
+            "tw": "1698937867"
+          },
+          "en": "Flanerie sur le marche",
+          "zh_CN": "遐游香榭",
+          "ja": "市場をぶらついて",
+          "ko": "Flanerie sur le marche",
+          "zh_TW": "遐遊香榭"
+        },
+        {
+          "length": 102400,
+          "ids": {
+            "ca": "1698938351",
+            "cn": "1698938770",
+            "jp": "1698938616",
+            "kr": "1698950888",
+            "tw": "1698937868"
+          },
+          "en": "Soothing Nightfall",
+          "zh_CN": "夜静更阑",
+          "ja": "寝静まった夜",
+          "ko": "Soothing Nightfall",
+          "zh_TW": "夜靜更闌"
+        },
+        {
+          "length": 97067,
+          "ids": {
+            "ca": "1698938355",
+            "cn": "1698938773",
+            "jp": "1698938618",
+            "kr": "1698951142",
+            "tw": "1698937871"
+          },
+          "en": "Eventide Caprice",
+          "zh_CN": "暮夜绮想",
+          "ja": "夕夜綺想",
+          "ko": "Eventide Caprice",
+          "zh_TW": "暮夜綺想"
+        },
+        {
+          "length": 110741,
+          "ids": {
+            "ca": "1698938718",
+            "cn": "1698938774",
+            "jp": "1698938621",
+            "kr": "1698951154",
+            "tw": "1698937875"
+          },
+          "en": "Triumph of Mirth",
+          "zh_CN": "欢笑的凯旋",
+          "ja": "歓喜の凱旋",
+          "ko": "Triumph of Mirth",
+          "zh_TW": "歡笑的凱旋"
+        },
+        {
+          "length": 85653,
+          "ids": {
+            "ca": "1698938723",
+            "cn": "1698938775",
+            "jp": "1698938622",
+            "kr": "1698951160",
+            "tw": "1698938089"
+          },
+          "en": "Cheerful March",
+          "zh_CN": "畅舒的行歌",
+          "ja": "ゆかいなマーチ",
+          "ko": "Cheerful March",
+          "zh_TW": "暢舒的行歌"
+        },
+        {
+          "length": 90496,
+          "ids": {
+            "ca": "1698938733",
+            "cn": "1698938986",
+            "jp": "1698938623",
+            "kr": "1698951164",
+            "tw": "1698938090"
+          },
+          "en": "Blissful Little Ditty",
+          "zh_CN": "谐惬的俚曲",
+          "ja": "心にかなう小唄",
+          "ko": "Blissful Little Ditty",
+          "zh_TW": "諧愜的俚曲"
+        },
+        {
+          "length": 94848,
+          "ids": {
+            "ca": "1698938736",
+            "cn": "1698938992",
+            "jp": "1698938625",
+            "kr": "1698951407",
+            "tw": "1698938092"
+          },
+          "en": "Chirping With Glee",
+          "zh_CN": "适趣的韵调",
+          "ja": "気ままなさえずり",
+          "ko": "Chirping With Glee",
+          "zh_TW": "適趣的韻調"
+        },
+        {
+          "length": 113621,
+          "ids": {
+            "ca": "1698938737",
+            "cn": "1698938993",
+            "jp": "1698938837",
+            "kr": "1698951415",
+            "tw": "1698938093"
+          },
+          "en": "Voyage of the Black Crystal",
+          "zh_CN": "黑水晶的远航",
+          "ja": "ブラッククリスタルの航海",
+          "ko": "Voyage of the Black Crystal",
+          "zh_TW": "黑水晶的遠航"
+        },
+        {
+          "length": 89259,
+          "ids": {
+            "ca": "1698938738",
+            "cn": "1698938996",
+            "jp": "1698938847",
+            "kr": "1698951420",
+            "tw": "1698938096"
+          },
+          "en": "Fantastical Fairytale",
+          "zh_CN": "森萃的幻戏",
+          "ja": "森然たる幻想劇",
+          "ko": "Fantastical Fairytale",
+          "zh_TW": "森萃的幻戲"
+        },
+        {
+          "length": 102187,
+          "ids": {
+            "ca": "1698938741",
+            "cn": "1698938997",
+            "jp": "1698938849",
+            "kr": "1698951424",
+            "tw": "1698938099"
+          },
+          "en": "Soothing Slumber",
+          "zh_CN": "澄寂的蜃梦",
+          "ja": "蜃気楼の夢",
+          "ko": "Soothing Slumber",
+          "zh_TW": "澄寂的蜃夢"
+        },
+        {
+          "length": 102699,
+          "ids": {
+            "ca": "1698938745",
+            "cn": "1698938998",
+            "jp": "1698938854",
+            "kr": "1698951431",
+            "tw": "1698938100"
+          },
+          "en": "Pensees tranquilles",
+          "zh_CN": "褪淡的思眷",
+          "ja": "色褪せた想い",
+          "ko": "Pensees tranquilles",
+          "zh_TW": "褪淡的思眷"
+        },
+        {
+          "length": 86886,
+          "ids": {
+            "ca": "1698938868",
+            "cn": "1698939000",
+            "jp": "1698938855",
+            "kr": "1698951433",
+            "tw": "1698938101"
+          },
+          "en": "Les tendres souhaits",
+          "zh_CN": "轻绎的柔愿",
+          "ja": "優しき祈り",
+          "ko": "Les tendres souhaits",
+          "zh_TW": "輕繹的柔願"
+        },
+        {
+          "length": 88269,
+          "ids": {
+            "ca": "1698938876",
+            "cn": "1698939003",
+            "jp": "1698938857",
+            "kr": "1698951678",
+            "tw": "1698938102"
+          },
+          "en": "Astral Chime",
+          "zh_CN": "星芒若铃",
+          "ja": "アストラルチャイム",
+          "ko": "Astral Chime",
+          "zh_TW": "星芒若鈴"
+        },
+        {
+          "length": 85709,
+          "ids": {
+            "ca": "1698938877",
+            "cn": "1698939004",
+            "jp": "1698939018",
+            "kr": "1698951696",
+            "tw": "1698938103"
+          },
+          "en": "Dreamlike Reflection",
+          "zh_CN": "清梦幽思",
+          "ja": "けがれなき夢は儚く",
+          "ko": "Dreamlike Reflection",
+          "zh_TW": "清夢幽思"
+        },
+        {
+          "length": 81003,
+          "ids": {
+            "ca": "1698938879",
+            "cn": "1698939005",
+            "jp": "1698939022",
+            "kr": "1698951702",
+            "tw": "1698938105"
+          },
+          "en": "Journey by the Moonlight",
+          "zh_CN": "月露之行",
+          "ja": "月露の旅",
+          "ko": "Journey by the Moonlight",
+          "zh_TW": "月露之行"
+        },
+        {
+          "length": 94272,
+          "ids": {
+            "ca": "1698938884",
+            "cn": "1698939006",
+            "jp": "1698939026",
+            "kr": "1698951705",
+            "tw": "1698938395"
+          },
+          "en": "The Owls' Nocturne",
+          "zh_CN": "鸱枭孤歌之夜",
+          "ja": "フクロウの夜想曲",
+          "ko": "The Owls' Nocturne",
+          "zh_TW": "鴟梟孤歌之夜"
+        },
+        {
+          "length": 91013,
+          "ids": {
+            "ca": "1698938885",
+            "cn": "1698939010",
+            "jp": "1698939031",
+            "kr": "1698952009",
+            "tw": "1698938399"
+          },
+          "en": "Towers of Afrasiab",
+          "zh_CN": "登临幽悄之塔",
+          "ja": "アフラシアブの塔",
+          "ko": "Towers of Afrasiab",
+          "zh_TW": "登臨幽悄之塔"
+        },
+        {
+          "length": 140045,
+          "ids": {
+            "ca": "1698938887",
+            "cn": "1698939012",
+            "jp": "1698939035",
+            "kr": "1698952014",
+            "tw": "1698938476"
+          },
+          "en": "Foregone Depiction",
+          "zh_CN": "悠远的绘染",
+          "ja": "彼方を描いて",
+          "ko": "Foregone Depiction",
+          "zh_TW": "悠遠的繪染"
+        },
+        {
+          "length": 112024,
+          "ids": {
+            "ca": "1698938890",
+            "cn": "1698939013",
+            "jp": "1698939037",
+            "kr": "1698952020",
+            "tw": "1698938486"
+          },
+          "en": "Distant Portrayal",
+          "zh_CN": "遥天的图景",
+          "ja": "遠い空の情景",
+          "ko": "Distant Portrayal",
+          "zh_TW": "遙天的圖景"
+        },
+        {
+          "length": 82432,
+          "ids": {
+            "ca": "1698938894",
+            "cn": "1698939256",
+            "jp": "1698939043",
+            "kr": "1698952033",
+            "tw": "1698938491"
+          },
+          "en": "Moment of Conflict",
+          "zh_CN": "险峙之刻",
+          "ja": "峻嶮の時",
+          "ko": "Moment of Conflict",
+          "zh_TW": "險峙之刻"
+        },
+        {
+          "length": 62720,
+          "ids": {
+            "ca": "1698939077",
+            "cn": "1698939258",
+            "jp": "1698939108",
+            "kr": "1698952222",
+            "tw": "1698938568"
+          },
+          "en": "Dream of White Branches",
+          "zh_CN": "白枝之梦",
+          "ja": "白い枝の夢",
+          "ko": "Dream of White Branches",
+          "zh_TW": "白枝之夢"
+        },
+        {
+          "length": 101035,
+          "ids": {
+            "ca": "1698939081",
+            "cn": "1698939263",
+            "jp": "1698939113",
+            "kr": "1698952231",
+            "tw": "1698938572"
+          },
+          "en": "With Witty Wit",
+          "zh_CN": "趣求法乐",
+          "ja": "法楽を求む者",
+          "ko": "With Witty Wit",
+          "zh_TW": "趣求法樂"
+        },
+        {
+          "length": 40832,
+          "ids": {
+            "ca": "1698939140",
+            "cn": "1698939264",
+            "jp": "1698939115",
+            "kr": "1698952238",
+            "tw": "1698938580"
+          },
+          "en": "Sipping in the Soft Breeze",
+          "zh_CN": "柔风浅酌",
+          "ja": "そよ風に吹かれて",
+          "ko": "Sipping in the Soft Breeze",
+          "zh_TW": "柔風淺酌"
+        },
+        {
+          "length": 64043,
+          "ids": {
+            "ca": "1698939142",
+            "cn": "1698939268",
+            "jp": "1698939116",
+            "kr": "1698952493",
+            "tw": "1698938581"
+          },
+          "en": "Sanctuary for the Sick",
+          "zh_CN": "杏林静憩",
+          "ja": "杏林に憇う",
+          "ko": "Sanctuary for the Sick",
+          "zh_TW": "杏林靜憩"
+        },
+        {
+          "length": 99000,
+          "ids": {
+            "ca": "1698939146",
+            "cn": "1698939271",
+            "jp": "1698939118",
+            "kr": "1698952510",
+            "tw": "1698938582"
+          },
+          "en": "Tipsy Poetry",
+          "zh_CN": "浮白载笔",
+          "ja": "ほろ酔いの詩",
+          "ko": "Tipsy Poetry",
+          "zh_TW": "浮白載筆"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Tathya-Samvrti",
+        "ja": "俗世諸相",
+        "ko": "속세의 만상",
+        "zh_CN": "世智诸相",
+        "zh_TW": "世智諸相"
+      },
+      "video": {
+        "ja": "https://youtu.be/lXgb7yLXRIQ",
+        "en": "https://youtu.be/7EQFb_anq6Y",
+        "ko": "https://youtu.be/KYgQL8Zhhhs"
+      },
+      "duration": 3998273,
+      "tracks": [
+        {
+          "length": 84560,
+          "ids": {
+            "ca": "1698939147",
+            "cn": "1698939274",
+            "jp": "1698939120",
+            "kr": "1698952697",
+            "tw": "1698938584"
+          },
+          "en": "Melody of Utsava",
+          "zh_CN": "无忧的曲调",
+          "ja": "ウツァヴのメロディー",
+          "ko": "Melody of Utsava",
+          "zh_TW": "無憂的曲調"
+        },
+        {
+          "length": 120597,
+          "ids": {
+            "ca": "1698939149",
+            "cn": "1698939277",
+            "jp": "1698939123",
+            "kr": "1698952703",
+            "tw": "1698938585"
+          },
+          "en": "Descendants of Deshret",
+          "zh_CN": "赤砂的承守",
+          "ja": "赤砂の護り",
+          "ko": "Descendants of Deshret",
+          "zh_TW": "赤砂的承守"
+        },
+        {
+          "length": 116075,
+          "ids": {
+            "ca": "1698939151",
+            "cn": "1698939278",
+            "jp": "1698939126",
+            "kr": "1698952706",
+            "tw": "1698938587"
+          },
+          "en": "Dance of Sabzeruz",
+          "zh_CN": "花与梦的祝诞",
+          "ja": "花と夢の祝福",
+          "ko": "Dance of Sabzeruz",
+          "zh_TW": "花與夢的祝誕"
+        },
+        {
+          "length": 28437,
+          "ids": {
+            "ca": "1698939153",
+            "cn": "1698939281",
+            "jp": "1698939131",
+            "kr": "1698952715",
+            "tw": "1698938588"
+          },
+          "en": "Note of Calamity",
+          "zh_CN": "灾咎之音",
+          "ja": "災禍の音",
+          "ko": "Note of Calamity",
+          "zh_TW": "災咎之音"
+        },
+        {
+          "length": 19328,
+          "ids": {
+            "ca": "1698939156",
+            "cn": "1698939282",
+            "jp": "1698939133",
+            "kr": "1698952941",
+            "tw": "1698938589"
+          },
+          "en": "Foreboding Beat",
+          "zh_CN": "祸兆之律",
+          "ja": "兇変の律動",
+          "ko": "Foreboding Beat",
+          "zh_TW": "禍兆之律"
+        },
+        {
+          "length": 82752,
+          "ids": {
+            "ca": "1698939159",
+            "cn": "1698939283",
+            "jp": "1698939134",
+            "kr": "1698952946",
+            "tw": "1698938590"
+          },
+          "en": "Unrequited Yearning",
+          "zh_CN": "虚愿难遂",
+          "ja": "叶わぬ願い",
+          "ko": "Unrequited Yearning",
+          "zh_TW": "虛願難遂"
+        },
+        {
+          "length": 162347,
+          "ids": {
+            "ca": "1698939161",
+            "cn": "1698939284",
+            "jp": "1698939349",
+            "kr": "1698952952",
+            "tw": "1698938594"
+          },
+          "en": "Eccentric Reception",
+          "zh_CN": "诡越趋迎",
+          "ja": "風変わりな歓迎",
+          "ko": "Eccentric Reception",
+          "zh_TW": "詭越趨迎"
+        },
+        {
+          "length": 129280,
+          "ids": {
+            "ca": "1698939162",
+            "cn": "1698939496",
+            "jp": "1698939353",
+            "kr": "1698952959",
+            "tw": "1698938595"
+          },
+          "en": "Hyakuin of Blossoming Mirage",
+          "zh_CN": "花镜百韵",
+          "ja": "花鏡百韻",
+          "ko": "Hyakuin of Blossoming Mirage",
+          "zh_TW": "花鏡百韻"
+        },
+        {
+          "length": 76992,
+          "ids": {
+            "ca": "1698939164",
+            "cn": "1698939499",
+            "jp": "1698939357",
+            "kr": "1698953211",
+            "tw": "1698938956"
+          },
+          "en": "Moment of Tribulation",
+          "zh_CN": "末劫末见之刻",
+          "ja": "劫末の刻",
+          "ko": "Moment of Tribulation",
+          "zh_TW": "末劫末見之刻"
+        },
+        {
+          "length": 51017,
+          "ids": {
+            "ca": "1698939466",
+            "cn": "1698939500",
+            "jp": "1698939361",
+            "kr": "1698953216",
+            "tw": "1698938963"
+          },
+          "en": "Smiting Scope",
+          "zh_CN": "窥间伺隙",
+          "ja": "牙研ぎ",
+          "ko": "Smiting Scope",
+          "zh_TW": "窺間伺隙"
+        },
+        {
+          "length": 58039,
+          "ids": {
+            "ca": "1698939468",
+            "cn": "1698939501",
+            "jp": "1698939365",
+            "kr": "1698953224",
+            "tw": "1698938964"
+          },
+          "en": "Crumbling Sands",
+          "zh_CN": "炽砂的崩坼",
+          "ja": "崩れゆく熱砂",
+          "ko": "Crumbling Sands",
+          "zh_TW": "熾砂的崩坼"
+        },
+        {
+          "length": 140779,
+          "ids": {
+            "ca": "1698939474",
+            "cn": "1698939502",
+            "jp": "1698939367",
+            "kr": "1698953491",
+            "tw": "1698938967"
+          },
+          "en": "Whisper of Weinlesefest",
+          "zh_CN": "归风的轻语",
+          "ja": "ささめく帰風",
+          "ko": "Whisper of Weinlesefest",
+          "zh_TW": "歸風的輕語"
+        },
+        {
+          "length": 48725,
+          "ids": {
+            "ca": "1698939477",
+            "cn": "1698939505",
+            "jp": "1698939370",
+            "kr": "1698953627",
+            "tw": "1698938971"
+          },
+          "en": "Parcener of Heptas",
+          "zh_CN": "七荣的嗣世",
+          "ja": "七栄の継承者",
+          "ko": "Parcener of Heptas",
+          "zh_TW": "七榮的嗣世"
+        },
+        {
+          "length": 80341,
+          "ids": {
+            "ca": "1698939478",
+            "cn": "1698939507",
+            "jp": "1698939374",
+            "kr": "1698953634",
+            "tw": "1698938972"
+          },
+          "en": "Two Hearts Rejoice",
+          "zh_CN": "况复两心同",
+          "ja": "通じ合う二人",
+          "ko": "Two Hearts Rejoice",
+          "zh_TW": "況復兩心同"
+        },
+        {
+          "length": 115456,
+          "ids": {
+            "ca": "1698939481",
+            "cn": "1698939508",
+            "jp": "1698939586",
+            "kr": "1698953643",
+            "tw": "1698938980"
+          },
+          "en": "The Moving Finger Writes",
+          "zh_CN": "指动字成",
+          "ja": "指先が綴る言葉",
+          "ko": "The Moving Finger Writes",
+          "zh_TW": "指動字成"
+        },
+        {
+          "length": 108336,
+          "ids": {
+            "ca": "1698939486",
+            "cn": "1698939514",
+            "jp": "1698939587",
+            "kr": "1698953651",
+            "tw": "1698939058"
+          },
+          "en": "Inebriation of Raghs-e-Nilou",
+          "zh_CN": "莲光的流沔",
+          "ja": "蓮光に溺れて",
+          "ko": "Inebriation of Raghs-e-Nilou",
+          "zh_TW": "蓮光的流沔"
+        },
+        {
+          "length": 267259,
+          "ids": {
+            "ca": "1698939711",
+            "cn": "1698939515",
+            "jp": "1698939588",
+            "kr": "1698953897",
+            "tw": "1698939062"
+          },
+          "en": "Trifaria Conscientia",
+          "zh_CN": "三时三觉",
+          "ja": "三時三覚",
+          "ko": "Trifaria Conscientia",
+          "zh_TW": "三時三覺"
+        },
+        {
+          "length": 113216,
+          "ids": {
+            "ca": "1698939712",
+            "cn": "1698939518",
+            "jp": "1698939590",
+            "kr": "1698953908",
+            "tw": "1698939063"
+          },
+          "en": "All in One, All in Vain",
+          "zh_CN": "一空一切空",
+          "ja": "一空一切空",
+          "ko": "All in One, All in Vain",
+          "zh_TW": "一空一切空"
+        },
+        {
+          "length": 141589,
+          "ids": {
+            "ca": "1698939714",
+            "cn": "1698939766",
+            "jp": "1698939600",
+            "kr": "1698954053",
+            "tw": "1698939166"
+          },
+          "en": "Heart of Yuugen",
+          "zh_CN": "幽玄有心",
+          "ja": "幽玄有心",
+          "ko": "Heart of Yuugen",
+          "zh_TW": "幽玄有心"
+        },
+        {
+          "length": 216107,
+          "ids": {
+            "ca": "1698939718",
+            "cn": "1698939770",
+            "jp": "1698939603",
+            "kr": "1698954057",
+            "tw": "1698939167"
+          },
+          "en": "Remembrance of Akitsu",
+          "zh_CN": "秋津的思忆",
+          "ja": "秋津の思ひ出",
+          "ko": "Remembrance of Akitsu",
+          "zh_TW": "秋津的思憶"
+        },
+        {
+          "length": 224640,
+          "ids": {
+            "ca": "1698939720",
+            "cn": "1698939772",
+            "jp": "1698939682",
+            "kr": "1698954066",
+            "tw": "1698939170"
+          },
+          "en": "The Blaze Lilies",
+          "zh_CN": "桃枝火鳞",
+          "ja": "桃枝火鱗",
+          "ko": "The Blaze Lilies",
+          "zh_TW": "桃枝火鱗"
+        },
+        {
+          "length": 171051,
+          "ids": {
+            "ca": "1698939721",
+            "cn": "1698939775",
+            "jp": "1698939688",
+            "kr": "1698954072",
+            "tw": "1698939172"
+          },
+          "en": "First Blossom of Spring",
+          "zh_CN": "寒木春华",
+          "ja": "寒木春花",
+          "ko": "First Blossom of Spring",
+          "zh_TW": "寒木春華"
+        },
+        {
+          "length": 148949,
+          "ids": {
+            "ca": "1698939724",
+            "cn": "1698939780",
+            "jp": "1698939694",
+            "kr": "1698954461",
+            "tw": "1698939176"
+          },
+          "en": "The Name Is Legion",
+          "zh_CN": "其名为群",
+          "ja": "その名は、ハイブ",
+          "ko": "The Name Is Legion",
+          "zh_TW": "其名為群"
+        },
+        {
+          "length": 37717,
+          "ids": {
+            "ca": "1698939976",
+            "cn": "1698939783",
+            "jp": "1698939699",
+            "kr": "1698954586",
+            "tw": "1698939179"
+          },
+          "en": "Serenade of the Distant Realm",
+          "zh_CN": "遥世的夜歌",
+          "ja": "遼遠のセレナーデ",
+          "ko": "Serenade of the Distant Realm",
+          "zh_TW": "遙世的夜歌"
+        },
+        {
+          "length": 38933,
+          "ids": {
+            "ca": "1698939983",
+            "cn": "1698939786",
+            "jp": "1698939827",
+            "kr": "1698954588",
+            "tw": "1698939183"
+          },
+          "en": "Occluded Blight",
+          "zh_CN": "缄锁的灾沴",
+          "ja": "閉鎖的災異",
+          "ko": "Occluded Blight",
+          "zh_TW": "緘鎖的災沴"
+        },
+        {
+          "length": 119253,
+          "ids": {
+            "ca": "1698939987",
+            "cn": "1698939949",
+            "jp": "1698939839",
+            "kr": "1698954591",
+            "tw": "1698939187"
+          },
+          "en": "Love Is in the Air",
+          "zh_CN": "风念月思",
+          "ja": "風を憶え、月に想う",
+          "ko": "Love Is in the Air",
+          "zh_TW": "風念月思"
+        },
+        {
+          "length": 89237,
+          "ids": {
+            "ca": "1698939991",
+            "cn": "1698939952",
+            "jp": "1698939842",
+            "kr": "1698954594",
+            "tw": "1698939190"
+          },
+          "en": "Heliacal Path",
+          "zh_CN": "煌绚的旅路",
+          "ja": "煌めく旅路",
+          "ko": "Heliacal Path",
+          "zh_TW": "煌絢的旅路"
+        },
+        {
+          "length": 28875,
+          "ids": {
+            "ca": "1698939994",
+            "cn": "1698939954",
+            "jp": "1698939844",
+            "kr": "1698954595",
+            "tw": "1698939192"
+          },
+          "en": "Glowing Embers",
+          "zh_CN": "初火的残辉",
+          "ja": "ほのおの残暉",
+          "ko": "Glowing Embers",
+          "zh_TW": "初火的殘輝"
+        },
+        {
+          "length": 116040,
+          "ids": {
+            "ca": "1698940001",
+            "cn": "1698939960",
+            "jp": "1698939846",
+            "kr": "1698954604",
+            "tw": "1698939407"
+          },
+          "en": "Purposeful Purity",
+          "zh_CN": "白草的决彻",
+          "ja": "白草の悟り",
+          "ko": "Purposeful Purity",
+          "zh_TW": "白草的決徹"
+        },
+        {
+          "length": 259821,
+          "ids": {
+            "ca": "1698940002",
+            "cn": "1698939964",
+            "jp": "1698939847",
+            "kr": "1698954611",
+            "tw": "1698939410"
+          },
+          "en": "Pulse of Spring",
+          "zh_CN": "春脉如弦",
+          "ja": "春の脈動",
+          "ko": "Pulse of Spring",
+          "zh_TW": "春脈如弦"
+        },
+        {
+          "length": 164864,
+          "ids": {
+            "ca": "1698940216",
+            "cn": "1698939966",
+            "jp": "1698939848",
+            "kr": "1698954614",
+            "tw": "1698939415"
+          },
+          "en": "Coronation of Providence",
+          "zh_CN": "正识的荣冕",
+          "ja": "摂理の栄冠",
+          "ko": "Coronation of Providence",
+          "zh_TW": "正識的榮冕"
+        },
+        {
+          "length": 154219,
+          "ids": {
+            "ca": "1698940221",
+            "cn": "1698939969",
+            "jp": "1698939855",
+            "kr": "1698955099",
+            "tw": "1698939419"
+          },
+          "en": "A Pensive Sigh",
+          "zh_CN": "余叹远昔",
+          "ja": "偲び、ため息",
+          "ko": "A Pensive Sigh",
+          "zh_TW": "餘嘆遠昔"
+        },
+        {
+          "length": 154333,
+          "ids": {
+            "ca": "1698940231",
+            "cn": "1698939972",
+            "jp": "1698940042",
+            "kr": "1698955108",
+            "tw": "1698939422"
+          },
+          "en": "Chasing Starlight With You",
+          "zh_CN": "共逐星华",
+          "ja": "共に星々を追いかけて",
+          "ko": "Chasing Starlight With You",
+          "zh_TW": "共逐星華"
+        },
+        {
+          "length": 129109,
+          "ids": {
+            "ca": "1698940235",
+            "cn": "1698940162",
+            "jp": "1698940045",
+            "kr": "1698955116",
+            "tw": "1698939431"
+          },
+          "en": "Crystalline Reverie",
+          "zh_CN": "清晶的绮梦",
+          "ja": "清き水晶の夢",
+          "ko": "Crystalline Reverie",
+          "zh_TW": "清晶的綺夢"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Anecdotes of Reverie",
+        "ja": "夢想の逸話",
+        "ko": "몽상의 일화",
+        "zh_CN": "遐籁的轶诗",
+        "zh_TW": "遐籟的軼詩"
+      },
+      "video": {
+        "en": "https://youtu.be/YCAzmanvVlY",
+        "ja": "https://youtu.be/16gL1z8oInI",
+        "ko": "https://youtu.be/p4AanTmMw88"
+      },
+      "duration": 894663,
+      "tracks": [
+        {
+          "length": 108923,
+          "ids": {
+            "ca": "1698940236",
+            "cn": "1698940164",
+            "jp": "1698940046",
+            "kr": "1698955119",
+            "tw": "1698939526"
+          },
+          "en": "Dharana Iaksana",
+          "zh_CN": "诸相忆念",
+          "ja": "諸相追憶",
+          "ko": "Dharana Iaksana",
+          "zh_TW": "諸相憶念"
+        },
+        {
+          "length": 81323,
+          "ids": {
+            "ca": "1698940238",
+            "cn": "1698940166",
+            "jp": "1698940047",
+            "kr": "1698955124",
+            "tw": "1698939528"
+          },
+          "en": "Invokation Game",
+          "zh_CN": "召唤王的决意",
+          "ja": "召喚王の決意",
+          "ko": "Invokation Game",
+          "zh_TW": "召喚王的決意"
+        },
+        {
+          "length": 91221,
+          "ids": {
+            "ca": "1698940337",
+            "cn": "1698940168",
+            "jp": "1698940050",
+            "kr": "1698955428",
+            "tw": "1698939530"
+          },
+          "en": "Voyage Suite",
+          "zh_CN": "千景巡歌",
+          "ja": "千景巡礼の歌",
+          "ko": "Voyage Suite",
+          "zh_TW": "千景巡歌"
+        },
+        {
+          "length": 202624,
+          "ids": {
+            "ca": "1698940339",
+            "cn": "1698940172",
+            "jp": "1698940051",
+            "kr": "1698955429",
+            "tw": "1698939534"
+          },
+          "en": "Polumnia Omnia (Performance Version)",
+          "zh_CN": "三千娑世御咏歌 (演绎版)",
+          "ja": "三千娑界の御詠歌 (ライブ編集版)",
+          "ko": "Polumnia Omnia (Performance Version)",
+          "zh_TW": "三千娑世御詠歌 (現場演奏版)"
+        },
+        {
+          "length": 200396,
+          "ids": {
+            "ca": "1698940341",
+            "cn": "1698940174",
+            "jp": "1698940061",
+            "kr": "1698955430",
+            "tw": "1698939537"
+          },
+          "en": "Virtuous Guardian",
+          "zh_CN": "空谷皎皎",
+          "ja": "孤谷白駒",
+          "ko": "Virtuous Guardian",
+          "zh_TW": "空谷皎皎"
+        },
+        {
+          "length": 210176,
+          "ids": {
+            "ca": "1698940358",
+            "cn": "1698940177",
+            "jp": "1698940063",
+            "kr": "1698955436",
+            "tw": "1698939541"
+          },
+          "en": "The Final Feast",
+          "zh_CN": "致终幕的欢宴",
+          "ja": "フィナーレへの歓宴",
+          "ko": "The Final Feast",
+          "zh_TW": "致終幕的歡宴"
+        }
+      ]
+    }
+  ]
+}

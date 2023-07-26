@@ -1,0 +1,376 @@
+{
+  "id": "stellar-moments-volume-2",
+  "title": {
+    "en": "The Stellar Moments Vol. 2",
+    "zh_CN": "闪耀的群星2",
+    "ja": "輝く星々Vol 2",
+    "ko": "빛나는 뭇별2",
+    "zh_TW": "閃耀的群星2"
+  },
+  "game": "genshin_impact",
+  "upc": "3616843837061",
+  "releaseDate": "2022-01-26",
+  "artistName": "HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 21,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1605918576",
+      "cn": "1605793344",
+      "jp": "1605794312",
+      "kr": "1605794452",
+      "tw": "1605794486"
+    }
+  },
+  "colors": {
+    "background": "#2f3859",
+    "colors": [
+      "#fff8ee",
+      "#f6ddbc",
+      "#d5d1d0",
+      "#cebca8"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/cf/56/47cf5662-3429-aede-14a5-b3e432fcab17/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/20/cd/5420cd93-20bb-cfac-46e9-f0330e2f282d/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/8e/eb/d08eebbe-6b08-324e-f615-65a44e482882/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/ca/01/3eca0197-e861-4137-f7e9-2ff578b02cd4/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/15/c3/7615c31d-ad4e-264e-7b75-863613cf4a83/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "The Stellar Moments Vol. 2",
+        "ja": "輝く星々2",
+        "ko": "빛나는 뭇별2",
+        "zh_CN": "闪耀的群星2",
+        "zh_TW": "閃耀的群星2"
+      },
+      "video": {
+        "en": "https://youtu.be/hopQXbkXm94",
+        "ko": "https://youtu.be/0Il1X1qhSXw",
+        "ja": "https://youtu.be/9RGH1j_PIrE"
+      },
+      "duration": 1938983,
+      "tracks": [
+        {
+          "length": 107329,
+          "ids": {
+            "ca": "1605918582",
+            "cn": "1605793660",
+            "jp": "1605794483",
+            "kr": "1605794539",
+            "tw": "1605794493"
+          },
+          "en": "Path of Yaksha",
+          "zh_CN": "捷疾之业",
+          "ja": "捷疾の業",
+          "ko": "Path of Yaksha",
+          "zh_TW": "捷疾之業"
+        },
+        {
+          "length": 86933,
+          "ids": {
+            "ca": "1605918600",
+            "cn": "1605793665",
+            "jp": "1605794491",
+            "kr": "1605794552",
+            "tw": "1605794716"
+          },
+          "en": "Broker Betwixt Life and Death",
+          "zh_CN": "送往迎来",
+          "ja": "生と死の送迎者",
+          "ko": "Broker Betwixt Life and Death",
+          "zh_TW": "送往迎來"
+        },
+        {
+          "length": 92969,
+          "ids": {
+            "ca": "1605918920",
+            "cn": "1605793673",
+            "jp": "1605794494",
+            "kr": "1605794555",
+            "tw": "1605794850"
+          },
+          "en": "Any Last Words?",
+          "zh_CN": "尽在吾辈",
+          "ja": "理が集いし処",
+          "ko": "Any Last Words?",
+          "zh_TW": "盡在吾輩"
+        },
+        {
+          "length": 57985,
+          "ids": {
+            "ca": "1605919032",
+            "cn": "1605793676",
+            "jp": "1605794711",
+            "kr": "1605794771",
+            "tw": "1605794980"
+          },
+          "en": "Shadow of Nemesis",
+          "zh_CN": "暗夜幽影",
+          "ja": "暗闇に現れし影",
+          "ko": "Shadow of Nemesis",
+          "zh_TW": "暗夜幽影"
+        },
+        {
+          "length": 61994,
+          "ids": {
+            "ca": "1605919039",
+            "cn": "1605793964",
+            "jp": "1605794844",
+            "kr": "1605794777",
+            "tw": "1605794995"
+          },
+          "en": "Marching of Xiezhi",
+          "zh_CN": "法兽趵趵",
+          "ja": "法獣の歩み",
+          "ko": "Marching of Xiezhi",
+          "zh_TW": "法獸趵趵"
+        },
+        {
+          "length": 122991,
+          "ids": {
+            "ca": "1605919051",
+            "cn": "1605794052",
+            "jp": "1605794851",
+            "kr": "1605794786",
+            "tw": "1605795265"
+          },
+          "en": "The Frozen Emblem",
+          "zh_CN": "冰封的徽记",
+          "ja": "氷封のエムブレム",
+          "ko": "The Frozen Emblem",
+          "zh_TW": "冰封的徽記"
+        },
+        {
+          "length": 109500,
+          "ids": {
+            "ca": "1605919369",
+            "cn": "1605794061",
+            "jp": "1605794978",
+            "kr": "1605794795",
+            "tw": "1605795380"
+          },
+          "en": "Dance of Aphros",
+          "zh_CN": "浪沫起舞",
+          "ja": "波沫の舞",
+          "ko": "Dance of Aphros",
+          "zh_TW": "浪沫起舞"
+        },
+        {
+          "length": 68984,
+          "ids": {
+            "ca": "1605919379",
+            "cn": "1605794170",
+            "jp": "1605794990",
+            "kr": "1605795102",
+            "tw": "1605795577"
+          },
+          "en": "Iridescent Summer Day",
+          "zh_CN": "夏日虹彩",
+          "ja": "虹色サマーデイ",
+          "ko": "Iridescent Summer Day",
+          "zh_TW": "夏日虹彩"
+        },
+        {
+          "length": 100981,
+          "ids": {
+            "ca": "1605919637",
+            "cn": "1605794181",
+            "jp": "1605794998",
+            "kr": "1605795124",
+            "tw": "1605795589"
+          },
+          "en": "Drifter's Destiny",
+          "zh_CN": "荒波椛叶",
+          "ja": "荒波に漂う紅葉",
+          "ko": "Drifter's Destiny",
+          "zh_TW": "荒波椛葉"
+        },
+        {
+          "length": 116474,
+          "ids": {
+            "ca": "1605919654",
+            "cn": "1605794190",
+            "jp": "1605795267",
+            "kr": "1605795280",
+            "tw": "1605795597"
+          },
+          "en": "Flow of Autumn Wind",
+          "zh_CN": "流风无涯",
+          "ja": "顛沛流浪",
+          "ko": "Flow of Autumn Wind",
+          "zh_TW": "流風無涯"
+        },
+        {
+          "length": 144001,
+          "ids": {
+            "ca": "1605919817",
+            "cn": "1605794192",
+            "jp": "1605795373",
+            "kr": "1605795340",
+            "tw": "1605795835"
+          },
+          "en": "Shirasagi Princess",
+          "zh_CN": "风仪之舞",
+          "ja": "風儀の舞",
+          "ko": "Shirasagi Princess",
+          "zh_TW": "風儀之舞"
+        },
+        {
+          "length": 60995,
+          "ids": {
+            "ca": "1605919832",
+            "cn": "1605794498",
+            "jp": "1605795390",
+            "kr": "1605795342",
+            "tw": "1605796056"
+          },
+          "en": "Muji-Muji Chaos!",
+          "zh_CN": "貉貉大作战",
+          "ja": "むじむじ大作戦",
+          "ko": "Muji-Muji Chaos!",
+          "zh_TW": "貉貉大作戰"
+        },
+        {
+          "length": 69242,
+          "ids": {
+            "ca": "1605920079",
+            "cn": "1605794501",
+            "jp": "1605795580",
+            "kr": "1605795349",
+            "tw": "1605796079"
+          },
+          "en": "Eternity in a Moment",
+          "zh_CN": "霎那隽永",
+          "ja": "瞬きの永遠",
+          "ko": "Eternity in a Moment",
+          "zh_TW": "霎那雋永"
+        },
+        {
+          "length": 99985,
+          "ids": {
+            "ca": "1605920093",
+            "cn": "1605794507",
+            "jp": "1605795590",
+            "kr": "1605795355",
+            "tw": "1605796281"
+          },
+          "en": "Blossoms of Summer Night",
+          "zh_CN": "硝华流焰",
+          "ja": "満開の焔硝",
+          "ko": "Blossoms of Summer Night",
+          "zh_TW": "硝華流焰"
+        },
+        {
+          "length": 72004,
+          "ids": {
+            "ca": "1605920102",
+            "cn": "1605794517",
+            "jp": "1605795593",
+            "kr": "1605795712",
+            "tw": "1605796292"
+          },
+          "en": "Will of Thunder",
+          "zh_CN": "轰雷的意志",
+          "ja": "轟雷の意志",
+          "ko": "Will of Thunder",
+          "zh_TW": "轟雷的意志"
+        },
+        {
+          "length": 62493,
+          "ids": {
+            "ca": "1605920381",
+            "cn": "1605794824",
+            "jp": "1605795828",
+            "kr": "1605795762",
+            "tw": "1605796426"
+          },
+          "en": "Good Hunting on a New Horizon",
+          "zh_CN": "新世界的猎手",
+          "ja": "新世界のハンター",
+          "ko": "Good Hunting on a New Horizon",
+          "zh_TW": "新世界的獵手"
+        },
+        {
+          "length": 98945,
+          "ids": {
+            "ca": "1605920398",
+            "cn": "1605794920",
+            "jp": "1605795838",
+            "kr": "1605795766",
+            "tw": "1605796431"
+          },
+          "en": "Tactician's Grit",
+          "zh_CN": "聪明徇智",
+          "ja": "有智高才",
+          "ko": "Tactician's Grit",
+          "zh_TW": "聰明徇智"
+        },
+        {
+          "length": 105034,
+          "ids": {
+            "ca": "1605920706",
+            "cn": "1605794926",
+            "jp": "1605796062",
+            "kr": "1605795939",
+            "tw": "1605796442"
+          },
+          "en": "A Glorious Awakening",
+          "zh_CN": "眠龙醒心",
+          "ja": "睡竜の目覚め",
+          "ko": "A Glorious Awakening",
+          "zh_TW": "眠龍醒心"
+        },
+        {
+          "length": 61985,
+          "ids": {
+            "ca": "1605920713",
+            "cn": "1605794939",
+            "jp": "1605796077",
+            "kr": "1605795943",
+            "tw": "1605796778"
+          },
+          "en": "Devotion of the Keeper",
+          "zh_CN": "赤胆昭忠",
+          "ja": "忠魂義胆",
+          "ko": "Devotion of the Keeper",
+          "zh_TW": "赤膽昭忠"
+        },
+        {
+          "length": 83152,
+          "ids": {
+            "ca": "1605920723",
+            "cn": "1605795135",
+            "jp": "1605796084",
+            "kr": "1605795952",
+            "tw": "1605796787"
+          },
+          "en": "Awake From a Nightmare",
+          "zh_CN": "怅然之梦",
+          "ja": "悽愴たる夢",
+          "ko": "Awake From a Nightmare",
+          "zh_TW": "悵然之夢"
+        },
+        {
+          "length": 155007,
+          "ids": {
+            "ca": "1605920735",
+            "cn": "1605795153",
+            "jp": "1605796284",
+            "kr": "1605795955",
+            "tw": "1605796791"
+          },
+          "en": "Termination of Desires",
+          "zh_CN": "何妄何执",
+          "ja": "妄念と執念",
+          "ko": "Termination of Desires",
+          "zh_TW": "何妄何執"
+        }
+      ]
+    }
+  ]
+}

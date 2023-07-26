@@ -1,0 +1,995 @@
+{
+  "id": "islands-of-the-lost-and-forgotten",
+  "title": {
+    "en": "Islands of the Lost and Forgotten",
+    "zh_CN": "佚落迁忘之岛",
+    "ja": "遺失と忘却の島",
+    "ko": "기억에서 잃어버린 섬",
+    "zh_TW": "佚落遷忘之島"
+  },
+  "game": "genshin_impact",
+  "upc": "3616846231064",
+  "releaseDate": "2022-04-13",
+  "artistName": "HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 60,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1618475874",
+      "cn": "1618534475",
+      "jp": "1618521824",
+      "kr": "1618734435",
+      "tw": "1618469444"
+    }
+  },
+  "colors": {
+    "background": "#275797",
+    "colors": [
+      "#f8ffff",
+      "#bfceec",
+      "#ceddea",
+      "#a0b6db"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/d9/af/42d9afe1-2bfb-4209-0049-6f6869c43435/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b9/d1/94/b9d194ad-043a-a626-dab8-3b2a69671af9/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/03/1c/30/031c300d-ddf2-b4b2-9f1d-fc971e2d53f0/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d6/e1/3a/d6e13a08-54de-3c1e-5e29-a4633e81c6bf/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/1e/a8/411ea84b-0062-99a4-099d-d29740510e82/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "Isles of Serenity and Amnesia",
+        "ja": "忘失と瞑想の島",
+        "ko": "유망과 사색의 섬",
+        "zh_CN": "遗忘与冥思的岛屿",
+        "zh_TW": "遺忘與冥思的島嶼"
+      },
+      "video": {
+        "en": "https://youtu.be/S2q7r4_UaYM",
+        "ko": "https://youtu.be/xzbqOKulVoE",
+        "ja": "https://youtu.be/lm3N6cqrJ0k"
+      },
+      "duration": 2722823,
+      "tracks": [
+        {
+          "length": 91200,
+          "ids": {
+            "ca": "1618476062",
+            "cn": "1618534927",
+            "jp": "1618521826",
+            "kr": "1618734453",
+            "tw": "1618469453"
+          },
+          "en": "Island of Crystal and Pearl",
+          "zh_CN": "海祇之岛",
+          "ja": "海祇之島",
+          "ko": "Island of Crystal and Pearl",
+          "zh_TW": "海祇之島"
+        },
+        {
+          "length": 83567,
+          "ids": {
+            "ca": "1618476205",
+            "cn": "1618534932",
+            "jp": "1618521829",
+            "kr": "1618734623",
+            "tw": "1618469455"
+          },
+          "en": "Illuminated Coral Palace",
+          "zh_CN": "溢彩华庭",
+          "ja": "七彩の庭園",
+          "ko": "Illuminated Coral Palace",
+          "zh_TW": "溢彩華庭"
+        },
+        {
+          "length": 65600,
+          "ids": {
+            "ca": "1618476206",
+            "cn": "1618534936",
+            "jp": "1618521843",
+            "kr": "1618734730",
+            "tw": "1618469460"
+          },
+          "en": "Peaceful Wishes",
+          "zh_CN": "和平的祝愿",
+          "ja": "平和の祝福",
+          "ko": "Peaceful Wishes",
+          "zh_TW": "和平的祝願"
+        },
+        {
+          "length": 68167,
+          "ids": {
+            "ca": "1618476213",
+            "cn": "1618534939",
+            "jp": "1618522064",
+            "kr": "1618734736",
+            "tw": "1618469461"
+          },
+          "en": "A Tranquil Town",
+          "zh_CN": "远离尘嚣",
+          "ja": "喧騒を離れて",
+          "ko": "A Tranquil Town",
+          "zh_TW": "遠離塵囂"
+        },
+        {
+          "length": 79912,
+          "ids": {
+            "ca": "1618476639",
+            "cn": "1618534946",
+            "jp": "1618522066",
+            "kr": "1618734743",
+            "tw": "1618469826"
+          },
+          "en": "Stroll Along the Beach",
+          "zh_CN": "信步行时",
+          "ja": "水辺を流離う",
+          "ko": "Stroll Along the Beach",
+          "zh_TW": "信步行時"
+        },
+        {
+          "length": 98152,
+          "ids": {
+            "ca": "1618476648",
+            "cn": "1618534948",
+            "jp": "1618522067",
+            "kr": "1618734754",
+            "tw": "1618469828"
+          },
+          "en": "In a Harmonious Atmosphere",
+          "zh_CN": "清潭镜澄",
+          "ja": "澄みわたる碧潭",
+          "ko": "In a Harmonious Atmosphere",
+          "zh_TW": "清潭鏡澄"
+        },
+        {
+          "length": 141399,
+          "ids": {
+            "ca": "1618476876",
+            "cn": "1618534952",
+            "jp": "1618522073",
+            "kr": "1618734972",
+            "tw": "1618469836"
+          },
+          "en": "Stories Untold",
+          "zh_CN": "待诉说的传说",
+          "ja": "語りかける伝説",
+          "ko": "Stories Untold",
+          "zh_TW": "待訴說的傳說"
+        },
+        {
+          "length": 117406,
+          "ids": {
+            "ca": "1618476889",
+            "cn": "1618534955",
+            "jp": "1618522077",
+            "kr": "1618734985",
+            "tw": "1618469840"
+          },
+          "en": "What Now Remains",
+          "zh_CN": "唯余遗恨",
+          "ja": "残されし遺恨",
+          "ko": "What Now Remains",
+          "zh_TW": "唯餘遺恨"
+        },
+        {
+          "length": 87033,
+          "ids": {
+            "ca": "1618476899",
+            "cn": "1618535620",
+            "jp": "1618522081",
+            "kr": "1618734991",
+            "tw": "1618469842"
+          },
+          "en": "Roaming in Silence",
+          "zh_CN": "良夜岑寂",
+          "ja": "月夜の静寂",
+          "ko": "Roaming in Silence",
+          "zh_TW": "良夜岑寂"
+        },
+        {
+          "length": 69460,
+          "ids": {
+            "ca": "1618476901",
+            "cn": "1618535623",
+            "jp": "1618522537",
+            "kr": "1618734994",
+            "tw": "1618469845"
+          },
+          "en": "Lonely Journey",
+          "zh_CN": "茕茕行路",
+          "ja": "孤独の行路",
+          "ko": "Lonely Journey",
+          "zh_TW": "煢煢行路"
+        },
+        {
+          "length": 70545,
+          "ids": {
+            "ca": "1618477297",
+            "cn": "1618535630",
+            "jp": "1618522556",
+            "kr": "1618735238",
+            "tw": "1618469846"
+          },
+          "en": "Swath of Desolation",
+          "zh_CN": "淡月疏星共寂寥",
+          "ja": "寥々たる月星",
+          "ko": "Swath of Desolation",
+          "zh_TW": "淡月疏星共寂寥"
+        },
+        {
+          "length": 102954,
+          "ids": {
+            "ca": "1618477476",
+            "cn": "1618535638",
+            "jp": "1618522561",
+            "kr": "1618735242",
+            "tw": "1618469853"
+          },
+          "en": "Echoes of Solitude",
+          "zh_CN": "孤独的回响",
+          "ja": "寂寞たる響き",
+          "ko": "Echoes of Solitude",
+          "zh_TW": "孤獨的迴響"
+        },
+        {
+          "length": 102914,
+          "ids": {
+            "ca": "1618477484",
+            "cn": "1618535645",
+            "jp": "1618522687",
+            "kr": "1618735247",
+            "tw": "1618469855"
+          },
+          "en": "Mournful Whisperings",
+          "zh_CN": "悲切的低语",
+          "ja": "悲しき囁き",
+          "ko": "Mournful Whisperings",
+          "zh_TW": "悲切的低語"
+        },
+        {
+          "length": 107918,
+          "ids": {
+            "ca": "1618477815",
+            "cn": "1618536067",
+            "jp": "1618522697",
+            "kr": "1618735254",
+            "tw": "1618470097"
+          },
+          "en": "Desire for Calm",
+          "zh_CN": "平静的心绪",
+          "ja": "凪いだ心",
+          "ko": "Desire for Calm",
+          "zh_TW": "平靜的心緒"
+        },
+        {
+          "length": 61675,
+          "ids": {
+            "ca": "1618477833",
+            "cn": "1618536070",
+            "jp": "1618522715",
+            "kr": "1618735477",
+            "tw": "1618470098"
+          },
+          "en": "A Fragment of Peace",
+          "zh_CN": "宁然一隅",
+          "ja": "閑静の片隅",
+          "ko": "A Fragment of Peace",
+          "zh_TW": "寧然一隅"
+        },
+        {
+          "length": 60983,
+          "ids": {
+            "ca": "1618478298",
+            "cn": "1618536076",
+            "jp": "1618522966",
+            "kr": "1618735483",
+            "tw": "1618470107"
+          },
+          "en": "Slumbering Land of Neko",
+          "zh_CN": "寝子的梦",
+          "ja": "寝子の夢",
+          "ko": "Slumbering Land of Neko",
+          "zh_TW": "寢子的夢"
+        },
+        {
+          "length": 85872,
+          "ids": {
+            "ca": "1618478668",
+            "cn": "1618536082",
+            "jp": "1618522969",
+            "kr": "1618735494",
+            "tw": "1618470110"
+          },
+          "en": "Savory Treat",
+          "zh_CN": "俗世佳肴",
+          "ja": "俗世の佳肴",
+          "ko": "Savory Treat",
+          "zh_TW": "俗世佳餚"
+        },
+        {
+          "length": 93630,
+          "ids": {
+            "ca": "1618479187",
+            "cn": "1618536085",
+            "jp": "1618523227",
+            "kr": "1618735498",
+            "tw": "1618470113"
+          },
+          "en": "Narukami-Bayashi",
+          "zh_CN": "鸣神囃子",
+          "ja": "鳴神囃子",
+          "ko": "Narukami-Bayashi",
+          "zh_TW": "鳴神囃子"
+        },
+        {
+          "length": 74312,
+          "ids": {
+            "ca": "1618479206",
+            "cn": "1618536426",
+            "jp": "1618523228",
+            "kr": "1618735500",
+            "tw": "1618470122"
+          },
+          "en": "In a Cautious Way",
+          "zh_CN": "谨言慎行",
+          "ja": "謹言慎行",
+          "ko": "In a Cautious Way",
+          "zh_TW": "謹言慎行"
+        },
+        {
+          "length": 84449,
+          "ids": {
+            "ca": "1618480088",
+            "cn": "1618536557",
+            "jp": "1618523233",
+            "kr": "1618735503",
+            "tw": "1618470308"
+          },
+          "en": "Silent Seclusion",
+          "zh_CN": "静思之所",
+          "ja": "静思の場",
+          "ko": "Silent Seclusion",
+          "zh_TW": "靜思之所"
+        },
+        {
+          "length": 84669,
+          "ids": {
+            "ca": "1618480106",
+            "cn": "1618536574",
+            "jp": "1618523242",
+            "kr": "1618735505",
+            "tw": "1618470310"
+          },
+          "en": "Contemplation on Eternity",
+          "zh_CN": "对永恒的冥想",
+          "ja": "永遠への冥想",
+          "ko": "Contemplation on Eternity",
+          "zh_TW": "對永恆的冥想"
+        },
+        {
+          "length": 69818,
+          "ids": {
+            "ca": "1618480546",
+            "cn": "1618536646",
+            "jp": "1618523534",
+            "kr": "1618735778",
+            "tw": "1618470314"
+          },
+          "en": "A Sepulchral Gloom",
+          "zh_CN": "如堕霓雾",
+          "ja": "虹に堕つるが如く",
+          "ko": "A Sepulchral Gloom",
+          "zh_TW": "如墮霓霧"
+        },
+        {
+          "length": 128157,
+          "ids": {
+            "ca": "1618480787",
+            "cn": "1618536651",
+            "jp": "1618523621",
+            "kr": "1618735784",
+            "tw": "1618470317"
+          },
+          "en": "When All Has Elapsed",
+          "zh_CN": "物是人非",
+          "ja": "物是にして人非なり",
+          "ko": "When All Has Elapsed",
+          "zh_TW": "物是人非"
+        },
+        {
+          "length": 137709,
+          "ids": {
+            "ca": "1618480796",
+            "cn": "1618536883",
+            "jp": "1618523623",
+            "kr": "1618735789",
+            "tw": "1618470318"
+          },
+          "en": "Sorrows of Strays",
+          "zh_CN": "潸怅的幽影",
+          "ja": "哀しみの幽影",
+          "ko": "Sorrows of Strays",
+          "zh_TW": "潸悵的幽影"
+        },
+        {
+          "length": 51195,
+          "ids": {
+            "ca": "1618481078",
+            "cn": "1618536966",
+            "jp": "1618523810",
+            "kr": "1618735793",
+            "tw": "1618470321"
+          },
+          "en": "Misty Truth",
+          "zh_CN": "雾锁烟迷",
+          "ja": "雲霧に覆われて",
+          "ko": "Misty Truth",
+          "zh_TW": "霧鎖煙迷"
+        },
+        {
+          "length": 115976,
+          "ids": {
+            "ca": "1618481094",
+            "cn": "1618536980",
+            "jp": "1618523941",
+            "kr": "1618735795",
+            "tw": "1618470324"
+          },
+          "en": "Wandering in the Mist",
+          "zh_CN": "弭节徘徊",
+          "ja": "留まる遊歩",
+          "ko": "Wandering in the Mist",
+          "zh_TW": "弭節徘徊"
+        },
+        {
+          "length": 119304,
+          "ids": {
+            "ca": "1618481442",
+            "cn": "1618537179",
+            "jp": "1618523944",
+            "kr": "1618736089",
+            "tw": "1618470327"
+          },
+          "en": "Walking a Pathless Path",
+          "zh_CN": "曲径探幽",
+          "ja": "曲径探幽",
+          "ko": "Walking a Pathless Path",
+          "zh_TW": "曲徑探幽"
+        },
+        {
+          "length": 90559,
+          "ids": {
+            "ca": "1618481448",
+            "cn": "1618537330",
+            "jp": "1618524133",
+            "kr": "1618736091",
+            "tw": "1618470333"
+          },
+          "en": "Fading Memories",
+          "zh_CN": "褪淡的余忆",
+          "ja": "色褪せた追憶",
+          "ko": "Fading Memories",
+          "zh_TW": "褪淡的餘憶"
+        },
+        {
+          "length": 88874,
+          "ids": {
+            "ca": "1618481459",
+            "cn": "1618537336",
+            "jp": "1618524139",
+            "kr": "1618736092",
+            "tw": "1618470334"
+          },
+          "en": "A Memorable Fancy",
+          "zh_CN": "温情的遥忆",
+          "ja": "温かき思い出",
+          "ko": "A Memorable Fancy",
+          "zh_TW": "溫情的遙憶"
+        },
+        {
+          "length": 89414,
+          "ids": {
+            "ca": "1618481737",
+            "cn": "1618537355",
+            "jp": "1618524346",
+            "kr": "1618736097",
+            "tw": "1618470732"
+          },
+          "en": "Ruu's Melody",
+          "zh_CN": "阿瑠的歌",
+          "ja": "ルーのメロディー",
+          "ko": "Ruu's Melody",
+          "zh_TW": "阿瑠的歌"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Beneath the Abyssal Depth",
+        "ja": "海淵の下",
+        "ko": "해연의 밑",
+        "zh_CN": "海渊之下",
+        "zh_TW": "海淵之下"
+      },
+      "video": {
+        "en": "https://youtu.be/skI5KmOIHl4",
+        "ko": "https://youtu.be/MdQxrEb-s7c",
+        "ja": "https://youtu.be/K8KA5kVpjAs"
+      },
+      "duration": 2623479,
+      "tracks": [
+        {
+          "length": 150375,
+          "ids": {
+            "ca": "1618481755",
+            "cn": "1618537478",
+            "jp": "1618524460",
+            "kr": "1618736100",
+            "tw": "1618470740"
+          },
+          "en": "Pathway to the Hidden Isles",
+          "zh_CN": "狭径缒幽",
+          "ja": "深奥に落つ細径",
+          "ko": "Pathway to the Hidden Isles",
+          "zh_TW": "狹徑縋幽"
+        },
+        {
+          "length": 134295,
+          "ids": {
+            "ca": "1618481980",
+            "cn": "1618537479",
+            "jp": "1618524465",
+            "kr": "1618736288",
+            "tw": "1618470745"
+          },
+          "en": "Sink into Oblivion",
+          "zh_CN": "湮没的忆念",
+          "ja": "消滅した記憶",
+          "ko": "Sink into Oblivion",
+          "zh_TW": "湮沒的憶念"
+        },
+        {
+          "length": 108128,
+          "ids": {
+            "ca": "1618481991",
+            "cn": "1618537481",
+            "jp": "1618524469",
+            "kr": "1618736305",
+            "tw": "1618470750"
+          },
+          "en": "The Abysmal Region",
+          "zh_CN": "重渊之深",
+          "ja": "奥深き淵",
+          "ko": "The Abysmal Region",
+          "zh_TW": "重淵之深"
+        },
+        {
+          "length": 151017,
+          "ids": {
+            "ca": "1618481996",
+            "cn": "1618537486",
+            "jp": "1618524475",
+            "kr": "1618736309",
+            "tw": "1618470755"
+          },
+          "en": "The Glooming Light",
+          "zh_CN": "晦蒙幽光",
+          "ja": "暗き幽光",
+          "ko": "The Glooming Light",
+          "zh_TW": "晦蒙幽光"
+        },
+        {
+          "length": 103895,
+          "ids": {
+            "ca": "1618482302",
+            "cn": "1618537495",
+            "jp": "1618524939",
+            "kr": "1618736526",
+            "tw": "1618470977"
+          },
+          "en": "The Shallow Melancholy",
+          "zh_CN": "游旅哀丝",
+          "ja": "旅の哀しき音",
+          "ko": "The Shallow Melancholy",
+          "zh_TW": "遊旅哀絲"
+        },
+        {
+          "length": 104987,
+          "ids": {
+            "ca": "1618482430",
+            "cn": "1618537496",
+            "jp": "1618524952",
+            "kr": "1618736531",
+            "tw": "1618471056"
+          },
+          "en": "Drops of Time",
+          "zh_CN": "逝川流光",
+          "ja": "過ぎ去る流光",
+          "ko": "Drops of Time",
+          "zh_TW": "逝川流光"
+        },
+        {
+          "length": 122909,
+          "ids": {
+            "ca": "1618482443",
+            "cn": "1618537499",
+            "jp": "1618524956",
+            "kr": "1618736536",
+            "tw": "1618471062"
+          },
+          "en": "Evanescent Moments",
+          "zh_CN": "惚恍疑梦",
+          "ja": "恍惚たる夢",
+          "ko": "Evanescent Moments",
+          "zh_TW": "惚恍疑夢"
+        },
+        {
+          "length": 115462,
+          "ids": {
+            "ca": "1618482773",
+            "cn": "1618537932",
+            "jp": "1618524965",
+            "kr": "1618736543",
+            "tw": "1618471079"
+          },
+          "en": "A Glimpse of Old Dreams",
+          "zh_CN": "尘梦迷漾",
+          "ja": "眩惑の幻",
+          "ko": "A Glimpse of Old Dreams",
+          "zh_TW": "塵夢迷漾"
+        },
+        {
+          "length": 112610,
+          "ids": {
+            "ca": "1618482926",
+            "cn": "1618537934",
+            "jp": "1618525269",
+            "kr": "1618736552",
+            "tw": "1618471081"
+          },
+          "en": "Like in a Haze",
+          "zh_CN": "雾沉海瞑",
+          "ja": "天地晦冥",
+          "ko": "Like in a Haze",
+          "zh_TW": "霧沉海瞑"
+        },
+        {
+          "length": 75922,
+          "ids": {
+            "ca": "1618483241",
+            "cn": "1618537941",
+            "jp": "1618525276",
+            "kr": "1618736946",
+            "tw": "1618471084"
+          },
+          "en": "Chthonian Voices",
+          "zh_CN": "冥幽的细语",
+          "ja": "幽冥の囁き",
+          "ko": "Chthonian Voices",
+          "zh_TW": "冥幽的細語"
+        },
+        {
+          "length": 92915,
+          "ids": {
+            "ca": "1618483253",
+            "cn": "1618537944",
+            "jp": "1618525280",
+            "kr": "1618736952",
+            "tw": "1618471326"
+          },
+          "en": "The Gaze of the Ancients",
+          "zh_CN": "逝往的凝望",
+          "ja": "過ぎ去った日を遠く見つめて",
+          "ko": "The Gaze of the Ancients",
+          "zh_TW": "逝往的凝望"
+        },
+        {
+          "length": 105924,
+          "ids": {
+            "ca": "1618483479",
+            "cn": "1618538226",
+            "jp": "1618525294",
+            "kr": "1618736961",
+            "tw": "1618471328"
+          },
+          "en": "Soft Moans of the Remains",
+          "zh_CN": "荒墟的缅述",
+          "ja": "廃墟の叙述",
+          "ko": "Soft Moans of the Remains",
+          "zh_TW": "荒墟的緬述"
+        },
+        {
+          "length": 94154,
+          "ids": {
+            "ca": "1618483488",
+            "cn": "1618538230",
+            "jp": "1618525664",
+            "kr": "1618737249",
+            "tw": "1618471355"
+          },
+          "en": "The Long Dark Night",
+          "zh_CN": "长夜难明",
+          "ja": "無明長夜",
+          "ko": "The Long Dark Night",
+          "zh_TW": "長夜難明"
+        },
+        {
+          "length": 118341,
+          "ids": {
+            "ca": "1618483500",
+            "cn": "1618538233",
+            "jp": "1618525667",
+            "kr": "1618737257",
+            "tw": "1618471543"
+          },
+          "en": "A Dim Echo of the Past",
+          "zh_CN": "昔时颓响",
+          "ja": "往時の余韻",
+          "ko": "A Dim Echo of the Past",
+          "zh_TW": "昔時頹響"
+        },
+        {
+          "length": 120873,
+          "ids": {
+            "ca": "1618483842",
+            "cn": "1618538244",
+            "jp": "1618525668",
+            "kr": "1618737261",
+            "tw": "1618471548"
+          },
+          "en": "In the Brink of Time",
+          "zh_CN": "狭间的萦思",
+          "ja": "狭間の懸念",
+          "ko": "In the Brink of Time",
+          "zh_TW": "狹間的縈思"
+        },
+        {
+          "length": 138020,
+          "ids": {
+            "ca": "1618483850",
+            "cn": "1618538469",
+            "jp": "1618525675",
+            "kr": "1618737269",
+            "tw": "1618471553"
+          },
+          "en": "Drift Along the Lethe",
+          "zh_CN": "沉流之航",
+          "ja": "暗流への航行",
+          "ko": "Drift Along the Lethe",
+          "zh_TW": "沉流之航"
+        },
+        {
+          "length": 118604,
+          "ids": {
+            "ca": "1618484087",
+            "cn": "1618538473",
+            "jp": "1618525679",
+            "kr": "1618737440",
+            "tw": "1618471559"
+          },
+          "en": "Now and Forevermore",
+          "zh_CN": "无明无夜",
+          "ja": "昼夜を分かたず",
+          "ko": "Now and Forevermore",
+          "zh_TW": "無明無夜"
+        },
+        {
+          "length": 132948,
+          "ids": {
+            "ca": "1618484092",
+            "cn": "1618538482",
+            "jp": "1618525682",
+            "kr": "1618737445",
+            "tw": "1618471560"
+          },
+          "en": "At Dawn and Dusk",
+          "zh_CN": "昏晓流易",
+          "ja": "明暮は移り行く",
+          "ko": "At Dawn and Dusk",
+          "zh_TW": "昏曉流易"
+        },
+        {
+          "length": 134331,
+          "ids": {
+            "ca": "1618484096",
+            "cn": "1618538487",
+            "jp": "1618526114",
+            "kr": "1618737447",
+            "tw": "1618471564"
+          },
+          "en": "Tales of Woe",
+          "zh_CN": "哀致渊永",
+          "ja": "永遠なる哀しき淵",
+          "ko": "Tales of Woe",
+          "zh_TW": "哀致淵永"
+        },
+        {
+          "length": 135148,
+          "ids": {
+            "ca": "1618484323",
+            "cn": "1618538491",
+            "jp": "1618526120",
+            "kr": "1618737449",
+            "tw": "1618471866"
+          },
+          "en": "Tearless Souls of Byakuya",
+          "zh_CN": "白夜的子民",
+          "ja": "白夜国の民",
+          "ko": "Tearless Souls of Byakuya",
+          "zh_TW": "白夜的子民"
+        },
+        {
+          "length": 126267,
+          "ids": {
+            "ca": "1618484331",
+            "cn": "1618538831",
+            "jp": "1618526132",
+            "kr": "1618737732",
+            "tw": "1618471871"
+          },
+          "en": "The Realm of Tokoyo",
+          "zh_CN": "常世之国",
+          "ja": "常世之国",
+          "ko": "The Realm of Tokoyo",
+          "zh_TW": "常世之國"
+        },
+        {
+          "length": 126354,
+          "ids": {
+            "ca": "1618484340",
+            "cn": "1618538848",
+            "jp": "1618526438",
+            "kr": "1618737737",
+            "tw": "1618471880"
+          },
+          "en": "Hope or Nostalgia",
+          "zh_CN": "祈望与乡魂",
+          "ja": "祈望と故郷の魂",
+          "ko": "Hope or Nostalgia",
+          "zh_TW": "祈望與鄉魂"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Battles of Inazuma 2",
+        "ja": "稲妻征戦記2",
+        "ko": "이나즈마 전쟁기2",
+        "zh_CN": "稻妻征战记2",
+        "zh_TW": "稻妻征戰記2"
+      },
+      "video": {
+        "en": "https://youtu.be/QrSeAOUZpeQ",
+        "ko": "https://youtu.be/Con02Vzb4iE",
+        "ja": "https://youtu.be/aLexBjZ_8uA"
+      },
+      "duration": 1614631,
+      "tracks": [
+        {
+          "length": 207424,
+          "ids": {
+            "ca": "1618484344",
+            "cn": "1618538855",
+            "jp": "1618526454",
+            "kr": "1618737740",
+            "tw": "1618471883"
+          },
+          "en": "Chrysalis Suspirii",
+          "zh_CN": "哀息之茧",
+          "ja": "嘆息のまゆ",
+          "ko": "Chrysalis Suspirii",
+          "zh_TW": "哀息之繭"
+        },
+        {
+          "length": 182629,
+          "ids": {
+            "ca": "1618484616",
+            "cn": "1618539100",
+            "jp": "1618526586",
+            "kr": "1618737918",
+            "tw": "1618471893"
+          },
+          "en": "Saltatio Favillae",
+          "zh_CN": "燃烬之舞",
+          "ja": "燼滅の舞",
+          "ko": "Saltatio Favillae",
+          "zh_TW": "燃燼之舞"
+        },
+        {
+          "length": 109215,
+          "ids": {
+            "ca": "1618484639",
+            "cn": "1618539119",
+            "jp": "1618526590",
+            "kr": "1618737923",
+            "tw": "1618472047"
+          },
+          "en": "Bane of Ambitions",
+          "zh_CN": "薙除杂妄",
+          "ja": "雑念を払う",
+          "ko": "Bane of Ambitions",
+          "zh_TW": "薙除雜妄"
+        },
+        {
+          "length": 208817,
+          "ids": {
+            "ca": "1618484644",
+            "cn": "1618539257",
+            "jp": "1618526594",
+            "kr": "1618738034",
+            "tw": "1618472049"
+          },
+          "en": "Thunderings of the Merciless",
+          "zh_CN": "雷霆的威光",
+          "ja": "雷霆のご威光",
+          "ko": "Thunderings of the Merciless",
+          "zh_TW": "雷霆的威光"
+        },
+        {
+          "length": 208598,
+          "ids": {
+            "ca": "1618484889",
+            "cn": "1618539263",
+            "jp": "1618526596",
+            "kr": "1618738153",
+            "tw": "1618472052"
+          },
+          "en": "The Almighty Violet Thunder",
+          "zh_CN": "稻光神鸣",
+          "ja": "稲光神鳴",
+          "ko": "The Almighty Violet Thunder",
+          "zh_TW": "稻光神鳴"
+        },
+        {
+          "length": 246594,
+          "ids": {
+            "ca": "1618484897",
+            "cn": "1618539271",
+            "jp": "1618526612",
+            "kr": "1618738159",
+            "tw": "1618472066"
+          },
+          "en": "Combat Beneath the Waves",
+          "zh_CN": "寒光裂涛",
+          "ja": "波を裂く寒光",
+          "ko": "Combat Beneath the Waves",
+          "zh_TW": "寒光裂濤"
+        },
+        {
+          "length": 206167,
+          "ids": {
+            "ca": "1618484899",
+            "cn": "1618539463",
+            "jp": "1618526986",
+            "kr": "1618738171",
+            "tw": "1618472069"
+          },
+          "en": "Undersea Encounters",
+          "zh_CN": "鲸波鼍浪",
+          "ja": "波瀾万丈",
+          "ko": "Undersea Encounters",
+          "zh_TW": "鯨波鼉浪"
+        },
+        {
+          "length": 245187,
+          "ids": {
+            "ca": "1618484910",
+            "cn": "1618539469",
+            "jp": "1618527189",
+            "kr": "1618738173",
+            "tw": "1618472071"
+          },
+          "en": "No Turning Back",
+          "zh_CN": "背水一战",
+          "ja": "背水の陣",
+          "ko": "No Turning Back",
+          "zh_TW": "背水一戰"
+        }
+      ]
+    }
+  ]
+}

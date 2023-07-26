@@ -1,0 +1,451 @@
+{
+  "id": "stellar-moments-volume-3",
+  "title": {
+    "en": "The Stellar Moments, Vol. 3",
+    "zh_CN": "闪耀的群星3",
+    "ja": "輝く星々Vol. 3",
+    "ko": "빛나는 뭇별3",
+    "zh_TW": "閃耀的群星3"
+  },
+  "game": "genshin_impact",
+  "upc": "3617054896014",
+  "releaseDate": "2023-01-10",
+  "artistName": "HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 26,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1662582538",
+      "cn": "1662634345",
+      "jp": "1662605146",
+      "kr": "1662170313",
+      "tw": "1662589519"
+    }
+  },
+  "colors": {
+    "background": "#1f203e",
+    "colors": [
+      "#eaeff4",
+      "#f1e5a4",
+      "#c1c6cf",
+      "#c7bd90"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d4/f6/00/d4f60068-0241-283e-7b10-737a4553adbd/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e3/34/78/e334782f-d7eb-7456-7ade-f808be097c72/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/81/93/1a/81931ad3-8905-2801-4b60-449552c5cf40/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f2/dc/00/f2dc008d-d144-7b07-5f68-4038ab8066ee/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/44/55/cd/4455cdb2-c0aa-be57-9575-feea9497df4a/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "The Stellar Moments Vol. 3",
+        "ja": "輝く星々3",
+        "ko": "빛나는 뭇별3",
+        "zh_CN": "闪耀的群星3",
+        "zh_TW": "閃耀的群星3"
+      },
+      "video": {
+        "en": "https://youtu.be/2SvpviExw1o",
+        "ko": "https://youtu.be/lIbzEaxTO04",
+        "ja": "https://youtu.be/UOh6nvmFc2o"
+      },
+      "duration": 2715286,
+      "tracks": [
+        {
+          "length": 148000,
+          "ids": {
+            "ca": "1662582547",
+            "cn": "1662634357",
+            "jp": "1662605268",
+            "kr": "1662170316",
+            "tw": "1662589525"
+          },
+          "en": "Time to Shine",
+          "zh_CN": "高光时刻",
+          "ja": "腕の見せ所",
+          "ko": "Time to Shine",
+          "zh_TW": "焦點時刻"
+        },
+        {
+          "length": 70000,
+          "ids": {
+            "ca": "1662583130",
+            "cn": "1662635059",
+            "jp": "1662605392",
+            "kr": "1662170319",
+            "tw": "1662589530"
+          },
+          "en": "The Spotlight's on Me!",
+          "zh_CN": "豪荡戏台",
+          "ja": "俺様に注目だぁ!",
+          "ko": "The Spotlight's on Me!",
+          "zh_TW": "豪蕩戲臺"
+        },
+        {
+          "length": 68000,
+          "ids": {
+            "ca": "1662583146",
+            "cn": "1662635074",
+            "jp": "1662605569",
+            "kr": "1662170668",
+            "tw": "1662589534"
+          },
+          "en": "Astute and Fearless Leader",
+          "zh_CN": "犬帅稔谋",
+          "ja": "犬将計略",
+          "ko": "Astute and Fearless Leader",
+          "zh_TW": "犬帥稔謀"
+        },
+        {
+          "length": 57000,
+          "ids": {
+            "ca": "1662583456",
+            "cn": "1662635386",
+            "jp": "1662605647",
+            "kr": "1662170671",
+            "tw": "1662589545"
+          },
+          "en": "As Charming as Ever",
+          "zh_CN": "霞袂飘飏",
+          "ja": "霞裳飄々",
+          "ko": "As Charming as Ever",
+          "zh_TW": "霞袂飄颺"
+        },
+        {
+          "length": 86912,
+          "ids": {
+            "ca": "1662583464",
+            "cn": "1662635396",
+            "jp": "1662605696",
+            "kr": "1662170679",
+            "tw": "1662589850"
+          },
+          "en": "Days Free of Anguish",
+          "zh_CN": "霜翎犹敛",
+          "ja": "白き羽根を隠して",
+          "ko": "Days Free of Anguish",
+          "zh_TW": "霜翎猶斂"
+        },
+        {
+          "length": 157000,
+          "ids": {
+            "ca": "1662583467",
+            "cn": "1662636196",
+            "jp": "1662605708",
+            "kr": "1662170682",
+            "tw": "1662589966"
+          },
+          "en": "The Crane Cries",
+          "zh_CN": "鹤鸣清唳",
+          "ja": "清唳の響き",
+          "ko": "The Crane Cries",
+          "zh_TW": "鶴鳴清唳"
+        },
+        {
+          "length": 78000,
+          "ids": {
+            "ca": "1662583470",
+            "cn": "1662636209",
+            "jp": "1662605714",
+            "kr": "1662170958",
+            "tw": "1662590296"
+          },
+          "en": "Chapter of a New Era",
+          "zh_CN": "快意新词",
+          "ja": "快意なる新章",
+          "ko": "Chapter of a New Era",
+          "zh_TW": "快意新詞"
+        },
+        {
+          "length": 98000,
+          "ids": {
+            "ca": "1662583484",
+            "cn": "1662636947",
+            "jp": "1662605991",
+            "kr": "1662170975",
+            "tw": "1662590446"
+          },
+          "en": "As Miko Pleases",
+          "zh_CN": "变化神通",
+          "ja": "神通変化",
+          "ko": "As Miko Pleases",
+          "zh_TW": "變化神通"
+        },
+        {
+          "length": 164587,
+          "ids": {
+            "ca": "1662583485",
+            "cn": "1662637176",
+            "jp": "1662605998",
+            "kr": "1662170979",
+            "tw": "1662590656"
+          },
+          "en": "Nothing but Trickery",
+          "zh_CN": "天狐外道",
+          "ja": "天狐の幻術",
+          "ko": "Nothing but Trickery",
+          "zh_TW": "天狐外道"
+        },
+        {
+          "length": 110000,
+          "ids": {
+            "ca": "1662584062",
+            "cn": "1662637518",
+            "jp": "1662606012",
+            "kr": "1662171106",
+            "tw": "1662590749"
+          },
+          "en": "Wishes Unspoken",
+          "zh_CN": "贞木其心",
+          "ja": "秘めたる思い",
+          "ko": "Wishes Unspoken",
+          "zh_TW": "貞木其心"
+        },
+        {
+          "length": 158000,
+          "ids": {
+            "ca": "1662584065",
+            "cn": "1662637915",
+            "jp": "1662606556",
+            "kr": "1662171118",
+            "tw": "1662590868"
+          },
+          "en": "Serene and Fathomless",
+          "zh_CN": "行水盈盈",
+          "ja": "流水盈盈",
+          "ko": "Serene and Fathomless",
+          "zh_TW": "行水盈盈"
+        },
+        {
+          "length": 81000,
+          "ids": {
+            "ca": "1662584386",
+            "cn": "1662637926",
+            "jp": "1662606796",
+            "kr": "1662171123",
+            "tw": "1662591077"
+          },
+          "en": "There Is No Escape",
+          "zh_CN": "疏而不失",
+          "ja": "疎にして失わず",
+          "ko": "There Is No Escape",
+          "zh_TW": "疏而不失"
+        },
+        {
+          "length": 157000,
+          "ids": {
+            "ca": "1662584538",
+            "cn": "1662638330",
+            "jp": "1662607157",
+            "kr": "1662171126",
+            "tw": "1662591286"
+          },
+          "en": "Graceful Dexterity",
+          "zh_CN": "润雨遐踪",
+          "ja": "慈雨の麗姿",
+          "ko": "Graceful Dexterity",
+          "zh_TW": "潤雨遐蹤"
+        },
+        {
+          "length": 69000,
+          "ids": {
+            "ca": "1662585046",
+            "cn": "1662638626",
+            "jp": "1662607726",
+            "kr": "1662171129",
+            "tw": "1662591497"
+          },
+          "en": "Adroit Deputy",
+          "zh_CN": "捷才疾霆",
+          "ja": "疾霆才捷",
+          "ko": "Adroit Deputy",
+          "zh_TW": "捷才疾霆"
+        },
+        {
+          "length": 83162,
+          "ids": {
+            "ca": "1662585286",
+            "cn": "1662638781",
+            "jp": "1662607761",
+            "kr": "1662171376",
+            "tw": "1662591766"
+          },
+          "en": "Storm Chaser",
+          "zh_CN": "蹑风捕迹",
+          "ja": "疾風追跡",
+          "ko": "Storm Chaser",
+          "zh_TW": "躡風捕跡"
+        },
+        {
+          "length": 62254,
+          "ids": {
+            "ca": "1662585496",
+            "cn": "1662639076",
+            "jp": "1662607773",
+            "kr": "1662171380",
+            "tw": "1662591947"
+          },
+          "en": "Evening Luxury",
+          "zh_CN": "遥夜华竞",
+          "ja": "遥夜のラグジュアリー",
+          "ko": "Evening Luxury",
+          "zh_TW": "遙夜華競"
+        },
+        {
+          "length": 128000,
+          "ids": {
+            "ca": "1662585586",
+            "cn": "1662639223",
+            "jp": "1662607777",
+            "kr": "1662171386",
+            "tw": "1662592009"
+          },
+          "en": "Winding Through Avidya",
+          "zh_CN": "绰巡林风",
+          "ja": "アビディアを巡る風",
+          "ko": "Winding Through Avidya",
+          "zh_TW": "綽巡林風"
+        },
+        {
+          "length": 71000,
+          "ids": {
+            "ca": "1662585706",
+            "cn": "1662639526",
+            "jp": "1662608277",
+            "kr": "1662171392",
+            "tw": "1662592216"
+          },
+          "en": "Caprice of the Leaves",
+          "zh_CN": "撷萃漫想",
+          "ja": "移り気な葉っぱたち",
+          "ko": "Caprice of the Leaves",
+          "zh_TW": "擷萃漫想"
+        },
+        {
+          "length": 70873,
+          "ids": {
+            "ca": "1662585768",
+            "cn": "1662639808",
+            "jp": "1662608280",
+            "kr": "1662171400",
+            "tw": "1662592279"
+          },
+          "en": "Thanks for Your Patronage!",
+          "zh_CN": "多谢惠顾!",
+          "ja": "毎度ありですわ!",
+          "ko": "Thanks for Your Patronage!",
+          "zh_TW": "多謝惠顧!"
+        },
+        {
+          "length": 99000,
+          "ids": {
+            "ca": "1662585779",
+            "cn": "1662640102",
+            "jp": "1662608287",
+            "kr": "1662171586",
+            "tw": "1662592366"
+          },
+          "en": "Chant of Nine Bows",
+          "zh_CN": "九弓的弦咏",
+          "ja": "九弓の絃楽",
+          "ko": "Chant of Nine Bows",
+          "zh_TW": "九弓的弦詠"
+        },
+        {
+          "length": 124000,
+          "ids": {
+            "ca": "1662585782",
+            "cn": "1662640115",
+            "jp": "1662608294",
+            "kr": "1662171591",
+            "tw": "1662592426"
+          },
+          "en": "Order of Silence",
+          "zh_CN": "缄秘的行律",
+          "ja": "緘秘の戒律",
+          "ko": "Order of Silence",
+          "zh_TW": "緘秘的行律"
+        },
+        {
+          "length": 80751,
+          "ids": {
+            "ca": "1662586012",
+            "cn": "1662640551",
+            "jp": "1662609080",
+            "kr": "1662171595",
+            "tw": "1662592487"
+          },
+          "en": "Nephrite of Deshret",
+          "zh_CN": "赤沙的玉馈",
+          "ja": "赤砂の賜玉",
+          "ko": "Nephrite of Deshret",
+          "zh_TW": "赤沙的玉饋"
+        },
+        {
+          "length": 106697,
+          "ids": {
+            "ca": "1662586019",
+            "cn": "1662640557",
+            "jp": "1662609285",
+            "kr": "1662171599",
+            "tw": "1662592641"
+          },
+          "en": "Lotus of Haftkarsvar",
+          "zh_CN": "七域的蕖华",
+          "ja": "七域の蓮華",
+          "ko": "Lotus of Haftkarsvar",
+          "zh_TW": "七域的蕖華"
+        },
+        {
+          "length": 78000,
+          "ids": {
+            "ca": "1662586426",
+            "cn": "1662641507",
+            "jp": "1662609350",
+            "kr": "1662171800",
+            "tw": "1662592876"
+          },
+          "en": "Surreal Noctivaga",
+          "zh_CN": "此夕星游",
+          "ja": "今宵、星の旅路へ",
+          "ko": "Surreal Noctivaga",
+          "zh_TW": "此夕星遊"
+        },
+        {
+          "length": 167999,
+          "ids": {
+            "ca": "1662586606",
+            "cn": "1662642167",
+            "jp": "1662609351",
+            "kr": "1662171805",
+            "tw": "1662593086"
+          },
+          "en": "Dreamy Felicitation",
+          "zh_CN": "窕梦的祝诞",
+          "ja": "深き夢の祝福",
+          "ko": "Dreamy Felicitation",
+          "zh_TW": "窕夢的祝誕"
+        },
+        {
+          "length": 141051,
+          "ids": {
+            "ca": "1662586666",
+            "cn": "1662642767",
+            "jp": "1662609355",
+            "kr": "1662171809",
+            "tw": "1662593207"
+          },
+          "en": "Surasthana Fantasia",
+          "zh_CN": "净善的遐歌",
+          "ja": "スラサタンナ幻想曲",
+          "ko": "Surasthana Fantasia",
+          "zh_TW": "淨善的遐歌"
+        }
+      ]
+    }
+  ]
+}

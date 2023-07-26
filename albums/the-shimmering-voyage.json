@@ -1,0 +1,1136 @@
+{
+  "id": "the-shimmering-voyage",
+  "title": {
+    "en": "The Shimmering Voyage",
+    "zh_CN": "珍珠之歌",
+    "ja": "真珠の歌",
+    "ko": "진주의 노래",
+    "zh_TW": "珍珠之歌"
+  },
+  "game": "genshin_impact",
+  "upc": "3617055527719",
+  "releaseDate": "2021-07-19",
+  "artistName": "Yu-Peng Chen & HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 68,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1666494912",
+      "cn": "1576302206",
+      "jp": "1576302268",
+      "kr": "1576345141",
+      "tw": "1576302206"
+    },
+    "spotify": {
+      "jp": "https://open.spotify.com/album/62xEfLmk8j9xZk8oOivxFi",
+      "kr": "https://open.spotify.com/album/5uBcAuFQaMKGTL7ybOEz00"
+    }
+  },
+  "colors": {
+    "background": "#001166",
+    "colors": [
+      "#f6f5fb",
+      "#edf4fc",
+      "#c5c8dd",
+      "#bdc6de"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9e/ce/42/9ece425b-73d7-7217-35ca-772c272d5bb0/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/da/18/cfda18c1-3608-d82f-e55c-d48d8cb32c08/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e6/39/23/e639237b-b6c5-8f19-3a23-df74466a3837/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/9b/80/3a9b800b-2919-7ee8-e335-71700fabf8fc/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/da/18/cfda18c1-3608-d82f-e55c-d48d8cb32c08/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "Fairytale of the Isles",
+        "ja": "海島の童話",
+        "ko": "섬의 동화",
+        "zh_CN": "海岛童话",
+        "zh_TW": "海島童話"
+      },
+      "video": {
+        "en": "https://youtu.be/cdC8wPt_SPw",
+        "ja": "https://youtu.be/jmOiAAvdExk",
+        "ko": "https://youtu.be/zKHTydJizyk"
+      },
+      "duration": 1661844,
+      "tracks": [
+        {
+          "length": 169956,
+          "ids": {
+            "ca": "1666495220",
+            "cn": "1576302207",
+            "jp": "1576302272",
+            "kr": "1576345145",
+            "tw": "1576302207"
+          },
+          "en": "What a Hopeful Voyage",
+          "zh_CN": "希望的航程",
+          "ja": "希望の航路",
+          "ko": "What a Hopeful Voyage",
+          "zh_TW": "希望的航程"
+        },
+        {
+          "length": 142934,
+          "ids": {
+            "ca": "1666495230",
+            "cn": "1576302208",
+            "jp": "1576302274",
+            "kr": "1576345454",
+            "tw": "1576302208"
+          },
+          "en": "Vast and Blue",
+          "zh_CN": "广袤的晴空",
+          "ja": "果てしない青空",
+          "ko": "Vast and Blue",
+          "zh_TW": "廣袤的晴空"
+        },
+        {
+          "length": 158516,
+          "ids": {
+            "ca": "1666495233",
+            "cn": "1576302209",
+            "jp": "1576302336",
+            "kr": "1576345610",
+            "tw": "1576302209"
+          },
+          "en": "Mesmerizing Waves",
+          "zh_CN": "微波轻摇",
+          "ja": "揺らぐさざ波",
+          "ko": "Mesmerizing Waves",
+          "zh_TW": "微波輕搖"
+        },
+        {
+          "length": 150455,
+          "ids": {
+            "ca": "1666495234",
+            "cn": "1576302211",
+            "jp": "1576302340",
+            "kr": "1576345614",
+            "tw": "1576302211"
+          },
+          "en": "Journey into Sweet Dreams",
+          "zh_CN": "远航入梦",
+          "ja": "夢へ旅立とう",
+          "ko": "Journey into Sweet Dreams",
+          "zh_TW": "遠航入夢"
+        },
+        {
+          "length": 103390,
+          "ids": {
+            "ca": "1666495242",
+            "cn": "1576302213",
+            "jp": "1576302342",
+            "kr": "1576345623",
+            "tw": "1576302213"
+          },
+          "en": "Whispering Seabreeze",
+          "zh_CN": "海风细语",
+          "ja": "海風の囁き",
+          "ko": "Whispering Seabreeze",
+          "zh_TW": "海風細語"
+        },
+        {
+          "length": 111881,
+          "ids": {
+            "ca": "1666495768",
+            "cn": "1576302214",
+            "jp": "1576302346",
+            "kr": "1576345837",
+            "tw": "1576302214"
+          },
+          "en": "Sunshine Beach",
+          "zh_CN": "小憩沙滩",
+          "ja": "小憩の浜辺",
+          "ko": "Sunshine Beach",
+          "zh_TW": "小憩沙灘"
+        },
+        {
+          "length": 85530,
+          "ids": {
+            "ca": "1666495784",
+            "cn": "1576302215",
+            "jp": "1576302349",
+            "kr": "1576345840",
+            "tw": "1576302215"
+          },
+          "en": "Ariel's Footprints",
+          "zh_CN": "海岛精灵",
+          "ja": "島の精霊",
+          "ko": "Ariel's Footprints",
+          "zh_TW": "海島精靈"
+        },
+        {
+          "length": 136056,
+          "ids": {
+            "ca": "1666496094",
+            "cn": "1576302366",
+            "jp": "1576302350",
+            "kr": "1576345843",
+            "tw": "1576302366"
+          },
+          "en": "Melody of Jellyfish",
+          "zh_CN": "水母之歌",
+          "ja": "クラゲの歌",
+          "ko": "Melody of Jellyfish",
+          "zh_TW": "水母之歌"
+        },
+        {
+          "length": 57355,
+          "ids": {
+            "ca": "1666496107",
+            "cn": "1576302368",
+            "jp": "1576302353",
+            "kr": "1576345847",
+            "tw": "1576302368"
+          },
+          "en": "Comforting Quietude",
+          "zh_CN": "难得的静谧",
+          "ja": "貴重な静けさ",
+          "ko": "Comforting Quietude",
+          "zh_TW": "難得的靜謐"
+        },
+        {
+          "length": 89947,
+          "ids": {
+            "ca": "1666496114",
+            "cn": "1576302369",
+            "jp": "1576302358",
+            "kr": "1576345851",
+            "tw": "1576302369"
+          },
+          "en": "Old Tales Preserved",
+          "zh_CN": "海螺中的回音",
+          "ja": "ホラガイの余韻",
+          "ko": "Old Tales Preserved",
+          "zh_TW": "海螺中的回音"
+        },
+        {
+          "length": 56662,
+          "ids": {
+            "ca": "1666496877",
+            "cn": "1576302382",
+            "jp": "1576302361",
+            "kr": "1576345855",
+            "tw": "1576302382"
+          },
+          "en": "Cautious Explorers",
+          "zh_CN": "谨慎的探索",
+          "ja": "慎重に探索しよう",
+          "ko": "Cautious Explorers",
+          "zh_TW": "謹慎的探索"
+        },
+        {
+          "length": 65426,
+          "ids": {
+            "ca": "1666496886",
+            "cn": "1576302384",
+            "jp": "1576302459",
+            "kr": "1576346112",
+            "tw": "1576302384"
+          },
+          "en": "In Stories of Fading Light",
+          "zh_CN": "光彩渐逝的故事",
+          "ja": "光去りゆく物語",
+          "ko": "In Stories of Fading Light",
+          "zh_TW": "光彩漸逝的故事"
+        },
+        {
+          "length": 134507,
+          "ids": {
+            "ca": "1666497320",
+            "cn": "1576302385",
+            "jp": "1576302462",
+            "kr": "1576346117",
+            "tw": "1576302385"
+          },
+          "en": "Cozy Company",
+          "zh_CN": "闲适的陪伴",
+          "ja": "心地良い付き添い",
+          "ko": "Cozy Company",
+          "zh_TW": "閒適的陪伴"
+        },
+        {
+          "length": 62589,
+          "ids": {
+            "ca": "1666497327",
+            "cn": "1576302386",
+            "jp": "1576302465",
+            "kr": "1576346125",
+            "tw": "1576302386"
+          },
+          "en": "Reminiscence of the Old Days",
+          "zh_CN": "往昔的诉说",
+          "ja": "昔の語り",
+          "ko": "Reminiscence of the Old Days",
+          "zh_TW": "往昔的訴說"
+        },
+        {
+          "length": 136640,
+          "ids": {
+            "ca": "1666497343",
+            "cn": "1576302388",
+            "jp": "1576302468",
+            "kr": "1576346126",
+            "tw": "1576302388"
+          },
+          "en": "Faraway Solicitude",
+          "zh_CN": "遥远的嘱托",
+          "ja": "遥かなる憂慮",
+          "ko": "Faraway Solicitude",
+          "zh_TW": "遙遠的囑託"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Blazing Stars",
+        "ja": "眩い星々",
+        "ko": "빛나는 별",
+        "zh_CN": "烁烁明星",
+        "zh_TW": "爍爍明星"
+      },
+      "video": {
+        "ja": "https://youtu.be/Y8_42Y6ls5o",
+        "en": "https://youtu.be/U7LmE1oPILg",
+        "ko": "https://youtu.be/P8_Nndyip7k"
+      },
+      "duration": 1727634,
+      "tracks": [
+        {
+          "length": 129638,
+          "ids": {
+            "ca": "1666498519",
+            "cn": "1576302392",
+            "jp": "1576302470",
+            "kr": "1576346127",
+            "tw": "1576302392"
+          },
+          "en": "Overture of Storms",
+          "zh_CN": "烈风的序章",
+          "ja": "烈風の序章",
+          "ko": "Overture of Storms",
+          "zh_TW": "烈風的序章"
+        },
+        {
+          "length": 26363,
+          "ids": {
+            "ca": "1666498525",
+            "cn": "1576302393",
+            "jp": "1576302474",
+            "kr": "1576346473",
+            "tw": "1576302393"
+          },
+          "en": "A Sparky Clash",
+          "zh_CN": "火花的初遇",
+          "ja": "火花の初対面",
+          "ko": "A Sparky Clash",
+          "zh_TW": "火花的初遇"
+        },
+        {
+          "length": 85372,
+          "ids": {
+            "ca": "1666498528",
+            "cn": "1576302394",
+            "jp": "1576302477",
+            "kr": "1576346476",
+            "tw": "1576302394"
+          },
+          "en": "Innocent Age",
+          "zh_CN": "无虑无猜的岁月",
+          "ja": "あどけない日々",
+          "ko": "Innocent Age",
+          "zh_TW": "無慮無猜的歲月"
+        },
+        {
+          "length": 87331,
+          "ids": {
+            "ca": "1666498538",
+            "cn": "1576302395",
+            "jp": "1576302479",
+            "kr": "1576346481",
+            "tw": "1576302395"
+          },
+          "en": "Whence the Flow Cometh",
+          "zh_CN": "欢愉的源泉",
+          "ja": "楽しさはどこから",
+          "ko": "Whence the Flow Cometh",
+          "zh_TW": "歡愉的源泉"
+        },
+        {
+          "length": 24363,
+          "ids": {
+            "ca": "1666499289",
+            "cn": "1576302607",
+            "jp": "1576302485",
+            "kr": "1576346487",
+            "tw": "1576302607"
+          },
+          "en": "Hunt for Delicacy",
+          "zh_CN": "美食寻踪",
+          "ja": "グルメ旅",
+          "ko": "Hunt for Delicacy",
+          "zh_TW": "美食尋踪"
+        },
+        {
+          "length": 42580,
+          "ids": {
+            "ca": "1666499809",
+            "cn": "1576302611",
+            "jp": "1576302698",
+            "kr": "1576346638",
+            "tw": "1576302611"
+          },
+          "en": "Sneaky & Mischievous",
+          "zh_CN": "小小恶作剧",
+          "ja": "小さないたずら",
+          "ko": "Sneaky & Mischievous",
+          "zh_TW": "小小惡作劇"
+        },
+        {
+          "length": 82024,
+          "ids": {
+            "ca": "1666499819",
+            "cn": "1576302617",
+            "jp": "1576302700",
+            "kr": "1576346709",
+            "tw": "1576302617"
+          },
+          "en": "Mellow Memories",
+          "zh_CN": "微醺的回忆",
+          "ja": "ほろ酔いの記憶",
+          "ko": "Mellow Memories",
+          "zh_TW": "微醺的回憶"
+        },
+        {
+          "length": 42913,
+          "ids": {
+            "ca": "1666499835",
+            "cn": "1576302621",
+            "jp": "1576302702",
+            "kr": "1576346715",
+            "tw": "1576302621"
+          },
+          "en": "The Wolf Boy",
+          "zh_CN": "狼般的少年",
+          "ja": "狼の少年",
+          "ko": "The Wolf Boy",
+          "zh_TW": "狼般的少年"
+        },
+        {
+          "length": 62969,
+          "ids": {
+            "ca": "1666500293",
+            "cn": "1576302625",
+            "jp": "1576302707",
+            "kr": "1576346719",
+            "tw": "1576302625"
+          },
+          "en": "Battle Preparation",
+          "zh_CN": "秣马厉兵",
+          "ja": "戦闘準備",
+          "ko": "Battle Preparation",
+          "zh_TW": "秣馬厲兵"
+        },
+        {
+          "length": 43991,
+          "ids": {
+            "ca": "1666500305",
+            "cn": "1576302627",
+            "jp": "1576302710",
+            "kr": "1576346730",
+            "tw": "1576302627"
+          },
+          "en": "The Astrologist Awaiting",
+          "zh_CN": "候汝久时",
+          "ja": "「やっと来ましたね。」",
+          "ko": "The Astrologist Awaiting",
+          "zh_TW": "候汝久時"
+        },
+        {
+          "length": 73483,
+          "ids": {
+            "ca": "1666501066",
+            "cn": "1576302629",
+            "jp": "1576302711",
+            "kr": "1576347103",
+            "tw": "1576302629"
+          },
+          "en": "The Starlit Past",
+          "zh_CN": "星知晓的旧梦",
+          "ja": "星が知る昔の夢",
+          "ko": "The Starlit Past",
+          "zh_TW": "星知曉的舊夢"
+        },
+        {
+          "length": 84615,
+          "ids": {
+            "ca": "1666501076",
+            "cn": "1576302632",
+            "jp": "1576302715",
+            "kr": "1576347117",
+            "tw": "1576302632"
+          },
+          "en": "Fireside Rest",
+          "zh_CN": "炉边小憩",
+          "ja": "炉辺での小憩",
+          "ko": "Fireside Rest",
+          "zh_TW": "爐邊小憩"
+        },
+        {
+          "length": 115848,
+          "ids": {
+            "ca": "1666501082",
+            "cn": "1576302633",
+            "jp": "1576302719",
+            "kr": "1576347124",
+            "tw": "1576302633"
+          },
+          "en": "A Wicked Plot",
+          "zh_CN": "凶险的密谋",
+          "ja": "危険な計画",
+          "ko": "A Wicked Plot",
+          "zh_TW": "凶險的密謀"
+        },
+        {
+          "length": 66048,
+          "ids": {
+            "ca": "1666501382",
+            "cn": "1576302816",
+            "jp": "1576302725",
+            "kr": "1576347249",
+            "tw": "1576302816"
+          },
+          "en": "A Cunning Trick",
+          "zh_CN": "吟游诗人的把戏",
+          "ja": "吟遊詩人のトリック",
+          "ko": "A Cunning Trick",
+          "zh_TW": "吟遊詩人的把戲"
+        },
+        {
+          "length": 117233,
+          "ids": {
+            "ca": "1666501392",
+            "cn": "1576302822",
+            "jp": "1576302788",
+            "kr": "1576347267",
+            "tw": "1576302822"
+          },
+          "en": "L'arrivo Della Signora",
+          "zh_CN": "女士驾临",
+          "ja": "アリーヴォ デラ シニョーラ",
+          "ko": "L'arrivo Della Signora",
+          "zh_TW": "女士駕臨"
+        },
+        {
+          "length": 85555,
+          "ids": {
+            "ca": "1666501679",
+            "cn": "1576302823",
+            "jp": "1576302791",
+            "kr": "1576347461",
+            "tw": "1576302823"
+          },
+          "en": "A Yearning Breeze",
+          "zh_CN": "希望的和风",
+          "ja": "希望の微風",
+          "ko": "A Yearning Breeze",
+          "zh_TW": "希望的和風"
+        },
+        {
+          "length": 83377,
+          "ids": {
+            "ca": "1666501691",
+            "cn": "1576302829",
+            "jp": "1576302796",
+            "kr": "1576347466",
+            "tw": "1576302829"
+          },
+          "en": "Ripples of Daydream",
+          "zh_CN": "白日梦的涟漪",
+          "ja": "白昼夢のさざ波",
+          "ko": "Ripples of Daydream",
+          "zh_TW": "白日夢的漣漪"
+        },
+        {
+          "length": 99675,
+          "ids": {
+            "ca": "1666502091",
+            "cn": "1576302831",
+            "jp": "1576302801",
+            "kr": "1576347470",
+            "tw": "1576302831"
+          },
+          "en": "Welcome Back, My Companion",
+          "zh_CN": "重归青天的歌",
+          "ja": "青天に戻った歌",
+          "ko": "Welcome Back, My Companion",
+          "zh_TW": "重歸青天的歌"
+        },
+        {
+          "length": 79903,
+          "ids": {
+            "ca": "1666502096",
+            "cn": "1576302835",
+            "jp": "1576302805",
+            "kr": "1576347477",
+            "tw": "1576302835"
+          },
+          "en": "The Sudden Collapse",
+          "zh_CN": "岩主的骤崩",
+          "ja": "岩主の崩御",
+          "ko": "The Sudden Collapse",
+          "zh_TW": "岩主的驟崩"
+        },
+        {
+          "length": 94896,
+          "ids": {
+            "ca": "1666502103",
+            "cn": "1576302837",
+            "jp": "1576302810",
+            "kr": "1576347481",
+            "tw": "1576302837"
+          },
+          "en": "The Lunar-Eclipsing Palace",
+          "zh_CN": "天权为尊",
+          "ja": "尊き天権",
+          "ko": "The Lunar-Eclipsing Palace",
+          "zh_TW": "天權為尊"
+        },
+        {
+          "length": 48301,
+          "ids": {
+            "ca": "1666502695",
+            "cn": "1576302838",
+            "jp": "1576302812",
+            "kr": "1576347697",
+            "tw": "1576302838"
+          },
+          "en": "Unexpected Savior",
+          "zh_CN": "意料之外的救星",
+          "ja": "予想外の救い主",
+          "ko": "Unexpected Savior",
+          "zh_TW": "意料之外的救星"
+        },
+        {
+          "length": 71545,
+          "ids": {
+            "ca": "1666502707",
+            "cn": "1576302841",
+            "jp": "1576302968",
+            "kr": "1576347703",
+            "tw": "1576302841"
+          },
+          "en": "A Letter from Afar",
+          "zh_CN": "异乡的归书",
+          "ja": "異郷からの手紙",
+          "ko": "A Letter from Afar",
+          "zh_TW": "異鄉的歸書"
+        },
+        {
+          "length": 79611,
+          "ids": {
+            "ca": "1666502714",
+            "cn": "1576302844",
+            "jp": "1576302970",
+            "kr": "1576347708",
+            "tw": "1576302844"
+          },
+          "en": "Lovers' Oath",
+          "zh_CN": "蒲苇如丝",
+          "ja": "シロガネヨシの如く",
+          "ko": "Lovers' Oath",
+          "zh_TW": "蒲葦如絲"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Roar of the Formidable",
+        "ja": "激流と山岳",
+        "ko": "격류와 암골",
+        "zh_CN": "激流与岩壑",
+        "zh_TW": "激流與岩壑"
+      },
+      "video": {
+        "en": "https://youtu.be/_ZgWy5uvIiw",
+        "ja": "https://youtu.be/svEqmLS25-g",
+        "ko": "https://youtu.be/97skbTAVNOo"
+      },
+      "duration": 1208043,
+      "tracks": [
+        {
+          "length": 267278,
+          "ids": {
+            "ca": "1666503002",
+            "cn": "1576302845",
+            "jp": "1576302974",
+            "kr": "1576347723",
+            "tw": "1576302845"
+          },
+          "en": "All-Conquering Tide",
+          "zh_CN": "不冻的激浪",
+          "ja": "不凍の怒濤",
+          "ko": "All-Conquering Tide",
+          "zh_TW": "不凍的激浪"
+        },
+        {
+          "length": 184977,
+          "ids": {
+            "ca": "1666503006",
+            "cn": "1576303087",
+            "jp": "1576302978",
+            "kr": "1576347849",
+            "tw": "1576303087"
+          },
+          "en": "Never-Ending Performance",
+          "zh_CN": "永无谢幕的演出",
+          "ja": "無尽蔵の演劇",
+          "ko": "Never-Ending Performance",
+          "zh_TW": "永無謝幕的演出"
+        },
+        {
+          "length": 164100,
+          "ids": {
+            "ca": "1666503316",
+            "cn": "1576303089",
+            "jp": "1576302982",
+            "kr": "1576347858",
+            "tw": "1576303089"
+          },
+          "en": "Wrath of Monoceros Caeli",
+          "zh_CN": "斩破风暴的魔鲸",
+          "ja": "嵐を切り裂く魔鯨",
+          "ko": "Wrath of Monoceros Caeli",
+          "zh_TW": "斬破風暴的魔鯨"
+        },
+        {
+          "length": 182543,
+          "ids": {
+            "ca": "1666503326",
+            "cn": "1576303093",
+            "jp": "1576302985",
+            "kr": "1576347865",
+            "tw": "1576303093"
+          },
+          "en": "Dance with the Great Vortex",
+          "zh_CN": "同漩涡共舞",
+          "ja": "渦巻に踊れ",
+          "ko": "Dance with the Great Vortex",
+          "zh_TW": "同漩渦共舞"
+        },
+        {
+          "length": 198535,
+          "ids": {
+            "ca": "1666503330",
+            "cn": "1576303095",
+            "jp": "1576302989",
+            "kr": "1576347870",
+            "tw": "1576303095"
+          },
+          "en": "Ode to Azhdaha",
+          "zh_CN": "天遒歌",
+          "ja": "天穹の歌",
+          "ko": "Ode to Azhdaha",
+          "zh_TW": "天遒歌"
+        },
+        {
+          "length": 210610,
+          "ids": {
+            "ca": "1666503337",
+            "cn": "1576303097",
+            "jp": "1576302991",
+            "kr": "1576348210",
+            "tw": "1576303097"
+          },
+          "en": "Rage Beneath the Mountains",
+          "zh_CN": "岩壑之崩",
+          "ja": "山岳は崩れ",
+          "ko": "Rage Beneath the Mountains",
+          "zh_TW": "巖壑之崩"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "A Stranger’s Sojourn",
+        "ja": "異邦人の旅路",
+        "ko": "낯선 객의 여정",
+        "zh_CN": "陌客的旅途",
+        "zh_TW": "陌客的旅途"
+      },
+      "video": {
+        "en": "https://youtu.be/OXeli1edmDA",
+        "ja": "https://youtu.be/aPL7VkpIVdk",
+        "ko": "https://youtu.be/jKjkDcBrJio"
+      },
+      "duration": 2024421,
+      "tracks": [
+        {
+          "length": 50497,
+          "ids": {
+            "ca": "1666503341",
+            "cn": "1576303099",
+            "jp": "1576302992",
+            "kr": "1576348218",
+            "tw": "1576303099"
+          },
+          "en": "Hymn of the Pearl",
+          "zh_CN": "珍珠之歌",
+          "ja": "真珠の歌",
+          "ko": "Hymn of the Pearl",
+          "zh_TW": "珍珠之歌"
+        },
+        {
+          "length": 47128,
+          "ids": {
+            "ca": "1666503653",
+            "cn": "1576303101",
+            "jp": "1576302994",
+            "kr": "1576348229",
+            "tw": "1576303101"
+          },
+          "en": "Overture of Falling Stars",
+          "zh_CN": "陨落之星",
+          "ja": "墜落の星",
+          "ko": "Overture of Falling Stars",
+          "zh_TW": "隕落之星"
+        },
+        {
+          "length": 93759,
+          "ids": {
+            "ca": "1666503662",
+            "cn": "1576303102",
+            "jp": "1576303178",
+            "kr": "1576348235",
+            "tw": "1576303102"
+          },
+          "en": "Ominous Fandango",
+          "zh_CN": "浮浪人的心机",
+          "ja": "浮浪人の魂胆",
+          "ko": "Ominous Fandango",
+          "zh_TW": "浮浪人的心機"
+        },
+        {
+          "length": 105951,
+          "ids": {
+            "ca": "1666503672",
+            "cn": "1576303104",
+            "jp": "1576303183",
+            "kr": "1576348491",
+            "tw": "1576303104"
+          },
+          "en": "Rapture of the Chaos",
+          "zh_CN": "直面纷争的狂喜",
+          "ja": "紛争に直面する喜び",
+          "ko": "Rapture of the Chaos",
+          "zh_TW": "直面紛爭的狂喜"
+        },
+        {
+          "length": 59229,
+          "ids": {
+            "ca": "1666504216",
+            "cn": "1576303107",
+            "jp": "1576303184",
+            "kr": "1576348496",
+            "tw": "1576303107"
+          },
+          "en": "Foul Legacy",
+          "zh_CN": "魔王武装",
+          "ja": "魔王武装",
+          "ko": "Foul Legacy",
+          "zh_TW": "魔王武裝"
+        },
+        {
+          "length": 82173,
+          "ids": {
+            "ca": "1666504220",
+            "cn": "1576303112",
+            "jp": "1576303190",
+            "kr": "1576348503",
+            "tw": "1576303112"
+          },
+          "en": "Golden Dreams",
+          "zh_CN": "黄金沉眠之处",
+          "ja": "黄金が眠る所",
+          "ko": "Golden Dreams",
+          "zh_TW": "黃金沉眠之處"
+        },
+        {
+          "length": 99838,
+          "ids": {
+            "ca": "1666504427",
+            "cn": "1576303114",
+            "jp": "1576303192",
+            "kr": "1576348718",
+            "tw": "1576303114"
+          },
+          "en": "Palace of Jadeite",
+          "zh_CN": "玉影徘徊",
+          "ja": "徘徊する玉姿",
+          "ko": "Palace of Jadeite",
+          "zh_TW": "玉影徘徊"
+        },
+        {
+          "length": 67316,
+          "ids": {
+            "ca": "1666504435",
+            "cn": "1576303115",
+            "jp": "1576303195",
+            "kr": "1576348730",
+            "tw": "1576303115"
+          },
+          "en": "Moon-Eclipsing Chamber",
+          "zh_CN": "掩月之阁",
+          "ja": "月を覆う閣",
+          "ko": "Moon-Elipsing Chamber",
+          "zh_TW": "掩月之閣"
+        },
+        {
+          "length": 73143,
+          "ids": {
+            "ca": "1666504441",
+            "cn": "1576303424",
+            "jp": "1576303197",
+            "kr": "1576348737",
+            "tw": "1576303424"
+          },
+          "en": "The Imminent Triumph",
+          "zh_CN": "凯歌的前奏",
+          "ja": "凱旋の歌を奏でよう",
+          "ko": "The Imminent Triumph",
+          "zh_TW": "凱歌的前奏"
+        },
+        {
+          "length": 160396,
+          "ids": {
+            "ca": "1666504445",
+            "cn": "1576303426",
+            "jp": "1576303199",
+            "kr": "1576348744",
+            "tw": "1576303426"
+          },
+          "en": "A Noble Sacrifice",
+          "zh_CN": "高贵的诀别",
+          "ja": "高貴たる別れ",
+          "ko": "A Noble Sacrifice",
+          "zh_TW": "高貴的訣別"
+        },
+        {
+          "length": 72522,
+          "ids": {
+            "ca": "1666504966",
+            "cn": "1576303429",
+            "jp": "1576303202",
+            "kr": "1576349018",
+            "tw": "1576303429"
+          },
+          "en": "Lingering Bitterness",
+          "zh_CN": "柔情留忆",
+          "ja": "優しき思い出",
+          "ko": "Lingering Bitterness",
+          "zh_TW": "柔情留憶"
+        },
+        {
+          "length": 57218,
+          "ids": {
+            "ca": "1666504969",
+            "cn": "1576303430",
+            "jp": "1576303205",
+            "kr": "1576349027",
+            "tw": "1576303430"
+          },
+          "en": "Frostbiting Bloom",
+          "zh_CN": "寒寂中盛放",
+          "ja": "冷たい満開",
+          "ko": "Frostbiting Bloom",
+          "zh_TW": "寒寂中盛放"
+        },
+        {
+          "length": 92552,
+          "ids": {
+            "ca": "1666504981",
+            "cn": "1576303477",
+            "jp": "1576303389",
+            "kr": "1576349034",
+            "tw": "1576303477"
+          },
+          "en": "Tale of the Yakshas",
+          "zh_CN": "夜叉的回叙",
+          "ja": "夜叉の追憶",
+          "ko": "Tale of the Yakshas",
+          "zh_TW": "夜叉的回敘"
+        },
+        {
+          "length": 87351,
+          "ids": {
+            "ca": "1666505440",
+            "cn": "1576303486",
+            "jp": "1576303393",
+            "kr": "1576349347",
+            "tw": "1576303486"
+          },
+          "en": "Invitation of Windblume",
+          "zh_CN": "风花的邀约",
+          "ja": "風花の招待",
+          "ko": "Invitation of Windblume",
+          "zh_TW": "風花的邀約"
+        },
+        {
+          "length": 44642,
+          "ids": {
+            "ca": "1666505880",
+            "cn": "1576303492",
+            "jp": "1576303395",
+            "kr": "1576349359",
+            "tw": "1576303492"
+          },
+          "en": "An Inauspicious Blow",
+          "zh_CN": "灾厄的一击",
+          "ja": "災厄の一撃",
+          "ko": "An Inauspicious Blow",
+          "zh_TW": "災厄的一擊"
+        },
+        {
+          "length": 41611,
+          "ids": {
+            "ca": "1666505895",
+            "cn": "1576303494",
+            "jp": "1576303401",
+            "kr": "1576349372",
+            "tw": "1576303494"
+          },
+          "en": "Fateful Departing",
+          "zh_CN": "深渊下的离别",
+          "ja": "アビスの下での別れ",
+          "ko": "Fateful Departing",
+          "zh_TW": "深淵下的離別"
+        },
+        {
+          "length": 39669,
+          "ids": {
+            "ca": "1666506234",
+            "cn": "1576303495",
+            "jp": "1576303405",
+            "kr": "1576349539",
+            "tw": "1576303495"
+          },
+          "en": "Reconnaissance Captain",
+          "zh_CN": "游击骑士",
+          "ja": "遊撃騎士",
+          "ko": "Reconnaissance Captain",
+          "zh_TW": "游擊騎士"
+        },
+        {
+          "length": 95353,
+          "ids": {
+            "ca": "1666506241",
+            "cn": "1576303496",
+            "jp": "1576303406",
+            "kr": "1576349551",
+            "tw": "1576303496"
+          },
+          "en": "Ominous Monolith",
+          "zh_CN": "磐峦的恶意",
+          "ja": "山岩の悪意",
+          "ko": "Ominous Monolith",
+          "zh_TW": "磐巒的惡意"
+        },
+        {
+          "length": 119812,
+          "ids": {
+            "ca": "1666506254",
+            "cn": "1576303498",
+            "jp": "1576303408",
+            "kr": "1576349719",
+            "tw": "1576303498"
+          },
+          "en": "Through the Eyes of a Dragon",
+          "zh_CN": "创龙点睛",
+          "ja": "創龍点睛",
+          "ko": "Through the Eyes of a Dragon",
+          "zh_TW": "創龍點睛"
+        },
+        {
+          "length": 16477,
+          "ids": {
+            "ca": "1666506576",
+            "cn": "1576303501",
+            "jp": "1576303410",
+            "kr": "1576349727",
+            "tw": "1576303501"
+          },
+          "en": "Dvalin Is Landing!",
+          "zh_CN": "特瓦林,抵达!",
+          "ja": "トワリン、到着!",
+          "ko": "Dvalin Is Landing!",
+          "zh_TW": "特瓦林,抵達!"
+        },
+        {
+          "length": 64290,
+          "ids": {
+            "ca": "1666506584",
+            "cn": "1576303503",
+            "jp": "1576303413",
+            "kr": "1576349735",
+            "tw": "1576303503"
+          },
+          "en": "Summertime Wonderland",
+          "zh_CN": "盛夏乐园",
+          "ja": "真夏ランド",
+          "ko": "Summertime Wonderland",
+          "zh_TW": "盛夏樂園"
+        },
+        {
+          "length": 34709,
+          "ids": {
+            "ca": "1666506871",
+            "cn": "1576303505",
+            "jp": "1576303414",
+            "kr": "1576349990",
+            "tw": "1576303505"
+          },
+          "en": "A New Summer Adventure!",
+          "zh_CN": "夏日新冒险!",
+          "ja": "夏の大冒険!",
+          "ko": "A New Summer Adventure!",
+          "zh_TW": "夏日新冒險!"
+        },
+        {
+          "length": 295706,
+          "ids": {
+            "ca": "1666507224",
+            "cn": "1576303718",
+            "jp": "1576303626",
+            "kr": "1576350005",
+            "tw": "1576303718"
+          },
+          "en": "Tales from the Snow Mountain",
+          "zh_CN": "山巅雪国的记忆",
+          "ja": "雪深き山頂の記憶",
+          "ko": "Tales from the Snow Mountain",
+          "zh_TW": "山巔雪國的記憶"
+        },
+        {
+          "length": 123079,
+          "ids": {
+            "ca": "1666507239",
+            "cn": "1576303719",
+            "jp": "1576303627",
+            "kr": "1576350229",
+            "tw": "1576303719"
+          },
+          "en": "Destined Parting",
+          "zh_CN": "命定的离别",
+          "ja": "運命の別れ",
+          "ko": "Destined Parting",
+          "zh_TW": "命定的離別"
+        }
+      ]
+    }
+  ]
+}

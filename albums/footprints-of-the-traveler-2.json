@@ -1,0 +1,196 @@
+{
+  "id": "footprints-of-the-traveler-2",
+  "title": {
+    "en": "Footprints of the Traveler Vol. 2",
+    "zh_CN": "流星的轨迹2",
+    "zh_TW": "流星的軌跡2",
+    "ja": "流星の軌跡Vol. 2",
+    "ko": "유성의 궤적2"
+  },
+  "game": "genshin_impact",
+  "upc": "3617223896050",
+  "releaseDate": "2023-06-30",
+  "artistName": "HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 9,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1694313525",
+      "cn": "1694222883",
+      "tw": "1694391129",
+      "jp": "1694287176",
+      "kr": "1694391858"
+    }
+  },
+  "colors": {
+    "background": "#26448d",
+    "colors": [
+      "#fbfbc6",
+      "#fa9964",
+      "#d0d6ba",
+      "#d0886c"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/87/fd/57/87fd5797-3dd0-4817-af66-c29fffbfdc01/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/fc/a7/22fca767-f301-92d4-ea70-b4ca22d14e75/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/87/62/9c/87629c99-6549-f645-b773-b2284f00da9b/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/29/5b/eb/295beb15-fb78-760e-fed9-ff855ca8c19d/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ae/72/b7/ae72b763-7c51-6300-521f-d8ae9d3474b6/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "Footprints of the Traveler Vol. 2",
+        "ja": "流星の軌跡2",
+        "ko": "유성의 궤적2",
+        "zh_CN": "流星的轨迹2",
+        "zh_TW": "流星的軌跡2"
+      },
+      "video": {
+        "en": "https://youtu.be/l2qHL3e7uuI",
+        "ja": "https://youtu.be/kPxh-Vx7jhI",
+        "ko": "https://youtu.be/lDIg9yh02qs"
+      },
+      "duration": 1504189,
+      "tracks": [
+        {
+          "length": 251725,
+          "ids": {
+            "ca": "1694313833",
+            "cn": "1694222886",
+            "tw": "1694391466",
+            "jp": "1694287385",
+            "kr": "1694391874"
+          },
+          "en": "The Morn a Thousand Roses Brings",
+          "zh_CN": "千朵玫瑰带来的黎明",
+          "zh_TW": "千朵玫瑰帶來的黎明",
+          "ja": "黎明を告げる千の薔薇",
+          "ko": "여명을 밝히는 천 송이 장미"
+        },
+        {
+          "length": 215702,
+          "ids": {
+            "ca": "1694313844",
+            "cn": "1694222891",
+            "tw": "1694391471",
+            "jp": "1694287392",
+            "kr": "1694392283"
+          },
+          "en": "King Deshret and the Three Magi",
+          "zh_CN": "赤土之王与三朝圣者",
+          "zh_TW": "赤土之王與三朝聖者",
+          "ja": "赤砂の王と三人の巡礼者",
+          "ko": "적토의 왕과 세 순례자"
+        },
+        {
+          "length": 198453,
+          "ids": {
+            "ca": "1694313951",
+            "cn": "1694222893",
+            "tw": "1694391475",
+            "jp": "1694287394",
+            "kr": "1694392294"
+          },
+          "en": "Akasha Pulses, the Kalpa Flame Rises",
+          "zh_CN": "虚空鼓动,劫火高扬",
+          "zh_TW": "虛空鼓動,劫火高揚",
+          "ja": "虚空の鼓動、熾盛の劫火",
+          "ko": "허공의 선동, 타오르는 겁화"
+        },
+        {
+          "length": 129669,
+          "ids": {
+            "ca": "1694313954",
+            "cn": "1694223197",
+            "tw": "1694391481",
+            "jp": "1694287496",
+            "kr": "1694392298"
+          },
+          "en": "All Senses Clear, All Existence Void",
+          "zh_CN": "六入尽明,诸相皆无",
+          "zh_TW": "六入盡明,諸相皆無",
+          "ja": "六処解悟、諸相空無",
+          "ko": "투명한 여섯 감각, 무로 돌아간 만상"
+        },
+        {
+          "length": 167187,
+          "ids": {
+            "ca": "1694313959",
+            "cn": "1694223199",
+            "tw": "1694391483",
+            "jp": "1694287499",
+            "kr": "1694392534"
+          },
+          "en": "The Exquisite Night Chimes",
+          "zh_CN": "磬弦奏华夜",
+          "zh_TW": "磬弦奏華夜",
+          "ja": "織りなす調べ、華更けて",
+          "ko": "선율이 흐르는 밤"
+        },
+        {
+          "length": 135000,
+          "ids": {
+            "ca": "1694313965",
+            "cn": "1694223200",
+            "tw": "1694391486",
+            "jp": "1694287504",
+            "kr": "1694392539"
+          },
+          "en": "Windblume's Breath",
+          "zh_CN": "风花的呼吸",
+          "zh_TW": "風花的呼吸",
+          "ja": "風花の吐息",
+          "ko": "윈드블룸의 숨결"
+        },
+        {
+          "length": 150643,
+          "ids": {
+            "ca": "1694314311",
+            "cn": "1694223209",
+            "tw": "1694391492",
+            "jp": "1694287510",
+            "kr": "1694392739"
+          },
+          "en": "A Parade of Providence",
+          "zh_CN": "盛典与慧业",
+          "zh_TW": "盛典與慧業",
+          "ja": "盛典と慧業",
+          "ko": "성대한 지혜의 축제"
+        },
+        {
+          "length": 128111,
+          "ids": {
+            "ca": "1694314318",
+            "cn": "1694223210",
+            "tw": "1694391798",
+            "jp": "1694287514",
+            "kr": "1694392755"
+          },
+          "en": "Duel! The Summoners' Summit!",
+          "zh_CN": "决斗!召唤之巅!",
+          "zh_TW": "決鬥!召喚之巔!",
+          "ja": "決闘!召喚の頂!",
+          "ko": "듀얼! 소환왕 결정전!"
+        },
+        {
+          "length": 127699,
+          "ids": {
+            "ca": "1694314320",
+            "cn": "1694223219",
+            "tw": "1694391807",
+            "jp": "1694287876",
+            "kr": "1694392857"
+          },
+          "en": "Secret Summer Paradise",
+          "zh_CN": "清夏!乐园?大秘境!",
+          "zh_TW": "清夏!樂園?大秘境!",
+          "ja": "涼夏!楽園?大秘境!",
+          "ko": "여름! 낙원? 대비경!"
+        }
+      ]
+    }
+  ]
+}

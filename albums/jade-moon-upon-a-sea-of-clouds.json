@@ -1,0 +1,1127 @@
+{
+  "id": "jade-moon-upon-a-sea-of-clouds",
+  "title": {
+    "en": "Jade Moon Upon a Sea of Clouds",
+    "zh_CN": "皎月云间之梦",
+    "zh_TW": "皎月雲間之夢",
+    "ko": "구름바다 위의 푸른 달",
+    "ja": "皎月雲間の夢"
+  },
+  "game": "genshin_impact",
+  "upc": "3616550255974",
+  "releaseDate": "2020-11-06",
+  "artistName": "Yu-Peng Chen & HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 69,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1538564935",
+      "cn": "1538376795",
+      "tw": "1538564991",
+      "kr": "1538555252",
+      "jp": "1538564750"
+    }
+  },
+  "colors": {
+    "background": "#85495d",
+    "colors": [
+      "#fefefe",
+      "#f0d4d7",
+      "#e6dade",
+      "#dbb8bf"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ed/4e/ce/ed4ece64-c4c0-9e76-901d-eeac64f29c94/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3f/99/b9/3f99b98b-c37e-4140-15aa-dbc5289566e6/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/93/35/4e933573-db63-8970-5e63-e0e883144a4d/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1d/59/53/1d595363-d261-c2e8-941c-9ad30c9d6a8f/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/60/b0/d5/60b0d5f9-69ee-9f29-f312-2e00f57e23d2/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "Glazed Moon Over the Tides",
+        "ja": "海を照す琉璃明月",
+        "zh_CN": "琉璃明月照海平",
+        "zh_TW": "皎月雲間之夢"
+      },
+      "video": {
+        "en": "https://youtu.be/t1O7LpOTBfM",
+        "ja": "https://youtu.be/zy8vTMJtJOQ",
+        "ko": "https://youtu.be/-Y7evjJyFEY"
+      },
+      "duration": 2860278,
+      "tracks": [
+        {
+          "length": 276250,
+          "ids": {
+            "ca": "1538564937",
+            "cn": "1538376802",
+            "tw": "1538565005",
+            "kr": "1538555253",
+            "jp": "1538564757"
+          },
+          "en": "Liyue",
+          "zh_CN": "璃月",
+          "zh_TW": "璃月",
+          "ko": "Liyue",
+          "ja": "璃月"
+        },
+        {
+          "length": 117421,
+          "ids": {
+            "ca": "1538564941",
+            "cn": "1538376810",
+            "tw": "1538565309",
+            "kr": "1538555589",
+            "jp": "1538564759"
+          },
+          "en": "Moon in One's Cup",
+          "zh_CN": "杯中明月",
+          "zh_TW": "杯中明月",
+          "ko": "Moon in One's Cup",
+          "ja": "明月、盃にあり"
+        },
+        {
+          "length": 67854,
+          "ids": {
+            "ca": "1538564943",
+            "cn": "1538377208",
+            "tw": "1538565313",
+            "kr": "1538555602",
+            "jp": "1538564763"
+          },
+          "en": "Relaxation in Liyue",
+          "zh_CN": "商港的闲暇",
+          "zh_TW": "商港的閒暇",
+          "ko": "Relaxation in Liyue",
+          "ja": "商港の余暇"
+        },
+        {
+          "length": 78781,
+          "ids": {
+            "ca": "1538564944",
+            "cn": "1538377209",
+            "tw": "1538565318",
+            "kr": "1538555606",
+            "jp": "1538565068"
+          },
+          "en": "Maiden's Longing",
+          "zh_CN": "环佩凭栏望千帆",
+          "zh_TW": "環佩憑欄望千帆",
+          "ko": "Maiden's Longing",
+          "ja": "乙女の待ち続け"
+        },
+        {
+          "length": 102345,
+          "ids": {
+            "ca": "1538564945",
+            "cn": "1538377210",
+            "tw": "1538565325",
+            "kr": "1538555613",
+            "jp": "1538565072"
+          },
+          "en": "Sun Rises in Liyue",
+          "zh_CN": "璃月的日出",
+          "zh_TW": "璃月的日出",
+          "ko": "Sun Rises in Liyue",
+          "ja": "璃月の日ノ出"
+        },
+        {
+          "length": 88184,
+          "ids": {
+            "ca": "1538565336",
+            "cn": "1538377213",
+            "tw": "1538565329",
+            "kr": "1538555862",
+            "jp": "1538565075"
+          },
+          "en": "Good Night, Liyue",
+          "zh_CN": "晚安,璃月",
+          "zh_TW": "晚安,璃月",
+          "ko": "Good Night, Liyue",
+          "ja": "お休み、璃月よ"
+        },
+        {
+          "length": 95428,
+          "ids": {
+            "ca": "1538565338",
+            "cn": "1538377214",
+            "tw": "1538565333",
+            "kr": "1538555868",
+            "jp": "1538565080"
+          },
+          "en": "Call It a Day in Liyue",
+          "zh_CN": "璃月的一日将尽",
+          "zh_TW": "璃月的一日將盡",
+          "ko": "Call It a Day in Liyue",
+          "ja": "璃月の一日が終わる"
+        },
+        {
+          "length": 82928,
+          "ids": {
+            "ca": "1538565341",
+            "cn": "1538377217",
+            "tw": "1538565335",
+            "kr": "1538555874",
+            "jp": "1538565082"
+          },
+          "en": "Clear Sky over Liyue",
+          "zh_CN": "璃月的晴空",
+          "zh_TW": "璃月的晴空",
+          "ko": "Clear Sky over Liyue",
+          "ja": "璃月の晴れ空"
+        },
+        {
+          "length": 58287,
+          "ids": {
+            "ca": "1538565346",
+            "cn": "1538377224",
+            "tw": "1538565697",
+            "kr": "1538555876",
+            "jp": "1538565086"
+          },
+          "en": "A Transparent Moon (Liuli Pavilion)",
+          "zh_CN": "晶莹可掇 (琉璃亭)",
+          "zh_TW": "晶瑩可掇 (琉璃亭)",
+          "ko": "A Transparent Moon (Liuli Pavilion)",
+          "ja": "透き通る月(琉璃亭)"
+        },
+        {
+          "length": 77595,
+          "ids": {
+            "ca": "1538565357",
+            "cn": "1538377229",
+            "tw": "1538565700",
+            "kr": "1538555881",
+            "jp": "1538565089"
+          },
+          "en": "Treasury from the Northland",
+          "zh_CN": "北国的宝库",
+          "zh_TW": "北國的寶庫",
+          "ko": "Treasury from the Northland",
+          "ja": "北国の宝庫"
+        },
+        {
+          "length": 89714,
+          "ids": {
+            "ca": "1538565358",
+            "cn": "1538377234",
+            "tw": "1538565708",
+            "kr": "1538556040",
+            "jp": "1538565091"
+          },
+          "en": "Cozy Leisure Time (Wangshu Daytime)",
+          "zh_CN": "品茗尝清⼼ (望舒昼间)",
+          "zh_TW": "品茗嘗清⼼ (望舒晝間)",
+          "ko": "Cozy Leisure Time (Wangshu Daytime)",
+          "ja": "品茶の余暇(望舒昼間)"
+        },
+        {
+          "length": 96003,
+          "ids": {
+            "ca": "1538565360",
+            "cn": "1538377541",
+            "tw": "1538565720",
+            "kr": "1538556043",
+            "jp": "1538565186"
+          },
+          "en": "Sojourner's Sweet Dream (Wangshu Night)",
+          "zh_CN": "美梦抚归⼈ (望舒夜间)",
+          "zh_TW": "美夢撫歸⼈ (望舒夜間)",
+          "ko": "Sojourner's Sweet Dream (Wangshu Night)",
+          "ja": "渡り者の甘い夢(望舒夜間)"
+        },
+        {
+          "length": 63193,
+          "ids": {
+            "ca": "1538565517",
+            "cn": "1538377543",
+            "tw": "1538565725",
+            "kr": "1538556045",
+            "jp": "1538565192"
+          },
+          "en": "Winding River",
+          "zh_CN": "逶迤绿水长",
+          "zh_TW": "逶迤綠水長",
+          "ko": "Winding River",
+          "ja": "委蛇たる緑水"
+        },
+        {
+          "length": 43750,
+          "ids": {
+            "ca": "1538565523",
+            "cn": "1538377544",
+            "tw": "1538566091",
+            "kr": "1538556046",
+            "jp": "1538565200"
+          },
+          "en": "Mild Waves",
+          "zh_CN": "轻波微荡",
+          "zh_TW": "輕波微蕩",
+          "ko": "Mild Waves",
+          "ja": "たゆたうさざ波"
+        },
+        {
+          "length": 60750,
+          "ids": {
+            "ca": "1538565541",
+            "cn": "1538377547",
+            "tw": "1538566100",
+            "kr": "1538556056",
+            "jp": "1538565207"
+          },
+          "en": "Rhythm Amidst the Reeds",
+          "zh_CN": "钓客漫歌",
+          "zh_TW": "釣客漫歌",
+          "ko": "Rhythm Amidst the Reeds",
+          "ja": "釣り人の歌"
+        },
+        {
+          "length": 56004,
+          "ids": {
+            "ca": "1538565545",
+            "cn": "1538377553",
+            "tw": "1538566110",
+            "kr": "1538556065",
+            "jp": "1538565384"
+          },
+          "en": "Flows of Jade-Like Water",
+          "zh_CN": "源流汇响",
+          "zh_TW": "源流匯響",
+          "ko": "Flows of Jade-Like Water",
+          "ja": "川水、翡翠の如く"
+        },
+        {
+          "length": 68733,
+          "ids": {
+            "ca": "1538565666",
+            "cn": "1538377556",
+            "tw": "1538566330",
+            "kr": "1538556217",
+            "jp": "1538565386"
+          },
+          "en": "Blossoms Across the Valley",
+          "zh_CN": "幽⾕多芳草",
+          "zh_TW": "幽⾕多芳草",
+          "ko": "Blossoms Across the Valley",
+          "ja": "谷に満開する花々"
+        },
+        {
+          "length": 79500,
+          "ids": {
+            "ca": "1538565670",
+            "cn": "1538377557",
+            "tw": "1538566333",
+            "kr": "1538556224",
+            "jp": "1538565391"
+          },
+          "en": "Flow of Mildness",
+          "zh_CN": "多情东逝",
+          "zh_TW": "多情東逝",
+          "ko": "Flow of Mildness",
+          "ja": "流水に乗って去りゆく思い"
+        },
+        {
+          "length": 84340,
+          "ids": {
+            "ca": "1538565671",
+            "cn": "1538377559",
+            "tw": "1538566339",
+            "kr": "1538556230",
+            "jp": "1538565392"
+          },
+          "en": "Stroll in the Shadows",
+          "zh_CN": "山阴漫步",
+          "zh_TW": "山陰漫步",
+          "ko": "Stroll in the Shadows",
+          "ja": "木陰漫歩"
+        },
+        {
+          "length": 45111,
+          "ids": {
+            "ca": "1538565673",
+            "cn": "1538377560",
+            "tw": "1538566346",
+            "kr": "1538556232",
+            "jp": "1538565394"
+          },
+          "en": "Melodious Flute",
+          "zh_CN": "古道笛声",
+          "zh_TW": "古道笛聲",
+          "ko": "Melodious Flute",
+          "ja": "古道に響く笛音"
+        },
+        {
+          "length": 59500,
+          "ids": {
+            "ca": "1538565674",
+            "cn": "1538377818",
+            "tw": "1538566351",
+            "kr": "1538556242",
+            "jp": "1538565501"
+          },
+          "en": "Gentle Rain",
+          "zh_CN": "清昼细雨",
+          "zh_TW": "清晝細雨",
+          "ko": "Gentle Rain",
+          "ja": "照り雨の糸"
+        },
+        {
+          "length": 64750,
+          "ids": {
+            "ca": "1538565677",
+            "cn": "1538377822",
+            "tw": "1538566353",
+            "kr": "1538556387",
+            "jp": "1538565502"
+          },
+          "en": "Vague Whispers",
+          "zh_CN": "竹林的轻语",
+          "zh_TW": "竹林的輕語",
+          "ko": "Vague Whispers",
+          "ja": "竹林の囁き"
+        },
+        {
+          "length": 54189,
+          "ids": {
+            "ca": "1538565684",
+            "cn": "1538377840",
+            "tw": "1538566658",
+            "kr": "1538556390",
+            "jp": "1538565506"
+          },
+          "en": "Legends Swept Away",
+          "zh_CN": "不复回的传说",
+          "zh_TW": "不復回的傳說",
+          "ko": "Legends Swept Away",
+          "ja": "帰らぬ物語"
+        },
+        {
+          "length": 72027,
+          "ids": {
+            "ca": "1538565687",
+            "cn": "1538377844",
+            "tw": "1538566668",
+            "kr": "1538556391",
+            "jp": "1538565509"
+          },
+          "en": "Joy of Returning",
+          "zh_CN": "归客的轻歌",
+          "zh_TW": "歸客的輕歌",
+          "ko": "Joy of Returning",
+          "ja": "帰り人の歌"
+        },
+        {
+          "length": 84429,
+          "ids": {
+            "ca": "1538565688",
+            "cn": "1538377877",
+            "tw": "1538566677",
+            "kr": "1538556488",
+            "jp": "1538565510"
+          },
+          "en": "Loner's Departure",
+          "zh_CN": "离原之草",
+          "zh_TW": "離原之草",
+          "ko": "Loner's Departure",
+          "ja": "原離れの草"
+        },
+        {
+          "length": 92099,
+          "ids": {
+            "ca": "1538565689",
+            "cn": "1538377878",
+            "tw": "1538566685",
+            "kr": "1538556490",
+            "jp": "1538565514"
+          },
+          "en": "Foxes at Play",
+          "zh_CN": "原上狐鸣",
+          "zh_TW": "原上狐鳴",
+          "ko": "Foxes at Play",
+          "ja": "キツネ遊戯"
+        },
+        {
+          "length": 79325,
+          "ids": {
+            "ca": "1538565690",
+            "cn": "1538377879",
+            "tw": "1538566901",
+            "kr": "1538556492",
+            "jp": "1538565640"
+          },
+          "en": "Plain of Nostalgia",
+          "zh_CN": "怀乡的原野",
+          "zh_TW": "懷鄉的原野",
+          "ko": "Plain of Nostalgia",
+          "ja": "故郷の原野"
+        },
+        {
+          "length": 85783,
+          "ids": {
+            "ca": "1538565695",
+            "cn": "1538377881",
+            "tw": "1538566908",
+            "kr": "1538556496",
+            "jp": "1538565643"
+          },
+          "en": "Another Hopeful Tomorrow",
+          "zh_CN": "希望的明⽇",
+          "zh_TW": "希望的明⽇",
+          "ko": "Another Hopeful Tomorrow",
+          "ja": "明日の希望"
+        },
+        {
+          "length": 95750,
+          "ids": {
+            "ca": "1538566117",
+            "cn": "1538377884",
+            "tw": "1538566910",
+            "kr": "1538556498",
+            "jp": "1538565814"
+          },
+          "en": "This Little Light of Mine",
+          "zh_CN": "小小的光",
+          "zh_TW": "小小的光",
+          "ko": "This Little Light of Mine",
+          "ja": "細やかな光"
+        },
+        {
+          "length": 101702,
+          "ids": {
+            "ca": "1538566119",
+            "cn": "1538378181",
+            "tw": "1538566916",
+            "kr": "1538556501",
+            "jp": "1538565877"
+          },
+          "en": "Legend of Redemption",
+          "zh_CN": "宽怀的传说",
+          "zh_TW": "寬懷的傳說",
+          "ko": "Legend of Redemption",
+          "ja": "大いなる伝説"
+        },
+        {
+          "length": 144500,
+          "ids": {
+            "ca": "1538566121",
+            "cn": "1538378184",
+            "tw": "1538567440",
+            "kr": "1538556502",
+            "jp": "1538565899"
+          },
+          "en": "Hazy Light",
+          "zh_CN": "暧暧含光",
+          "zh_TW": "曖曖含光",
+          "ko": "Hazy Light",
+          "ja": "幽けき光"
+        },
+        {
+          "length": 95679,
+          "ids": {
+            "ca": "1538566125",
+            "cn": "1538378186",
+            "tw": "1538567444",
+            "kr": "1538556515",
+            "jp": "1538565901"
+          },
+          "en": "Scattered Amongst the Tides",
+          "zh_CN": "潮汐浮梦",
+          "zh_TW": "潮汐浮夢",
+          "ko": "Scattered Amongst the Tides",
+          "ja": "潮汐浮夢"
+        },
+        {
+          "length": 98374,
+          "ids": {
+            "ca": "1538566128",
+            "cn": "1538378191",
+            "tw": "1538567446",
+            "kr": "1538556850",
+            "jp": "1538565904"
+          },
+          "en": "Rhythms from the Conch",
+          "zh_CN": "随海风而来",
+          "zh_TW": "隨海風而來",
+          "ko": "Rhythms from the Conch",
+          "ja": "潮風が吹く"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Shimmering Sea of Clouds and Moonlight",
+        "ja": "山頂の清心、雲間の月",
+        "zh_CN": "山巅清心云间月",
+        "zh_TW": "山巔清心雲間月"
+      },
+      "video": {
+        "en": "https://youtu.be/c0jZ7sPyouE",
+        "ja": "https://youtu.be/kYneHoH4Is4",
+        "ko": "https://youtu.be/fSk_ngbJWKI"
+      },
+      "duration": 2799080,
+      "tracks": [
+        {
+          "length": 131000,
+          "ids": {
+            "ca": "1538566129",
+            "cn": "1538378192",
+            "tw": "1538567454",
+            "kr": "1538556855",
+            "jp": "1538566000"
+          },
+          "en": "Peaceful Hike (Qingce Daytime)",
+          "zh_CN": "⼭⻛拂萝⾐ (轻策昼间)",
+          "zh_TW": "⼭風拂蘿⾐ (輕策晝間)",
+          "ko": "Peaceful Hike (Qingce Daytime)",
+          "ja": "遠足に行こう(軽策昼間)"
+        },
+        {
+          "length": 129095,
+          "ids": {
+            "ca": "1538566133",
+            "cn": "1538378193",
+            "tw": "1538567456",
+            "kr": "1538556856",
+            "jp": "1538566006"
+          },
+          "en": "The Fading Stories (Qingce Night)",
+          "zh_CN": "不再年轻的村庄 (轻策夜间)",
+          "zh_TW": "不再年輕的村莊 (輕策夜間)",
+          "ko": "The Fading Stories (Qingce Night)",
+          "ja": "老い行く村(軽策夜間)"
+        },
+        {
+          "length": 85500,
+          "ids": {
+            "ca": "1538566136",
+            "cn": "1538378346",
+            "tw": "1538567464",
+            "kr": "1538556858",
+            "jp": "1538566008"
+          },
+          "en": "Wandering Flight",
+          "zh_CN": "倦飞之鸟",
+          "zh_TW": "倦飛之鳥",
+          "ko": "Wandering Flight",
+          "ja": "さまよう羽ばたき"
+        },
+        {
+          "length": 72087,
+          "ids": {
+            "ca": "1538566142",
+            "cn": "1538378347",
+            "tw": "1538568039",
+            "kr": "1538556860",
+            "jp": "1538566009"
+          },
+          "en": "Faint Tracks",
+          "zh_CN": "追寻仙迹",
+          "zh_TW": "追尋仙跡",
+          "ko": "Faint Tracks",
+          "ja": "仙人を後を辿り"
+        },
+        {
+          "length": 74187,
+          "ids": {
+            "ca": "1538566566",
+            "cn": "1538378353",
+            "tw": "1538568041",
+            "kr": "1538556863",
+            "jp": "1538566010"
+          },
+          "en": "Idle Away from Mountains",
+          "zh_CN": "无心出岫",
+          "zh_TW": "無心出岫",
+          "ko": "Idle Away from Mountains",
+          "ja": "閑雲野鶴"
+        },
+        {
+          "length": 99255,
+          "ids": {
+            "ca": "1538566576",
+            "cn": "1538378355",
+            "tw": "1538568045",
+            "kr": "1538556866",
+            "jp": "1538566012"
+          },
+          "en": "Humming Amidst Rocks",
+          "zh_CN": "峭岩作歌",
+          "zh_TW": "峭岩作歌",
+          "ko": "Humming Amidst Rocks",
+          "ja": "岩で創られし歌"
+        },
+        {
+          "length": 57500,
+          "ids": {
+            "ca": "1538566580",
+            "cn": "1538378361",
+            "tw": "1538568051",
+            "kr": "1538556869",
+            "jp": "1538566017"
+          },
+          "en": "Above the Sea of Clouds",
+          "zh_CN": "云海之上",
+          "zh_TW": "雲海之上",
+          "ko": "Above the Sea of Clouds",
+          "ja": "雲海の上"
+        },
+        {
+          "length": 58000,
+          "ids": {
+            "ca": "1538566584",
+            "cn": "1538378363",
+            "tw": "1538568063",
+            "kr": "1538556874",
+            "jp": "1538566296"
+          },
+          "en": "Adeptus' Retirement",
+          "zh_CN": "偷闲浮生",
+          "zh_TW": "偷閒浮生",
+          "ko": "Adeptus' Retirement",
+          "ja": "浮き世で暇作り"
+        },
+        {
+          "length": 69538,
+          "ids": {
+            "ca": "1538566589",
+            "cn": "1538378365",
+            "tw": "1538568526",
+            "kr": "1538557212",
+            "jp": "1538566300"
+          },
+          "en": "A Casual Visit",
+          "zh_CN": "亭台闲坐",
+          "zh_TW": "亭台閒坐",
+          "ko": "A Casual Visit",
+          "ja": "亭下小憩"
+        },
+        {
+          "length": 69351,
+          "ids": {
+            "ca": "1538566689",
+            "cn": "1538378369",
+            "tw": "1538568586",
+            "kr": "1538557224",
+            "jp": "1538566306"
+          },
+          "en": "A Serendipitous Encounter",
+          "zh_CN": "偶遇归人",
+          "zh_TW": "偶遇歸人",
+          "ko": "A Serendipitous Encounter",
+          "ja": "偶然の出会い"
+        },
+        {
+          "length": 82018,
+          "ids": {
+            "ca": "1538566698",
+            "cn": "1538378370",
+            "tw": "1538568591",
+            "kr": "1538557229",
+            "jp": "1538566310"
+          },
+          "en": "Freedom of Crane",
+          "zh_CN": "白鹤之飞",
+          "zh_TW": "白鶴之飛",
+          "ko": "Freedom of Crane",
+          "ja": "白鶴飛翔"
+        },
+        {
+          "length": 80000,
+          "ids": {
+            "ca": "1538566703",
+            "cn": "1538378375",
+            "tw": "1538568595",
+            "kr": "1538557232",
+            "jp": "1538566315"
+          },
+          "en": "Rays of Sunlight",
+          "zh_CN": "天霁日出",
+          "zh_TW": "天霽日出",
+          "ko": "Rays of Sunlight",
+          "ja": "夜明けの光"
+        },
+        {
+          "length": 80000,
+          "ids": {
+            "ca": "1538566707",
+            "cn": "1538378618",
+            "tw": "1538568604",
+            "kr": "1538557392",
+            "jp": "1538566318"
+          },
+          "en": "Rainbow at Summit",
+          "zh_CN": "虹霞垂天",
+          "zh_TW": "虹霞垂天",
+          "ko": "Rainbow at Summit",
+          "ja": "空を飾る虹色"
+        },
+        {
+          "length": 111365,
+          "ids": {
+            "ca": "1538566709",
+            "cn": "1538378621",
+            "tw": "1538568999",
+            "kr": "1538557395",
+            "jp": "1538566322"
+          },
+          "en": "Spring in Clouds",
+          "zh_CN": "清泉入云海",
+          "zh_TW": "清泉入雲海",
+          "ko": "Spring in Clouds",
+          "ja": "春は雲に眠る"
+        },
+        {
+          "length": 107959,
+          "ids": {
+            "ca": "1538566714",
+            "cn": "1538378628",
+            "tw": "1538569003",
+            "kr": "1538557405",
+            "jp": "1538566324"
+          },
+          "en": "Adeptus' Solace",
+          "zh_CN": "仙家独酌",
+          "zh_TW": "仙家獨酌",
+          "ko": "Adeptus' Solace",
+          "ja": "仙人の独酌"
+        },
+        {
+          "length": 62000,
+          "ids": {
+            "ca": "1538566932",
+            "cn": "1538378635",
+            "tw": "1538569009",
+            "kr": "1538557412",
+            "jp": "1538566507"
+          },
+          "en": "The Absence of Adepti",
+          "zh_CN": "洞府徘徊",
+          "zh_TW": "洞府徘徊",
+          "ko": "The Absence of Adepti",
+          "ja": "仙家でのうろつき"
+        },
+        {
+          "length": 73863,
+          "ids": {
+            "ca": "1538566935",
+            "cn": "1538378637",
+            "tw": "1538569011",
+            "kr": "1538557569",
+            "jp": "1538566509"
+          },
+          "en": "Emerging Clouds",
+          "zh_CN": "风静云起",
+          "zh_TW": "風靜雲起",
+          "ko": "Emerging Clouds",
+          "ja": "雲立ち"
+        },
+        {
+          "length": 75499,
+          "ids": {
+            "ca": "1538566939",
+            "cn": "1538378639",
+            "tw": "1538569255",
+            "kr": "1538557571",
+            "jp": "1538566510"
+          },
+          "en": "Drink with a Hermit",
+          "zh_CN": "岩间对饮",
+          "zh_TW": "岩間對飲",
+          "ko": "Drink with a Hermit",
+          "ja": "岩中で交わした盃"
+        },
+        {
+          "length": 64498,
+          "ids": {
+            "ca": "1538566943",
+            "cn": "1538378642",
+            "tw": "1538569258",
+            "kr": "1538557573",
+            "jp": "1538566513"
+          },
+          "en": "Moss Covered Path",
+          "zh_CN": "山路青苔",
+          "zh_TW": "山路青苔",
+          "ko": "Moss Covered Path",
+          "ja": "苔に覆われた山道"
+        },
+        {
+          "length": 52938,
+          "ids": {
+            "ca": "1538566945",
+            "cn": "1538378771",
+            "tw": "1538569263",
+            "kr": "1538557576",
+            "jp": "1538566515"
+          },
+          "en": "Bird Call from Afar",
+          "zh_CN": "云间孤鸿",
+          "zh_TW": "雲間孤鴻",
+          "ko": "Bird Call from Afar",
+          "ja": "雲の中から雁の鳴き声"
+        },
+        {
+          "length": 62500,
+          "ids": {
+            "ca": "1538566951",
+            "cn": "1538378780",
+            "tw": "1538569478",
+            "kr": "1538557581",
+            "jp": "1538566516"
+          },
+          "en": "Red Leaf on the Chessboard",
+          "zh_CN": "仙人的棋局",
+          "zh_TW": "仙人的棋局",
+          "ko": "Red Leaf on the Chessboard",
+          "ja": "仙人の碁盤"
+        },
+        {
+          "length": 93222,
+          "ids": {
+            "ca": "1538566953",
+            "cn": "1538378826",
+            "tw": "1538569490",
+            "kr": "1538557585",
+            "jp": "1538566525"
+          },
+          "en": "Secluded Sanctuary",
+          "zh_CN": "幽涧泠泠",
+          "zh_TW": "幽澗泠泠",
+          "ko": "Secluded Sanctuary",
+          "ja": "清い川谷"
+        },
+        {
+          "length": 84402,
+          "ids": {
+            "ca": "1538567528",
+            "cn": "1538378829",
+            "tw": "1538569499",
+            "kr": "1538557589",
+            "jp": "1538566533"
+          },
+          "en": "Flickering Petals",
+          "zh_CN": "浮影掠光映百合",
+          "zh_TW": "浮影掠光映百合",
+          "ko": "Flickering Petals",
+          "ja": "ちらつく百合の花"
+        },
+        {
+          "length": 84402,
+          "ids": {
+            "ca": "1538567533",
+            "cn": "1538378830",
+            "tw": "1538569692",
+            "kr": "1538557591",
+            "jp": "1538566874"
+          },
+          "en": "Swinging in the Breeze",
+          "zh_CN": "⻘云流⻛饰霓裳",
+          "zh_TW": "青雲流風飾霓裳",
+          "ko": "Swinging in the Breeze",
+          "ja": "揺らめく霓裳の花"
+        },
+        {
+          "length": 69390,
+          "ids": {
+            "ca": "1538567536",
+            "cn": "1538378832",
+            "tw": "1538569695",
+            "kr": "1538557896",
+            "jp": "1538566879"
+          },
+          "en": "Solitude Mountains",
+          "zh_CN": "孑立的群岩",
+          "zh_TW": "孑立的群岩",
+          "ko": "Solitude Mountains",
+          "ja": "孤独な山"
+        },
+        {
+          "length": 74643,
+          "ids": {
+            "ca": "1538567546",
+            "cn": "1538378835",
+            "tw": "1538569709",
+            "kr": "1538557903",
+            "jp": "1538567155"
+          },
+          "en": "Distant Resonance",
+          "zh_CN": "悠远的鸟鸣",
+          "zh_TW": "悠遠的鳥鳴",
+          "ko": "Distant Resonance",
+          "ja": "遠くから鳥の鳴く声"
+        },
+        {
+          "length": 74244,
+          "ids": {
+            "ca": "1538567551",
+            "cn": "1538378837",
+            "tw": "1538569930",
+            "kr": "1538557910",
+            "jp": "1538567385"
+          },
+          "en": "Foregone Giants",
+          "zh_CN": "悠古的脚步",
+          "zh_TW": "悠古的腳步",
+          "ko": "Foregone Giants",
+          "ja": "古の歩み"
+        },
+        {
+          "length": 66327,
+          "ids": {
+            "ca": "1538567859",
+            "cn": "1538378838",
+            "tw": "1538569952",
+            "kr": "1538557914",
+            "jp": "1538567476"
+          },
+          "en": "Linger in the Valley",
+          "zh_CN": "山间回望",
+          "zh_TW": "山間回望",
+          "ko": "Linger in the Valley",
+          "ja": "谷に佇む"
+        },
+        {
+          "length": 108949,
+          "ids": {
+            "ca": "1538567979",
+            "cn": "1538378841",
+            "tw": "1538570078",
+            "kr": "1538557917",
+            "jp": "1538567478"
+          },
+          "en": "Slumbering Lore",
+          "zh_CN": "沉睡的往昔",
+          "zh_TW": "沉睡的往昔",
+          "ko": "Slumbering Lore",
+          "ja": "まどろみの伝承"
+        },
+        {
+          "length": 62753,
+          "ids": {
+            "ca": "1538568017",
+            "cn": "1538378846",
+            "tw": "1538570087",
+            "kr": "1538557924",
+            "jp": "1538567485"
+          },
+          "en": "Silent Ruins",
+          "zh_CN": "黯然的城塞",
+          "zh_TW": "黯然的城塞",
+          "ko": "Silent Ruins",
+          "ja": "静かな遺跡"
+        },
+        {
+          "length": 94500,
+          "ids": {
+            "ca": "1538568022",
+            "cn": "1538378848",
+            "tw": "1538570096",
+            "kr": "1538558113",
+            "jp": "1538567680"
+          },
+          "en": "Lone Drifter",
+          "zh_CN": "孤独的漫行者",
+          "zh_TW": "孤獨的漫行者",
+          "ko": "Lone Drifter",
+          "ja": "孤独の漫遊者"
+        },
+        {
+          "length": 94923,
+          "ids": {
+            "ca": "1538568198",
+            "cn": "1538378850",
+            "tw": "1538570101",
+            "kr": "1538558117",
+            "jp": "1538567695"
+          },
+          "en": "Lost Expectation",
+          "zh_CN": "失落的愿景",
+          "zh_TW": "失落的願景",
+          "ko": "Lost Expectation",
+          "ja": "失われた望み"
+        },
+        {
+          "length": 193172,
+          "ids": {
+            "ca": "1538568205",
+            "cn": "1538378853",
+            "tw": "1538570377",
+            "kr": "1538558128",
+            "jp": "1538567700"
+          },
+          "en": "The Realm Within",
+          "zh_CN": "壶中洞天",
+          "zh_TW": "壺中洞天",
+          "ko": "The Realm Within",
+          "ja": "壺中の天地"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Battles of Liyue",
+        "ja": "璃月鏖戦録",
+        "zh_CN": "璃月鏖战录",
+        "zh_TW": "璃月鏖戰錄"
+      },
+      "video": {
+        "en": "https://youtu.be/keeqPGo-JZ4",
+        "ja": "https://youtu.be/pfO8KFcVtiY",
+        "ko": "https://youtu.be/prhveKy1jpU"
+      },
+      "duration": 716384,
+      "tracks": [
+        {
+          "length": 259588,
+          "ids": {
+            "ca": "1538568208",
+            "cn": "1538379218",
+            "tw": "1538570381",
+            "kr": "1538558129",
+            "jp": "1538567704"
+          },
+          "en": "Rapid as Wildfires",
+          "zh_CN": "疾如猛火",
+          "zh_TW": "疾如猛火",
+          "ko": "Rapid as Wildfires",
+          "ja": "烈火の如く"
+        },
+        {
+          "length": 234120,
+          "ids": {
+            "ca": "1538568213",
+            "cn": "1538379231",
+            "tw": "1538570627",
+            "kr": "1538558266",
+            "jp": "1538567921"
+          },
+          "en": "Chasing the Torrents",
+          "zh_CN": "激流逐浪",
+          "zh_TW": "激流逐浪",
+          "ko": "Chasing the Torrents",
+          "ja": "激流の如く"
+        },
+        {
+          "length": 222676,
+          "ids": {
+            "ca": "1538568478",
+            "cn": "1538379232",
+            "tw": "1538570820",
+            "kr": "1538558274",
+            "jp": "1538567927"
+          },
+          "en": "Gallant Challenge",
+          "zh_CN": "鲜衣游侠",
+          "zh_TW": "鮮衣遊俠",
+          "ko": "Gallant Challenge",
+          "ja": "凛々しい遊侠"
+        }
+      ]
+    }
+  ]
+}

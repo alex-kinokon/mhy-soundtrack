@@ -1,0 +1,1715 @@
+{
+  "id": "unfathomable-sand-dunes",
+  "title": {
+    "en": "The Unfathomable Sand Dunes",
+    "zh_CN": "啁哳流变之砂",
+    "ja": "流変の砂、さやさやと",
+    "ko": "불가사의한 모래의 언덕",
+    "zh_TW": "啁哳流變之砂"
+  },
+  "game": "genshin_impact",
+  "upc": "3617059161834",
+  "releaseDate": "2023-04-19",
+  "artistName": "HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 108,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1682626856",
+      "cn": "1682595656",
+      "jp": "1682646063",
+      "kr": "1682587300",
+      "tw": "1682489281"
+    }
+  },
+  "colors": {
+    "background": "#f7f2df",
+    "colors": [
+      "#371f16",
+      "#41291e",
+      "#5e493e",
+      "#655145"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e5/ba/00/e5ba0077-b9a8-1a79-8289-3be0bea8020d/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a9/4a/0a/a94a0a08-35dc-ea66-eb58-718d165c54a9/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/e6/6b/7de66bba-d381-8651-deae-224bf438cf65/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/35/0a/39350a41-884b-2d5c-690b-aeac430220d2/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cc/09/06/cc0906f5-37ae-9973-b8f7-54f562b914f1/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "ja": "風砂の追懐",
+        "en": "Sandstorm Remembrances",
+        "ko": "모래바람의 과거",
+        "zh_CN": "风沙往事",
+        "zh_TW": "風沙往事"
+      },
+      "video": {
+        "ja": "https://youtu.be/q6zdjQ7iYUM",
+        "en": "https://youtu.be/qbXCM06FWHk",
+        "ko": "https://youtu.be/ksLzSbxvY5M"
+      },
+      "duration": 5406944,
+      "tracks": [
+        {
+          "length": 111419,
+          "ids": {
+            "ca": "1682626867",
+            "cn": "1682595659",
+            "jp": "1682646072",
+            "kr": "1682587517",
+            "tw": "1682489284"
+          },
+          "en": "Sorush's Purity",
+          "zh_CN": "斯露莎的歌",
+          "ja": "ソルシュの歌",
+          "ko": "Sorush's Purity",
+          "zh_TW": "斯露莎的歌"
+        },
+        {
+          "length": 108395,
+          "ids": {
+            "ca": "1682626872",
+            "cn": "1682595661",
+            "jp": "1682646545",
+            "kr": "1682587524",
+            "tw": "1682489287"
+          },
+          "en": "Resonance of Khvarena",
+          "zh_CN": "灵光的回响",
+          "ja": "霊光の響き",
+          "ko": "Resonance of Khvarena",
+          "zh_TW": "靈光的迴響"
+        },
+        {
+          "length": 115797,
+          "ids": {
+            "ca": "1682627211",
+            "cn": "1682595667",
+            "jp": "1682646611",
+            "kr": "1682587537",
+            "tw": "1682489292"
+          },
+          "en": "Maidens of Sanctity",
+          "zh_CN": "花与树的女儿们",
+          "ja": "花と木の娘たち",
+          "ko": "Maidens of Sanctity",
+          "zh_TW": "花與樹的女兒們"
+        },
+        {
+          "length": 92181,
+          "ids": {
+            "ca": "1682627219",
+            "cn": "1682595672",
+            "jp": "1682646612",
+            "kr": "1682587538",
+            "tw": "1682489294"
+          },
+          "en": "The Caress of Three Mothers",
+          "zh_CN": "女主人的叮咛",
+          "ja": "女主人の言いつけ",
+          "ko": "The Caress of Three Mothers",
+          "zh_TW": "女主人的叮嚀"
+        },
+        {
+          "length": 81920,
+          "ids": {
+            "ca": "1682627228",
+            "cn": "1682595977",
+            "jp": "1682646710",
+            "kr": "1682587540",
+            "tw": "1682489295"
+          },
+          "en": "Where Simurgh Rests",
+          "zh_CN": "神鸟栖居之处",
+          "ja": "神鳥の棲む処",
+          "ko": "Where Simurgh Rests",
+          "zh_TW": "神鳥棲居之處"
+        },
+        {
+          "length": 81313,
+          "ids": {
+            "ca": "1682627234",
+            "cn": "1682595979",
+            "jp": "1682646773",
+            "kr": "1682587545",
+            "tw": "1682489928"
+          },
+          "en": "Fantasy of Ten Thousand Blossoms",
+          "zh_CN": "万千蕊芯之梦",
+          "ja": "花蕊は幾千もの夢をみる",
+          "ko": "Fantasy of Ten Thousand Blossoms",
+          "zh_TW": "萬千蕊芯之夢"
+        },
+        {
+          "length": 96714,
+          "ids": {
+            "ca": "1682627566",
+            "cn": "1682595981",
+            "jp": "1682646776",
+            "kr": "1682587700",
+            "tw": "1682489933"
+          },
+          "en": "Dirge of Newborn Life",
+          "zh_CN": "生命受祝之所",
+          "ja": "生きとし生けるものへ",
+          "ko": "Dirge of Newborn Life",
+          "zh_TW": "生命受祝之所"
+        },
+        {
+          "length": 100565,
+          "ids": {
+            "ca": "1682627571",
+            "cn": "1682595983",
+            "jp": "1682646782",
+            "kr": "1682587713",
+            "tw": "1682489943"
+          },
+          "en": "Undisturbed Tranquility",
+          "zh_CN": "无忧的眠梦",
+          "ja": "無憂夢",
+          "ko": "Undisturbed Tranquility",
+          "zh_TW": "無憂的眠夢"
+        },
+        {
+          "length": 105173,
+          "ids": {
+            "ca": "1682627573",
+            "cn": "1682595993",
+            "jp": "1682646783",
+            "kr": "1682587714",
+            "tw": "1682489953"
+          },
+          "en": "Mirage of the Oasis",
+          "zh_CN": "绿洲的蜃影",
+          "ja": "オアシスの蜃気楼",
+          "ko": "Mirage of the Oasis",
+          "zh_TW": "綠洲的蜃影"
+        },
+        {
+          "length": 89771,
+          "ids": {
+            "ca": "1682627575",
+            "cn": "1682595999",
+            "jp": "1682646786",
+            "kr": "1682587716",
+            "tw": "1682490257"
+          },
+          "en": "Lonesome Road",
+          "zh_CN": "孤客之旅",
+          "ja": "孤独な旅路",
+          "ko": "Lonesome Road",
+          "zh_TW": "孤客之旅"
+        },
+        {
+          "length": 91496,
+          "ids": {
+            "ca": "1682627580",
+            "cn": "1682596003",
+            "jp": "1682646792",
+            "kr": "1682587717",
+            "tw": "1682490258"
+          },
+          "en": "Grief of the Lost",
+          "zh_CN": "迷失之叹",
+          "ja": "迷い子の嘆き",
+          "ko": "Grief of the Lost",
+          "zh_TW": "迷失之嘆"
+        },
+        {
+          "length": 81091,
+          "ids": {
+            "ca": "1682627581",
+            "cn": "1682596278",
+            "jp": "1682647099",
+            "kr": "1682587718",
+            "tw": "1682490269"
+          },
+          "en": "Dividing Paths",
+          "zh_CN": "分歧的道路",
+          "ja": "分かたれた道",
+          "ko": "Dividing Paths",
+          "zh_TW": "分歧的道路"
+        },
+        {
+          "length": 107499,
+          "ids": {
+            "ca": "1682627584",
+            "cn": "1682596282",
+            "jp": "1682647100",
+            "kr": "1682587720",
+            "tw": "1682490273"
+          },
+          "en": "Dawnlight Over Dunes",
+          "zh_CN": "沙丘上的曙光",
+          "ja": "砂丘に差す暁光",
+          "ko": "Dawnlight Over Dunes",
+          "zh_TW": "沙丘上的曙光"
+        },
+        {
+          "length": 119168,
+          "ids": {
+            "ca": "1682627585",
+            "cn": "1682596287",
+            "jp": "1682647101",
+            "kr": "1682587846",
+            "tw": "1682490276"
+          },
+          "en": "Dance of Scorpions",
+          "zh_CN": "沙蝎之舞",
+          "ja": "蠍の舞踏",
+          "ko": "Dance of Scorpions",
+          "zh_TW": "沙蠍之舞"
+        },
+        {
+          "length": 129707,
+          "ids": {
+            "ca": "1682628192",
+            "cn": "1682596290",
+            "jp": "1682647113",
+            "kr": "1682587847",
+            "tw": "1682490281"
+          },
+          "en": "Golden Crescent",
+          "zh_CN": "荒沙与新月",
+          "ja": "荒漠と三日月",
+          "ko": "Golden Crescent",
+          "zh_TW": "荒沙與新月"
+        },
+        {
+          "length": 108736,
+          "ids": {
+            "ca": "1682628263",
+            "cn": "1682596293",
+            "jp": "1682647115",
+            "kr": "1682587848",
+            "tw": "1682490285"
+          },
+          "en": "A Pearl Amongst Legends",
+          "zh_CN": "千夜的遗珠",
+          "ja": "千夜に忘れられた宝玉",
+          "ko": "A Pearl Amongst Legends",
+          "zh_TW": "千夜的遺珠"
+        },
+        {
+          "length": 117931,
+          "ids": {
+            "ca": "1682628275",
+            "cn": "1682596300",
+            "jp": "1682647117",
+            "kr": "1682587851",
+            "tw": "1682490954"
+          },
+          "en": "Hymn of Cicadas",
+          "zh_CN": "大漠虫鸣",
+          "ja": "荒原に響く虫の音",
+          "ko": "Hymn of Cicadas",
+          "zh_TW": "大漠蟲鳴"
+        },
+        {
+          "length": 95184,
+          "ids": {
+            "ca": "1682628282",
+            "cn": "1682596457",
+            "jp": "1682647122",
+            "kr": "1682587860",
+            "tw": "1682490964"
+          },
+          "en": "Simurgh's Dream",
+          "zh_CN": "花海之梦",
+          "ja": "花海の夢",
+          "ko": "Simurgh's Dream",
+          "zh_TW": "花海之夢"
+        },
+        {
+          "length": 97648,
+          "ids": {
+            "ca": "1682628621",
+            "cn": "1682596459",
+            "jp": "1682647486",
+            "kr": "1682587875",
+            "tw": "1682490969"
+          },
+          "en": "Taabak Laylatak",
+          "zh_CN": "月光的祝福",
+          "ja": "月明かりの祝福",
+          "ko": "Taabak Laylatak",
+          "zh_TW": "月光的祝福"
+        },
+        {
+          "length": 122603,
+          "ids": {
+            "ca": "1682628627",
+            "cn": "1682596477",
+            "jp": "1682647492",
+            "kr": "1682587945",
+            "tw": "1682490973"
+          },
+          "en": "Resting Rogues",
+          "zh_CN": "浪客的安歇",
+          "ja": "浪客の憩い",
+          "ko": "Resting Rogues",
+          "zh_TW": "浪客的安歇"
+        },
+        {
+          "length": 125397,
+          "ids": {
+            "ca": "1682628631",
+            "cn": "1682596484",
+            "jp": "1682647576",
+            "kr": "1682587949",
+            "tw": "1682491819"
+          },
+          "en": "Perilous Hollow",
+          "zh_CN": "深秘的险境",
+          "ja": "深秘窮境",
+          "ko": "Perilous Hollow",
+          "zh_TW": "深秘的險境"
+        },
+        {
+          "length": 130688,
+          "ids": {
+            "ca": "1682629011",
+            "cn": "1682596620",
+            "jp": "1682647577",
+            "kr": "1682587958",
+            "tw": "1682491821"
+          },
+          "en": "Omen of Desolation",
+          "zh_CN": "荒废的预言",
+          "ja": "荒廃の兆し",
+          "ko": "Omen of Desolation",
+          "zh_TW": "荒廢的預言"
+        },
+        {
+          "length": 110912,
+          "ids": {
+            "ca": "1682629018",
+            "cn": "1682596626",
+            "jp": "1682647579",
+            "kr": "1682588086",
+            "tw": "1682491826"
+          },
+          "en": "Solitary Breach",
+          "zh_CN": "孤独的渊薮",
+          "ja": "孤独な深淵",
+          "ko": "Solitary Breach",
+          "zh_TW": "孤獨的淵藪"
+        },
+        {
+          "length": 115669,
+          "ids": {
+            "ca": "1682629024",
+            "cn": "1682596634",
+            "jp": "1682647583",
+            "kr": "1682588093",
+            "tw": "1682491841"
+          },
+          "en": "Ghastly Badlands",
+          "zh_CN": "荆棘丛生之地",
+          "ja": "いばらが囲む地",
+          "ko": "Ghastly Badlands",
+          "zh_TW": "荊棘叢生之地"
+        },
+        {
+          "length": 111515,
+          "ids": {
+            "ca": "1682629221",
+            "cn": "1682596760",
+            "jp": "1682647589",
+            "kr": "1682588101",
+            "tw": "1682492002"
+          },
+          "en": "Shadow in Ruins",
+          "zh_CN": "残迹幽影",
+          "ja": "廃墟に潜む影",
+          "ko": "Shadow in Ruins",
+          "zh_TW": "殘跡幽影"
+        },
+        {
+          "length": 106611,
+          "ids": {
+            "ca": "1682629229",
+            "cn": "1682596764",
+            "jp": "1682647938",
+            "kr": "1682588107",
+            "tw": "1682492011"
+          },
+          "en": "Abominable Bog",
+          "zh_CN": "受诅的泽地",
+          "ja": "呪われた沼地",
+          "ko": "Abominable Bog",
+          "zh_TW": "受詛的澤地"
+        },
+        {
+          "length": 108824,
+          "ids": {
+            "ca": "1682629234",
+            "cn": "1682596769",
+            "jp": "1682647941",
+            "kr": "1682588112",
+            "tw": "1682492297"
+          },
+          "en": "Where Vermin Crawl",
+          "zh_CN": "毒虫伏行之处",
+          "ja": "地を這う毒虫",
+          "ko": "Where Vermin Crawl",
+          "zh_TW": "毒蟲伏行之處"
+        },
+        {
+          "length": 110827,
+          "ids": {
+            "ca": "1682629238",
+            "cn": "1682596771",
+            "jp": "1682647952",
+            "kr": "1682588236",
+            "tw": "1682492302"
+          },
+          "en": "Where Dreams Putrify",
+          "zh_CN": "旧梦腐朽之所",
+          "ja": "遥かな夢の朽ち果てる場所",
+          "ko": "Where Dreams Putrify",
+          "zh_TW": "舊夢腐朽之所"
+        },
+        {
+          "length": 107584,
+          "ids": {
+            "ca": "1682629617",
+            "cn": "1682597074",
+            "jp": "1682647954",
+            "kr": "1682588241",
+            "tw": "1682492308"
+          },
+          "en": "Pairidaeza",
+          "zh_CN": "葱茏的梦乡",
+          "ja": "青々しき夢",
+          "ko": "Pairidaeza",
+          "zh_TW": "蔥蘢的夢鄉"
+        },
+        {
+          "length": 147544,
+          "ids": {
+            "ca": "1682629734",
+            "cn": "1682597075",
+            "jp": "1682647959",
+            "kr": "1682588245",
+            "tw": "1682492311"
+          },
+          "en": "Her Wishes",
+          "zh_CN": "她的期许",
+          "ja": "彼女の熱望",
+          "ko": "Her Wishes",
+          "zh_TW": "她的期許"
+        },
+        {
+          "length": 147965,
+          "ids": {
+            "ca": "1682629868",
+            "cn": "1682597079",
+            "jp": "1682648178",
+            "kr": "1682588248",
+            "tw": "1682492319"
+          },
+          "en": "Oracle of the Void",
+          "zh_CN": "空虚的愿景",
+          "ja": "虚しい未来図",
+          "ko": "Oracle of the Void",
+          "zh_TW": "空虛的願景"
+        },
+        {
+          "length": 91648,
+          "ids": {
+            "ca": "1682629874",
+            "cn": "1682597179",
+            "jp": "1682648182",
+            "kr": "1682588253",
+            "tw": "1682492324"
+          },
+          "en": "Once-Joyful Dream",
+          "zh_CN": "往昔的乐园",
+          "ja": "旧楽園",
+          "ko": "Once-Joyful Dream",
+          "zh_TW": "往昔的樂園"
+        },
+        {
+          "length": 92160,
+          "ids": {
+            "ca": "1682630179",
+            "cn": "1682597191",
+            "jp": "1682648185",
+            "kr": "1682588257",
+            "tw": "1682492796"
+          },
+          "en": "Kingdom of Dust",
+          "zh_CN": "扬尘如幕",
+          "ja": "砂煙",
+          "ko": "Kingdom of Dust",
+          "zh_TW": "揚塵如幕"
+        },
+        {
+          "length": 56149,
+          "ids": {
+            "ca": "1682630190",
+            "cn": "1682597199",
+            "jp": "1682648191",
+            "kr": "1682588262",
+            "tw": "1682492797"
+          },
+          "en": "Empire of Sand",
+          "zh_CN": "黄砂为衾",
+          "ja": "砂纏う肌",
+          "ko": "Empire of Sand",
+          "zh_TW": "黃砂為衾"
+        },
+        {
+          "length": 109440,
+          "ids": {
+            "ca": "1682630195",
+            "cn": "1682597203",
+            "jp": "1682648196",
+            "kr": "1682588570",
+            "tw": "1682493121"
+          },
+          "en": "Spice Road",
+          "zh_CN": "香料之路",
+          "ja": "Spice Road",
+          "ko": "Spice Road",
+          "zh_TW": "香料之路"
+        },
+        {
+          "length": 92885,
+          "ids": {
+            "ca": "1682630203",
+            "cn": "1682597359",
+            "jp": "1682648199",
+            "kr": "1682588579",
+            "tw": "1682493124"
+          },
+          "en": "Realms of Amnesia",
+          "zh_CN": "失忆的诸国",
+          "ja": "失われた国々",
+          "ko": "Realms of Amnesia",
+          "zh_TW": "失憶的諸國"
+        },
+        {
+          "length": 97536,
+          "ids": {
+            "ca": "1682630387",
+            "cn": "1682597363",
+            "jp": "1682648716",
+            "kr": "1682588594",
+            "tw": "1682493134"
+          },
+          "en": "Gilded Journey",
+          "zh_CN": "镀金的旅途",
+          "ja": "金色に輝く旅",
+          "ko": "Gilded Journey",
+          "zh_TW": "鍍金的旅途"
+        },
+        {
+          "length": 107221,
+          "ids": {
+            "ca": "1682630392",
+            "cn": "1682597365",
+            "jp": "1682648723",
+            "kr": "1682588748",
+            "tw": "1682493887"
+          },
+          "en": "Ocean of Grains",
+          "zh_CN": "众砾的汪洋",
+          "ja": "砂の大海原",
+          "ko": "Ocean of Grains",
+          "zh_TW": "眾礫的汪洋"
+        },
+        {
+          "length": 109696,
+          "ids": {
+            "ca": "1682630398",
+            "cn": "1682597369",
+            "jp": "1682648726",
+            "kr": "1682588751",
+            "tw": "1682493892"
+          },
+          "en": "Desert Lullaby",
+          "zh_CN": "砂海的摇篮曲",
+          "ja": "砂海のララバイ",
+          "ko": "Desert Lullaby",
+          "zh_TW": "砂海的搖籃曲"
+        },
+        {
+          "length": 78869,
+          "ids": {
+            "ca": "1682630407",
+            "cn": "1682597375",
+            "jp": "1682648728",
+            "kr": "1682588765",
+            "tw": "1682493898"
+          },
+          "en": "The Crescent Moon's Waning",
+          "zh_CN": "褪色的眷恋",
+          "ja": "色褪せた慕情",
+          "ko": "The Crescent Moon's Waning",
+          "zh_TW": "褪色的眷戀"
+        },
+        {
+          "length": 91392,
+          "ids": {
+            "ca": "1682630847",
+            "cn": "1682597382",
+            "jp": "1682648731",
+            "kr": "1682588767",
+            "tw": "1682493902"
+          },
+          "en": "Memories of Gurabad",
+          "zh_CN": "故国的回忆",
+          "ja": "ジュラバドの思い出",
+          "ko": "Memories of Gurabad",
+          "zh_TW": "故國的回憶"
+        },
+        {
+          "length": 80853,
+          "ids": {
+            "ca": "1682630857",
+            "cn": "1682597657",
+            "jp": "1682648733",
+            "kr": "1682588810",
+            "tw": "1682493913"
+          },
+          "en": "Lo, There Do I See The Falcon",
+          "zh_CN": "归巢的猎鹰",
+          "ja": "ほら、猟鷹が巣に帰る。",
+          "ko": "Lo, There Do I See The Falcon",
+          "zh_TW": "歸巢的獵鷹"
+        },
+        {
+          "length": 101525,
+          "ids": {
+            "ca": "1682630865",
+            "cn": "1682597661",
+            "jp": "1682648737",
+            "kr": "1682588815",
+            "tw": "1682494129"
+          },
+          "en": "Where She Will Return",
+          "zh_CN": "安睡之所",
+          "ja": "帰るべき居場所",
+          "ko": "Where She Will Return",
+          "zh_TW": "安睡之所"
+        },
+        {
+          "length": 108864,
+          "ids": {
+            "ca": "1682631109",
+            "cn": "1682597666",
+            "jp": "1682648743",
+            "kr": "1682588818",
+            "tw": "1682494135"
+          },
+          "en": "Those Who Dream No Dreams",
+          "zh_CN": "蛇蝎无眠",
+          "ja": "蛇と蠍は眠らない",
+          "ko": "Those Who Dream No Dreams",
+          "zh_TW": "蛇蠍無眠"
+        },
+        {
+          "length": 89224,
+          "ids": {
+            "ca": "1682631112",
+            "cn": "1682597676",
+            "jp": "1682649166",
+            "kr": "1682588869",
+            "tw": "1682494140"
+          },
+          "en": "The Temple Conquered by Death",
+          "zh_CN": "死寂的殿堂",
+          "ja": "蕭やかな殿堂",
+          "ko": "The Temple Conquered by Death",
+          "zh_TW": "死寂的殿堂"
+        },
+        {
+          "length": 107352,
+          "ids": {
+            "ca": "1682631120",
+            "cn": "1682597679",
+            "jp": "1682649175",
+            "kr": "1682588877",
+            "tw": "1682494146"
+          },
+          "en": "Lamenting Torrent of Oblivion",
+          "zh_CN": "遗落的哀歌",
+          "ja": "失われた哀歌",
+          "ko": "Lamenting Torrent of Oblivion",
+          "zh_TW": "遺落的哀歌"
+        },
+        {
+          "length": 104843,
+          "ids": {
+            "ca": "1682631122",
+            "cn": "1682597959",
+            "jp": "1682649177",
+            "kr": "1682588882",
+            "tw": "1682494155"
+          },
+          "en": "Debris of the Beloved",
+          "zh_CN": "赤砂的思慕",
+          "ja": "赤砂の思慕",
+          "ko": "Debris of the Beloved",
+          "zh_TW": "赤砂的思慕"
+        },
+        {
+          "length": 104171,
+          "ids": {
+            "ca": "1682631129",
+            "cn": "1682597963",
+            "jp": "1682649179",
+            "kr": "1682588883",
+            "tw": "1682494551"
+          },
+          "en": "Vermin Nest",
+          "zh_CN": "毒虫之穴",
+          "ja": "毒虫の巣穴",
+          "ko": "Vermin Nest",
+          "zh_TW": "毒蟲之穴"
+        },
+        {
+          "length": 74816,
+          "ids": {
+            "ca": "1682631481",
+            "cn": "1682597966",
+            "jp": "1682649182",
+            "kr": "1682588889",
+            "tw": "1682494564"
+          },
+          "en": "Gurabad's Whisper",
+          "zh_CN": "古城的低语",
+          "ja": "古都のささやき",
+          "ko": "Gurabad's Whisper",
+          "zh_TW": "古城的低語"
+        },
+        {
+          "length": 78805,
+          "ids": {
+            "ca": "1682631586",
+            "cn": "1682597972",
+            "jp": "1682649192",
+            "kr": "1682588890",
+            "tw": "1682494853"
+          },
+          "en": "Buried Mysteries",
+          "zh_CN": "砂下秘辛",
+          "ja": "砂に埋もれた秘密",
+          "ko": "Buried Mysteries",
+          "zh_TW": "砂下秘辛"
+        },
+        {
+          "length": 121301,
+          "ids": {
+            "ca": "1682631595",
+            "cn": "1682597981",
+            "jp": "1682649647",
+            "kr": "1682589078",
+            "tw": "1682494857"
+          },
+          "en": "Gold Cup of Oases",
+          "zh_CN": "诸绿洲中的金杯",
+          "ja": "オアシスの金盃",
+          "ko": "Gold Cup of Oases",
+          "zh_TW": "諸綠洲中的金杯"
+        },
+        {
+          "length": 130347,
+          "ids": {
+            "ca": "1682631600",
+            "cn": "1682598226",
+            "jp": "1682649649",
+            "kr": "1682589079",
+            "tw": "1682494865"
+          },
+          "en": "Lingering Vipers",
+          "zh_CN": "流沙的缱绻",
+          "ja": "纏いつく流砂",
+          "ko": "Lingering Vipers",
+          "zh_TW": "流沙的繾綣"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ja": "砂海に離散する民",
+        "en": "Desert Exodus",
+        "ko": "모래바다의 이민자",
+        "zh_CN": "沙海的离民",
+        "zh_TW": "沙海的離民"
+      },
+      "video": {
+        "ja": "https://youtu.be/NXOktlNS6AY",
+        "en": "https://youtu.be/E-iloxxMWdE",
+        "ko": "https://youtu.be/IximB6g4c3Y"
+      },
+      "duration": 4934041,
+      "tracks": [
+        {
+          "length": 105680,
+          "ids": {
+            "ca": "1682631605",
+            "cn": "1682598230",
+            "jp": "1682649777",
+            "kr": "1682589080",
+            "tw": "1682494870"
+          },
+          "en": "Aspiration of Guardians",
+          "zh_CN": "守护者的思眷",
+          "ja": "ガーディアンの想い",
+          "ko": "Aspiration of Guardians",
+          "zh_TW": "守護者的思眷"
+        },
+        {
+          "length": 109611,
+          "ids": {
+            "ca": "1682631827",
+            "cn": "1682598235",
+            "jp": "1682649783",
+            "kr": "1682589085",
+            "tw": "1682494872"
+          },
+          "en": "Wind of Tranquility",
+          "zh_CN": "宥谧宁息之风",
+          "ja": "静謐の風",
+          "ko": "Wind of Tranquility",
+          "zh_TW": "宥謐寧息之風"
+        },
+        {
+          "length": 78293,
+          "ids": {
+            "ca": "1682631828",
+            "cn": "1682598240",
+            "jp": "1682649789",
+            "kr": "1682589090",
+            "tw": "1682494875"
+          },
+          "en": "Settlement for Exiles",
+          "zh_CN": "沙民的庇护所",
+          "ja": "砂民の心安らぐ地",
+          "ko": "Settlement for Exiles",
+          "zh_TW": "沙民的庇護所"
+        },
+        {
+          "length": 110635,
+          "ids": {
+            "ca": "1682631837",
+            "cn": "1682598253",
+            "jp": "1682649793",
+            "kr": "1682589316",
+            "tw": "1682495268"
+          },
+          "en": "Inscription of Dreams",
+          "zh_CN": "镌刻遥梦之铭",
+          "ja": "遥かな夢を銘す",
+          "ko": "Inscription of Dreams",
+          "zh_TW": "鐫刻遙夢之銘"
+        },
+        {
+          "length": 111168,
+          "ids": {
+            "ca": "1682631844",
+            "cn": "1682598255",
+            "jp": "1682649984",
+            "kr": "1682589317",
+            "tw": "1682495274"
+          },
+          "en": "Vow of a Thousand Generations",
+          "zh_CN": "千世传述之愿",
+          "ja": "千代に受け継ぐ願い",
+          "ko": "Vow of a Thousand Generations",
+          "zh_TW": "千世傳述之願"
+        },
+        {
+          "length": 97899,
+          "ids": {
+            "ca": "1682631851",
+            "cn": "1682598497",
+            "jp": "1682649998",
+            "kr": "1682589320",
+            "tw": "1682495284"
+          },
+          "en": "Smoldering Glow",
+          "zh_CN": "灼燃的残光",
+          "ja": "残光は灼らかに燃えて",
+          "ko": "Smoldering Glow",
+          "zh_TW": "灼燃的殘光"
+        },
+        {
+          "length": 83925,
+          "ids": {
+            "ca": "1682632277",
+            "cn": "1682598500",
+            "jp": "1682650002",
+            "kr": "1682589326",
+            "tw": "1682495291"
+          },
+          "en": "Ruins of Scorching Might",
+          "zh_CN": "余威犹存",
+          "ja": "とどまる余威",
+          "ko": "Ruins of Scorching Might",
+          "zh_TW": "餘威猶存"
+        },
+        {
+          "length": 103211,
+          "ids": {
+            "ca": "1682632282",
+            "cn": "1682598511",
+            "jp": "1682650190",
+            "kr": "1682589333",
+            "tw": "1682495628"
+          },
+          "en": "Now and Then",
+          "zh_CN": "抚今惟昔",
+          "ja": "今に触れ、昔を偲ぶ",
+          "ko": "Now and Then",
+          "zh_TW": "撫今惟昔"
+        },
+        {
+          "length": 89573,
+          "ids": {
+            "ca": "1682632291",
+            "cn": "1682598516",
+            "jp": "1682650199",
+            "kr": "1682589339",
+            "tw": "1682495639"
+          },
+          "en": "Distant Retrospection",
+          "zh_CN": "旧思缅邈",
+          "ja": "思い出は遥か",
+          "ko": "Distant Retrospection",
+          "zh_TW": "舊思緬邈"
+        },
+        {
+          "length": 94941,
+          "ids": {
+            "ca": "1682632293",
+            "cn": "1682598520",
+            "jp": "1682650201",
+            "kr": "1682589345",
+            "tw": "1682495643"
+          },
+          "en": "Reminiscences of Remnants",
+          "zh_CN": "遗甃轸念",
+          "ja": "旧壁への追慕",
+          "ko": "Reminiscences of Remnants",
+          "zh_TW": "遺甃軫念"
+        },
+        {
+          "length": 97313,
+          "ids": {
+            "ca": "1682632305",
+            "cn": "1682598827",
+            "jp": "1682650210",
+            "kr": "1682589534",
+            "tw": "1682495648"
+          },
+          "en": "Land of Hidden Depths",
+          "zh_CN": "深黯之地",
+          "ja": "闇に隠された地",
+          "ko": "Land of Hidden Depths",
+          "zh_TW": "深黯之地"
+        },
+        {
+          "length": 95130,
+          "ids": {
+            "ca": "1682632610",
+            "cn": "1682598831",
+            "jp": "1682650529",
+            "kr": "1682589537",
+            "tw": "1682496136"
+          },
+          "en": "Shade of Reticent Conundrums",
+          "zh_CN": "缄秘的影迹",
+          "ja": "秘密の行方",
+          "ko": "Shade of Reticent Conundrums",
+          "zh_TW": "緘秘的影跡"
+        },
+        {
+          "length": 98606,
+          "ids": {
+            "ca": "1682632705",
+            "cn": "1682598838",
+            "jp": "1682650532",
+            "kr": "1682589542",
+            "tw": "1682496150"
+          },
+          "en": "Past Repast",
+          "zh_CN": "失殒的旧宴",
+          "ja": "失われた旧宴",
+          "ko": "Past Repast",
+          "zh_TW": "失殞的舊宴"
+        },
+        {
+          "length": 93611,
+          "ids": {
+            "ca": "1682632711",
+            "cn": "1682598846",
+            "jp": "1682650537",
+            "kr": "1682589550",
+            "tw": "1682496162"
+          },
+          "en": "Crumbled Pledge",
+          "zh_CN": "沦没的誓愿",
+          "ja": "沈む誓い",
+          "ko": "Crumbled Pledge",
+          "zh_TW": "淪沒的誓願"
+        },
+        {
+          "length": 103905,
+          "ids": {
+            "ca": "1682632717",
+            "cn": "1682598855",
+            "jp": "1682650728",
+            "kr": "1682589706",
+            "tw": "1682496290"
+          },
+          "en": "Stairway of Neterikhet",
+          "zh_CN": "诸世的阶梯",
+          "ja": "ネチェルイリケトの階段",
+          "ko": "Stairway of Neterikhet",
+          "zh_TW": "諸世的階梯"
+        },
+        {
+          "length": 103028,
+          "ids": {
+            "ca": "1682633026",
+            "cn": "1682599133",
+            "jp": "1682650732",
+            "kr": "1682589715",
+            "tw": "1682496300"
+          },
+          "en": "Millennial Sails",
+          "zh_CN": "炽天的辉舟",
+          "ja": "天燃やす輝舟",
+          "ko": "Millennial Sails",
+          "zh_TW": "熾天的輝舟"
+        },
+        {
+          "length": 106110,
+          "ids": {
+            "ca": "1682633032",
+            "cn": "1682599141",
+            "jp": "1682650739",
+            "kr": "1682589719",
+            "tw": "1682496304"
+          },
+          "en": "Eye of Deshret",
+          "zh_CN": "赤沙之眼",
+          "ja": "赤砂の眼",
+          "ko": "Eye of Deshret",
+          "zh_TW": "赤沙之眼"
+        },
+        {
+          "length": 124864,
+          "ids": {
+            "ca": "1682633161",
+            "cn": "1682599142",
+            "jp": "1682650968",
+            "kr": "1682589720",
+            "tw": "1682496313"
+          },
+          "en": "Falling Fantasy",
+          "zh_CN": "空想的落音",
+          "ja": "空想の終わり",
+          "ko": "Falling Fantasy",
+          "zh_TW": "空想的落音"
+        },
+        {
+          "length": 121804,
+          "ids": {
+            "ca": "1682633172",
+            "cn": "1682599143",
+            "jp": "1682650972",
+            "kr": "1682589724",
+            "tw": "1682496621"
+          },
+          "en": "Fading Finality",
+          "zh_CN": "消泯的终末",
+          "ja": "消えゆく終末",
+          "ko": "Fading Finality",
+          "zh_TW": "消泯的終末"
+        },
+        {
+          "length": 99203,
+          "ids": {
+            "ca": "1682633360",
+            "cn": "1682599147",
+            "jp": "1682650986",
+            "kr": "1682589731",
+            "tw": "1682496644"
+          },
+          "en": "Echoes of Distant Past",
+          "zh_CN": "远逝的回响",
+          "ja": "遠ざかる響き",
+          "ko": "Echoes of Distant Past",
+          "zh_TW": "遠逝的迴響"
+        },
+        {
+          "length": 95963,
+          "ids": {
+            "ca": "1682633370",
+            "cn": "1682599427",
+            "jp": "1682651152",
+            "kr": "1682589946",
+            "tw": "1682496784"
+          },
+          "en": "Steps to Heptas",
+          "zh_CN": "七荣的陵殿",
+          "ja": "七栄の廟殿",
+          "ko": "Steps to Heptas",
+          "zh_TW": "七榮的陵殿"
+        },
+        {
+          "length": 93645,
+          "ids": {
+            "ca": "1682633380",
+            "cn": "1682599439",
+            "jp": "1682651155",
+            "kr": "1682589960",
+            "tw": "1682497032"
+          },
+          "en": "Juncture of Admonition",
+          "zh_CN": "伏谏之刻",
+          "ja": "忠言を聞く刻",
+          "ko": "Juncture of Admonition",
+          "zh_TW": "伏諫之刻"
+        },
+        {
+          "length": 104018,
+          "ids": {
+            "ca": "1682633596",
+            "cn": "1682599446",
+            "jp": "1682651163",
+            "kr": "1682589961",
+            "tw": "1682497035"
+          },
+          "en": "Emerald in the Desert",
+          "zh_CN": "沙衍绿碧",
+          "ja": "砂のエメラルド",
+          "ko": "Emerald in the Desert",
+          "zh_TW": "沙衍綠碧"
+        },
+        {
+          "length": 105761,
+          "ids": {
+            "ca": "1682633606",
+            "cn": "1682599453",
+            "jp": "1682651170",
+            "kr": "1682589964",
+            "tw": "1682497316"
+          },
+          "en": "Elusive Elysium",
+          "zh_CN": "遐方乐土",
+          "ja": "遥方楽土",
+          "ko": "Elusive Elysium",
+          "zh_TW": "遐方樂土"
+        },
+        {
+          "length": 112208,
+          "ids": {
+            "ca": "1682633837",
+            "cn": "1682599455",
+            "jp": "1682651477",
+            "kr": "1682589969",
+            "tw": "1682497324"
+          },
+          "en": "Serenade of Callais",
+          "zh_CN": "绿松石的夜歌",
+          "ja": "ターコイズの小夜曲",
+          "ko": "Serenade of Callais",
+          "zh_TW": "綠松石的夜歌"
+        },
+        {
+          "length": 112059,
+          "ids": {
+            "ca": "1682633851",
+            "cn": "1682599700",
+            "jp": "1682651480",
+            "kr": "1682589973",
+            "tw": "1682497333"
+          },
+          "en": "Reverie of Eternity",
+          "zh_CN": "永世的酣梦",
+          "ja": "永世の甘き夢",
+          "ko": "Reverie of Eternity",
+          "zh_TW": "永世的酣夢"
+        },
+        {
+          "length": 101455,
+          "ids": {
+            "ca": "1682633861",
+            "cn": "1682599708",
+            "jp": "1682651483",
+            "kr": "1682590158",
+            "tw": "1682497730"
+          },
+          "en": "Dust-Swept Perplexity",
+          "zh_CN": "惘惑漠漠",
+          "ja": "漠々と惑う",
+          "ko": "Dust-Swept Perplexity",
+          "zh_TW": "惘惑漠漠"
+        },
+        {
+          "length": 98528,
+          "ids": {
+            "ca": "1682634103",
+            "cn": "1682599710",
+            "jp": "1682651494",
+            "kr": "1682590160",
+            "tw": "1682497736"
+          },
+          "en": "Following the Sands' Trail",
+          "zh_CN": "望尘行迹",
+          "ja": "砂塵の痕跡をなぞって",
+          "ko": "Following the Sands' Trail",
+          "zh_TW": "望塵行跡"
+        },
+        {
+          "length": 97898,
+          "ids": {
+            "ca": "1682634240",
+            "cn": "1682599725",
+            "jp": "1682651498",
+            "kr": "1682590165",
+            "tw": "1682497744"
+          },
+          "en": "To the Land of Desperation",
+          "zh_CN": "往泪尽之地",
+          "ja": "涙枯れ果てる地へ",
+          "ko": "To the Land of Desperation",
+          "zh_TW": "往淚盡之地"
+        },
+        {
+          "length": 116550,
+          "ids": {
+            "ca": "1682634242",
+            "cn": "1682599883",
+            "jp": "1682651502",
+            "kr": "1682590166",
+            "tw": "1682497754"
+          },
+          "en": "Arid Canyon",
+          "zh_CN": "炀旱的岩谷",
+          "ja": "渇水の峡谷",
+          "ko": "Arid Canyon",
+          "zh_TW": "煬旱的岩谷"
+        },
+        {
+          "length": 95153,
+          "ids": {
+            "ca": "1682634559",
+            "cn": "1682599884",
+            "jp": "1682651503",
+            "kr": "1682590173",
+            "tw": "1682498844"
+          },
+          "en": "Deserted Path to Desert",
+          "zh_CN": "荒落的沙径",
+          "ja": "寂しき砂道",
+          "ko": "Deserted Path to Desert",
+          "zh_TW": "荒落的沙徑"
+        },
+        {
+          "length": 104906,
+          "ids": {
+            "ca": "1682634576",
+            "cn": "1682599886",
+            "jp": "1682652141",
+            "kr": "1682590306",
+            "tw": "1682498849"
+          },
+          "en": "Through Predicaments",
+          "zh_CN": "艰厄漫途",
+          "ja": "重なる苦境",
+          "ko": "Through Predicaments",
+          "zh_TW": "艱厄漫途"
+        },
+        {
+          "length": 108754,
+          "ids": {
+            "ca": "1682634585",
+            "cn": "1682599890",
+            "jp": "1682652148",
+            "kr": "1682590311",
+            "tw": "1682498860"
+          },
+          "en": "To the Crescent Moon's Shimmer",
+          "zh_CN": "终至月明",
+          "ja": "やがて月明かりへ",
+          "ko": "To the Crescent Moon's Shimmer",
+          "zh_TW": "終至月明"
+        },
+        {
+          "length": 96323,
+          "ids": {
+            "ca": "1682634802",
+            "cn": "1682599895",
+            "jp": "1682652157",
+            "kr": "1682590317",
+            "tw": "1682499744"
+          },
+          "en": "Echoes of Ages",
+          "zh_CN": "星霜的余音",
+          "ja": "星霜の余韻",
+          "ko": "Echoes of Ages",
+          "zh_TW": "星霜的餘音"
+        },
+        {
+          "length": 101115,
+          "ids": {
+            "ca": "1682634986",
+            "cn": "1682599898",
+            "jp": "1682652165",
+            "kr": "1682590324",
+            "tw": "1682499761"
+          },
+          "en": "Obliterated Dust",
+          "zh_CN": "遗风逸尘",
+          "ja": "残されし砂塵",
+          "ko": "Obliterated Dust",
+          "zh_TW": "遺風逸塵"
+        },
+        {
+          "length": 117304,
+          "ids": {
+            "ca": "1682635051",
+            "cn": "1682599901",
+            "jp": "1682652588",
+            "kr": "1682590457",
+            "tw": "1682499922"
+          },
+          "en": "Ancient Anamnesis",
+          "zh_CN": "邃世忧怀",
+          "ja": "邃古の憂愁",
+          "ko": "Ancient Anamnesis",
+          "zh_TW": "邃世憂懷"
+        },
+        {
+          "length": 115616,
+          "ids": {
+            "ca": "1682635064",
+            "cn": "1682600249",
+            "jp": "1682652594",
+            "kr": "1682590460",
+            "tw": "1682499931"
+          },
+          "en": "Obscure Mirage",
+          "zh_CN": "迢遥的蜃景",
+          "ja": "碧落の陽炎",
+          "ko": "Obscure Mirage",
+          "zh_TW": "迢遙的蜃景"
+        },
+        {
+          "length": 108765,
+          "ids": {
+            "ca": "1682635308",
+            "cn": "1682600257",
+            "jp": "1682652609",
+            "kr": "1682590463",
+            "tw": "1682499941"
+          },
+          "en": "Nebulous Dunes",
+          "zh_CN": "瀚漠冥茫",
+          "ja": "果てなき砂",
+          "ko": "Nebulous Dunes",
+          "zh_TW": "瀚漠冥茫"
+        },
+        {
+          "length": 103860,
+          "ids": {
+            "ca": "1682635310",
+            "cn": "1682600421",
+            "jp": "1682652812",
+            "kr": "1682590465",
+            "tw": "1682500340"
+          },
+          "en": "On the Barren Sands",
+          "zh_CN": "炽风苦旅",
+          "ja": "荒砂に灼風",
+          "ko": "On the Barren Sands",
+          "zh_TW": "熾風苦旅"
+        },
+        {
+          "length": 89145,
+          "ids": {
+            "ca": "1682635317",
+            "cn": "1682600424",
+            "jp": "1682652819",
+            "kr": "1682590473",
+            "tw": "1682500350"
+          },
+          "en": "Across the Aridisols",
+          "zh_CN": "逾沙轶漠",
+          "ja": "砂漠を越えて",
+          "ko": "Across the Aridisols",
+          "zh_TW": "逾沙軼漠"
+        },
+        {
+          "length": 108203,
+          "ids": {
+            "ca": "1682635320",
+            "cn": "1682600433",
+            "jp": "1682652825",
+            "kr": "1682590476",
+            "tw": "1682500358"
+          },
+          "en": "Solitary Night Wanderings",
+          "zh_CN": "暮夜茕行",
+          "ja": "孤独な夜をゆく",
+          "ko": "Solitary Night Wanderings",
+          "zh_TW": "暮夜煢行"
+        },
+        {
+          "length": 84603,
+          "ids": {
+            "ca": "1682635327",
+            "cn": "1682600435",
+            "jp": "1682653012",
+            "kr": "1682590483",
+            "tw": "1682501118"
+          },
+          "en": "Chords of Sand and Moon",
+          "zh_CN": "沙与月的弦音",
+          "ja": "砂と月のうた",
+          "ko": "Chords of Sand and Moon",
+          "zh_TW": "沙與月的弦音"
+        },
+        {
+          "length": 103478,
+          "ids": {
+            "ca": "1682635329",
+            "cn": "1682600437",
+            "jp": "1682653017",
+            "kr": "1682590850",
+            "tw": "1682501134"
+          },
+          "en": "Breeze in the Arid Night",
+          "zh_CN": "荒夜的阵风",
+          "ja": "乾いた夜風",
+          "ko": "Breeze in the Arid Night",
+          "zh_TW": "荒夜的陣風"
+        },
+        {
+          "length": 117785,
+          "ids": {
+            "ca": "1682635876",
+            "cn": "1682600442",
+            "jp": "1682653020",
+            "kr": "1682590863",
+            "tw": "1682501139"
+          },
+          "en": "Hushed Gleam",
+          "zh_CN": "星月寂阒",
+          "ja": "星月寂寞",
+          "ko": "Hushed Gleam",
+          "zh_TW": "星月寂闃"
+        },
+        {
+          "length": 122738,
+          "ids": {
+            "ca": "1682635886",
+            "cn": "1682600686",
+            "jp": "1682653022",
+            "kr": "1682590872",
+            "tw": "1682501418"
+          },
+          "en": "Lingering Thoughts",
+          "zh_CN": "萦思寥落",
+          "ja": "思考の余韻",
+          "ko": "Lingering Thoughts",
+          "zh_TW": "縈思寥落"
+        },
+        {
+          "length": 89820,
+          "ids": {
+            "ca": "1682635891",
+            "cn": "1682600692",
+            "jp": "1682653027",
+            "kr": "1682591032",
+            "tw": "1682501422"
+          },
+          "en": "Profound Ravines",
+          "zh_CN": "幽壑深渺",
+          "ja": "底見えぬ峡谷",
+          "ko": "Profound Ravines",
+          "zh_TW": "幽壑深渺"
+        },
+        {
+          "length": 102015,
+          "ids": {
+            "ca": "1682636011",
+            "cn": "1682600695",
+            "jp": "1682653028",
+            "kr": "1682591039",
+            "tw": "1682501439"
+          },
+          "en": "Perilous Exploration",
+          "zh_CN": "绝域危途",
+          "ja": "絶境の危機",
+          "ko": "Perilous Exploration",
+          "zh_TW": "絕域危途"
+        },
+        {
+          "length": 97863,
+          "ids": {
+            "ca": "1682636025",
+            "cn": "1682600696",
+            "jp": "1682653614",
+            "kr": "1682591155",
+            "tw": "1682501442"
+          },
+          "en": "Benevolence Bequeathed",
+          "zh_CN": "净念相继",
+          "ja": "信念を継ぐ者",
+          "ko": "Benevolence Bequeathed",
+          "zh_TW": "淨念相繼"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ja": "スメール戦闘編2",
+        "en": "Battles of Sumeru 2",
+        "ko": "수메르 전투 편 2",
+        "zh_CN": "须弥斗战篇2",
+        "zh_TW": "須彌鬥戰篇2"
+      },
+      "video": {
+        "ja": "https://youtu.be/U7OFSn12sCI",
+        "en": "https://youtu.be/tKXaG2kNmxY",
+        "ko": "https://youtu.be/ngquca7aer4"
+      },
+      "duration": 1652630,
+      "tracks": [
+        {
+          "length": 254421,
+          "ids": {
+            "ca": "1682636246",
+            "cn": "1682600697",
+            "jp": "1682653708",
+            "kr": "1682591157",
+            "tw": "1682501848"
+          },
+          "en": "Wrathful Streaming Gold",
+          "zh_CN": "流金的烈怒",
+          "ja": "砂金の赫怒",
+          "ko": "Wrathful Streaming Gold",
+          "zh_TW": "流金的烈怒"
+        },
+        {
+          "length": 241206,
+          "ids": {
+            "ca": "1682636420",
+            "cn": "1682600703",
+            "jp": "1682653714",
+            "kr": "1682591162",
+            "tw": "1682501857"
+          },
+          "en": "Across Dimming Asterisms",
+          "zh_CN": "星灭光离",
+          "ja": "ばらばらになった星たち",
+          "ko": "Across Dimming Asterisms",
+          "zh_TW": "星滅光離"
+        },
+        {
+          "length": 250703,
+          "ids": {
+            "ca": "1682636539",
+            "cn": "1682600704",
+            "jp": "1682653721",
+            "kr": "1682591300",
+            "tw": "1682502089"
+          },
+          "en": "Swirls of Shamshir",
+          "zh_CN": "狮尾之舞",
+          "ja": "シャムシールの舞",
+          "ko": "Swirls of Shamshir",
+          "zh_TW": "獅尾之舞"
+        },
+        {
+          "length": 243657,
+          "ids": {
+            "ca": "1682636541",
+            "cn": "1682600707",
+            "jp": "1682653947",
+            "kr": "1682591303",
+            "tw": "1682502105"
+          },
+          "en": "Swirls of Sachmis",
+          "zh_CN": "赭泉酩旋",
+          "ja": "赭泉の舞",
+          "ko": "Swirls of Sachmis",
+          "zh_TW": "赭泉酩旋"
+        },
+        {
+          "length": 169308,
+          "ids": {
+            "ca": "1682636550",
+            "cn": "1682600714",
+            "jp": "1682653952",
+            "kr": "1682591315",
+            "tw": "1682502241"
+          },
+          "en": "Rhapsodia Roscida",
+          "zh_CN": "六轮一露狂诗曲",
+          "ja": "六輪一露の狂詩曲",
+          "ko": "Rhapsodia Roscida",
+          "zh_TW": "六輪一露狂詩曲"
+        },
+        {
+          "length": 74628,
+          "ids": {
+            "ca": "1682636558",
+            "cn": "1682601112",
+            "jp": "1682653961",
+            "kr": "1682591320",
+            "tw": "1682502407"
+          },
+          "en": "Quintempus Niteastetae",
+          "zh_CN": "五相常寂",
+          "ja": "五相常寂",
+          "ko": "Quintempus Niteastetae",
+          "zh_TW": "五相常寂"
+        },
+        {
+          "length": 200516,
+          "ids": {
+            "ca": "1682636560",
+            "cn": "1682601119",
+            "jp": "1682653962",
+            "kr": "1682591598",
+            "tw": "1682502420"
+          },
+          "en": "Polumnia Omnia",
+          "zh_CN": "三千娑世御咏歌",
+          "ja": "三千娑界の御詠歌",
+          "ko": "Polumnia Omnia",
+          "zh_TW": "三千娑世御詠歌"
+        },
+        {
+          "length": 218191,
+          "ids": {
+            "ca": "1682636564",
+            "cn": "1682601123",
+            "jp": "1682654298",
+            "kr": "1682591603",
+            "tw": "1682502429"
+          },
+          "en": "God-Devouring Mania",
+          "zh_CN": "噬神巨蛇的狂舞",
+          "ja": "神喰らう巨蛇の乱舞",
+          "ko": "God-Devouring Mania",
+          "zh_TW": "噬神巨蛇的狂舞"
+        }
+      ]
+    }
+  ]
+}

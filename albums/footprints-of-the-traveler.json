@@ -1,0 +1,289 @@
+{
+  "id": "footprints-of-the-traveler",
+  "title": {
+    "en": "Footprints of the Traveler",
+    "ja": "流星の軌跡",
+    "zh_CN": "流星的轨迹",
+    "zh_TW": "流星的軌跡",
+    "ko": "유성의 궤적"
+  },
+  "game": "genshin_impact",
+  "upc": "3617050488527",
+  "releaseDate": "2022-09-20",
+  "artistName": "HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 15,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1641509495",
+      "jp": "1641562491",
+      "cn": "1641570190",
+      "tw": "1641509193",
+      "kr": "1641508839"
+    },
+    "spotify": {
+      "jp": "https://open.spotify.com/album/4VXX6uRROwlxUCLNWM4gt1"
+    }
+  },
+  "colors": {
+    "background": "#25438c",
+    "colors": [
+      "#f9fcc4",
+      "#fa9b66",
+      "#ced7b9",
+      "#d0896d"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/03/7b/b7/037bb71c-0a6a-6b9f-6687-99a3a302e880/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8b/8d/68/8b8d688e-d612-ca27-0be6-78bc4c9926b0/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/d4/b4/bdd4b4e5-c4f8-0f0b-4db4-c85cfb74d9e6/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/dd/a7/06/dda706e8-3522-0fcc-a1ae-b5cb4c490073/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/97/af/78/97af78d1-90ed-4e83-aba9-d705aa5c61d0/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "Footprints of the Traveler",
+        "ja": "流星の軌跡",
+        "zh_CN": "流星的轨迹",
+        "zh_TW": "流星的軌跡",
+        "ko": "유성의 궤적"
+      },
+      "video": {
+        "en": "https://youtu.be/C0zbypHpNjQ",
+        "ja": "https://youtu.be/3r-6ImFCT8M",
+        "ko": "https://youtu.be/yEtkJON0F9U"
+      },
+      "duration": 2612762,
+      "tracks": [
+        {
+          "length": 84000,
+          "ids": {
+            "ca": "1641509760",
+            "jp": "1641562512",
+            "cn": "1641570422",
+            "tw": "1641509199",
+            "kr": "1641509361"
+          },
+          "en": "A New Star Approaches",
+          "ja": "迫る客星",
+          "zh_CN": "迫近的客星",
+          "zh_TW": "迫近的客星",
+          "ko": "다가오는 객성"
+        },
+        {
+          "length": 133702,
+          "ids": {
+            "ca": "1641509930",
+            "jp": "1641562848",
+            "cn": "1641570502",
+            "tw": "1641509686",
+            "kr": "1641509364"
+          },
+          "en": "The Chalk Prince and the Dragon",
+          "ja": "白亜と黒龍",
+          "zh_CN": "白垩与黑龙",
+          "zh_TW": "白堊與黑龍",
+          "ko": "백악과 흑룡"
+        },
+        {
+          "length": 207418,
+          "ids": {
+            "ca": "1641509942",
+            "jp": "1641562864",
+            "cn": "1641570509",
+            "tw": "1641509703",
+            "kr": "1641509368"
+          },
+          "en": "All That Glitters",
+          "ja": "明霄、海に昇りて",
+          "zh_CN": "明霄升海平",
+          "zh_TW": "明霄昇海平",
+          "ko": "밤하늘을 수놓은 등불"
+        },
+        {
+          "length": 201205,
+          "ids": {
+            "ca": "1641509955",
+            "jp": "1641562866",
+            "cn": "1641570523",
+            "tw": "1641509708",
+            "kr": "1641509373"
+          },
+          "en": "Invitation of Windblume",
+          "ja": "風花の招待",
+          "zh_CN": "风花的邀约",
+          "zh_TW": "風花的邀約",
+          "ko": "윈드블룸의 초대"
+        },
+        {
+          "length": 292605,
+          "ids": {
+            "ca": "1641510328",
+            "jp": "1641562868",
+            "cn": "1641570812",
+            "tw": "1641509874",
+            "kr": "1641509378"
+          },
+          "en": "Beneath the Light of Jadeite",
+          "ja": "塵歌を纏いし扉",
+          "zh_CN": "玉扉绕尘歌",
+          "zh_TW": "玉扉繞塵歌",
+          "ko": "옥빛 아래 속세의 노래"
+        },
+        {
+          "length": 200000,
+          "ids": {
+            "ca": "1641510340",
+            "jp": "1641563146",
+            "cn": "1641570822",
+            "tw": "1641509882",
+            "kr": "1641509385"
+          },
+          "en": "Midsummer Island Adventure",
+          "ja": "真夏!島?大冒険!",
+          "zh_CN": "盛夏!海岛?大冒险!",
+          "zh_TW": "盛夏!海島?大冒險!",
+          "ko": "여름! 섬? 모험!"
+        },
+        {
+          "length": 244000,
+          "ids": {
+            "ca": "1641510616",
+            "jp": "1641563153",
+            "cn": "1641571019",
+            "tw": "1641509886",
+            "kr": "1641509599"
+          },
+          "en": "The Immovable God and the Eternal Euthymia",
+          "ja": "鳴神不動、泡影を滅す",
+          "zh_CN": "不动鸣神,泡影断灭",
+          "zh_TW": "不動鳴神,泡影斷滅",
+          "ko": "부동의 번개 신, 포영의 절멸"
+        },
+        {
+          "length": 206887,
+          "ids": {
+            "ca": "1641510643",
+            "jp": "1641563163",
+            "cn": "1641571033",
+            "tw": "1641509893",
+            "kr": "1641509606"
+          },
+          "en": "Floating World Under the Moonlight",
+          "ja": "韶光撫月の浮世",
+          "zh_CN": "韶光抚月,天下人间",
+          "zh_TW": "韶光撫月,天下人間",
+          "ko": "달빛 속 광경, 하늘 아래 인간 세상"
+        },
+        {
+          "length": 85750,
+          "ids": {
+            "ca": "1641510777",
+            "jp": "1641563167",
+            "cn": "1641571135",
+            "tw": "1641510170",
+            "kr": "1641509611"
+          },
+          "en": "Into the Perilous Labyrinth of Fog",
+          "ja": "霧の海と謎の秘境",
+          "zh_CN": "雾海悬谜境",
+          "zh_TW": "霧海懸謎境",
+          "ko": "안개의 미궁 속으로"
+        },
+        {
+          "length": 181581,
+          "ids": {
+            "ca": "1641510790",
+            "jp": "1641563171",
+            "cn": "1641571139",
+            "tw": "1641510179",
+            "kr": "1641509618"
+          },
+          "en": "Shadows Amidst Snowstorms",
+          "ja": "白雪に潜みし影",
+          "zh_CN": "皑尘与雪影",
+          "zh_TW": "皚塵與雪影",
+          "ko": "눈보라 속 그림자"
+        },
+        {
+          "length": 188019,
+          "ids": {
+            "ca": "1641511073",
+            "jp": "1641563657",
+            "cn": "1641571147",
+            "tw": "1641510187",
+            "kr": "1641509621"
+          },
+          "en": "Fleeting Colors in Flight",
+          "ja": "流るる星霜、華咲きて",
+          "zh_CN": "飞彩镌流年",
+          "zh_TW": "飛彩鐫流年",
+          "ko": "화려히 수놓인 유년"
+        },
+        {
+          "length": 177374,
+          "ids": {
+            "ca": "1641511082",
+            "jp": "1641563659",
+            "cn": "1641571155",
+            "tw": "1641510191",
+            "kr": "1641509624"
+          },
+          "en": "When the Sakura Bloom",
+          "ja": "薄櫻が綻ぶ時",
+          "zh_CN": "薄樱初绽时",
+          "zh_TW": "薄櫻初綻時",
+          "ko": "첫 벚꽃 피어날 무렵"
+        },
+        {
+          "length": 161462,
+          "ids": {
+            "ca": "1641511091",
+            "jp": "1641563664",
+            "cn": "1641571377",
+            "tw": "1641510406",
+            "kr": "1641510113"
+          },
+          "en": "Zephyr of the Violet Garden",
+          "ja": "そよ風、紫苑の庭を偲ぶ",
+          "zh_CN": "流风眷堇庭",
+          "zh_TW": "流風眷堇庭",
+          "ko": "자색 정원의 산들바람"
+        },
+        {
+          "length": 127474,
+          "ids": {
+            "ca": "1641511469",
+            "jp": "1641563676",
+            "cn": "1641571383",
+            "tw": "1641510410",
+            "kr": "1641510126"
+          },
+          "en": "Hidden Dreams in the Depths",
+          "ja": "虞淵に隠されし夢魘",
+          "zh_CN": "荒梦藏虞渊",
+          "zh_TW": "荒夢藏虞淵",
+          "ko": "해가 저무는 곳에 감춰진 꿈"
+        },
+        {
+          "length": 121285,
+          "ids": {
+            "ca": "1641511479",
+            "jp": "1641564021",
+            "cn": "1641571395",
+            "tw": "1641510416",
+            "kr": "1641510131"
+          },
+          "en": "Summer Fantasia",
+          "ja": "常夏!幻夜?奇想曲!",
+          "zh_CN": "仲夏!幻夜?奇想曲!",
+          "zh_TW": "仲夏!幻夜?奇想曲!",
+          "ko": "한여름! 환상의 밤? 기상곡!"
+        }
+      ]
+    }
+  ]
+}

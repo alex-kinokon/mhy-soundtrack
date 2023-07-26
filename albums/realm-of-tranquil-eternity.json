@@ -1,0 +1,1025 @@
+{
+  "id": "realm-of-tranquil-eternity",
+  "title": {
+    "en": "Realm of Tranquil Eternity",
+    "zh_CN": "寂远无妄之国",
+    "ja": "寂々たる無妄の国",
+    "ko": "고요한 무망의 국가",
+    "zh_TW": "寂遠無妄之國"
+  },
+  "game": "genshin_impact",
+  "upc": "3616559929692",
+  "releaseDate": "2021-09-22",
+  "artistName": "Yu-Peng Chen & HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 62,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1585632431",
+      "cn": "1585624273",
+      "jp": "1585608354",
+      "kr": "1585619963",
+      "tw": "1585609403"
+    }
+  },
+  "colors": {
+    "background": "#23609e",
+    "colors": [
+      "#ddedfc",
+      "#fae0fb",
+      "#b8d1e9",
+      "#cfc6e9"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/e5/ca/31e5caaf-3dfe-0123-3e0a-6d0859fa2142/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/e6/cb/66e6cbf6-e431-e521-e5d0-59db1e214083/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/86/84/9886841f-f158-378c-5876-486503193ae8/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/b3/7d/d2b37d96-0d78-bdc7-64ed-f7c8564efddb/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cd/5a/47/cd5a47e9-848d-94a1-3160-fa2866c4440c/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "Sakura and Violet Thunder",
+        "ja": "稲光と雷櫻の大地",
+        "zh_CN": "稻光与雷樱的土地",
+        "zh_TW": "稻光與雷櫻的土地",
+        "ko": "고요한 무망의 국가"
+      },
+      "video": {
+        "en": "https://youtu.be/1xMRU4D9ODc",
+        "ja": "https://youtu.be/_CnLbWsxAfA",
+        "ko": "https://youtu.be/-kFQNliHDXs"
+      },
+      "duration": 2985079,
+      "tracks": [
+        {
+          "length": 329773,
+          "ids": {
+            "ca": "1585632436",
+            "cn": "1585624275",
+            "jp": "1585608359",
+            "kr": "1585619964",
+            "tw": "1585609409"
+          },
+          "en": "Inazuma",
+          "zh_CN": "稻妻",
+          "ja": "稲妻",
+          "ko": "Inazuma",
+          "zh_TW": "稻妻"
+        },
+        {
+          "length": 116667,
+          "ids": {
+            "ca": "1585632441",
+            "cn": "1585624278",
+            "jp": "1585608362",
+            "kr": "1585619966",
+            "tw": "1585609414"
+          },
+          "en": "Fall of Maples",
+          "zh_CN": "叶落荒波",
+          "ja": "落葉風波",
+          "ko": "Fall of Maples",
+          "zh_TW": "葉落荒波"
+        },
+        {
+          "length": 100960,
+          "ids": {
+            "ca": "1585632445",
+            "cn": "1585624279",
+            "jp": "1585608365",
+            "kr": "1585619971",
+            "tw": "1585609604"
+          },
+          "en": "Separated Dream",
+          "zh_CN": "羁留之客",
+          "ja": "羈留の客",
+          "ko": "Separated Dream",
+          "zh_TW": "羈留之客"
+        },
+        {
+          "length": 117213,
+          "ids": {
+            "ca": "1585632967",
+            "cn": "1585624282",
+            "jp": "1585608578",
+            "kr": "1585619972",
+            "tw": "1585609606"
+          },
+          "en": "Streets of Elegance",
+          "zh_CN": "风雅之里",
+          "ja": "風雅の里",
+          "ko": "Streets of Elegance",
+          "zh_TW": "風雅之里"
+        },
+        {
+          "length": 69493,
+          "ids": {
+            "ca": "1585632981",
+            "cn": "1585624285",
+            "jp": "1585608580",
+            "kr": "1585620397",
+            "tw": "1585609611"
+          },
+          "en": "Lingering Blossom",
+          "zh_CN": "永远的花火",
+          "ja": "常しえの花火",
+          "ko": "Lingering Blossom",
+          "zh_TW": "永遠的花火"
+        },
+        {
+          "length": 95053,
+          "ids": {
+            "ca": "1585632982",
+            "cn": "1585624288",
+            "jp": "1585608588",
+            "kr": "1585620398",
+            "tw": "1585609613"
+          },
+          "en": "The Land of Her Serenity",
+          "zh_CN": "静谧的国土",
+          "ja": "静謐なる国土",
+          "ko": "The Land of Her Serenity",
+          "zh_TW": "靜謐的國土"
+        },
+        {
+          "length": 89280,
+          "ids": {
+            "ca": "1585632988",
+            "cn": "1585624536",
+            "jp": "1585608593",
+            "kr": "1585620401",
+            "tw": "1585609615"
+          },
+          "en": "In the Strange Realm of Sakura",
+          "zh_CN": "异乡之樱",
+          "ja": "異郷の櫻",
+          "ko": "In the Strange Realm of Sakura",
+          "zh_TW": "異鄉之櫻"
+        },
+        {
+          "length": 82280,
+          "ids": {
+            "ca": "1585633207",
+            "cn": "1585624539",
+            "jp": "1585608598",
+            "kr": "1585620403",
+            "tw": "1585609617"
+          },
+          "en": "Blue Dream",
+          "zh_CN": "恒静之梦",
+          "ja": "静寂なる夢",
+          "ko": "Blue Dream",
+          "zh_TW": "恆靜之夢"
+        },
+        {
+          "length": 120253,
+          "ids": {
+            "ca": "1585633210",
+            "cn": "1585624541",
+            "jp": "1585608603",
+            "kr": "1585620408",
+            "tw": "1585609620"
+          },
+          "en": "Dream of Scattered Petals",
+          "zh_CN": "华散之梦",
+          "ja": "華散る夢",
+          "ko": "Dream of Scattered Petals",
+          "zh_TW": "華散之夢"
+        },
+        {
+          "length": 114173,
+          "ids": {
+            "ca": "1585633213",
+            "cn": "1585624543",
+            "jp": "1585608727",
+            "kr": "1585620409",
+            "tw": "1585609622"
+          },
+          "en": "Thoughts of Lightning",
+          "zh_CN": "鸣神的思虑",
+          "ja": "鳴神の思慮",
+          "ko": "Thoughts of Lightning",
+          "zh_TW": "鳴神的思慮"
+        },
+        {
+          "length": 83507,
+          "ids": {
+            "ca": "1585633219",
+            "cn": "1585624545",
+            "jp": "1585608735",
+            "kr": "1585620411",
+            "tw": "1585609624"
+          },
+          "en": "The Mysterious Islands",
+          "zh_CN": "神秘之岛",
+          "ja": "神秘なる島",
+          "ko": "The Mysterious Islands",
+          "zh_TW": "神秘之島"
+        },
+        {
+          "length": 88787,
+          "ids": {
+            "ca": "1585633224",
+            "cn": "1585624548",
+            "jp": "1585608745",
+            "kr": "1585620416",
+            "tw": "1585609806"
+          },
+          "en": "Sakura-Scented Kiseru",
+          "zh_CN": "余温尚存",
+          "ja": "残存する温もり",
+          "ko": "Sakura-Scented Kiseru",
+          "zh_TW": "餘溫尚存"
+        },
+        {
+          "length": 71053,
+          "ids": {
+            "ca": "1585633228",
+            "cn": "1585624552",
+            "jp": "1585608750",
+            "kr": "1585620421",
+            "tw": "1585609808"
+          },
+          "en": "Her Legacy",
+          "zh_CN": "未曾失落的回忆",
+          "ja": "失っていない記憶",
+          "ko": "Her Legacy",
+          "zh_TW": "未曾失落的回憶"
+        },
+        {
+          "length": 87560,
+          "ids": {
+            "ca": "1585633233",
+            "cn": "1585624554",
+            "jp": "1585608755",
+            "kr": "1585620696",
+            "tw": "1585609810"
+          },
+          "en": "Everlasting Devotion",
+          "zh_CN": "绵延的守护",
+          "ja": "延々と続く守護",
+          "ko": "Everlasting Devotion",
+          "zh_TW": "綿延的守護"
+        },
+        {
+          "length": 99893,
+          "ids": {
+            "ca": "1585633572",
+            "cn": "1585624556",
+            "jp": "1585608847",
+            "kr": "1585620701",
+            "tw": "1585609813"
+          },
+          "en": "Kitsune's Mask",
+          "zh_CN": "悠远的关怀",
+          "ja": "悠遠なる思いやり",
+          "ko": "Kitsune's Mask",
+          "zh_TW": "悠遠的關懷"
+        },
+        {
+          "length": 94067,
+          "ids": {
+            "ca": "1585633592",
+            "cn": "1585624763",
+            "jp": "1585608860",
+            "kr": "1585620705",
+            "tw": "1585609820"
+          },
+          "en": "Hanachirusato",
+          "zh_CN": "华散之缘",
+          "ja": "華散る縁",
+          "ko": "Hanachirusato",
+          "zh_TW": "華散之緣"
+        },
+        {
+          "length": 91707,
+          "ids": {
+            "ca": "1585633716",
+            "cn": "1585624768",
+            "jp": "1585608864",
+            "kr": "1585620711",
+            "tw": "1585609823"
+          },
+          "en": "Time to Say Farewell",
+          "zh_CN": "终有谢时",
+          "ja": "いずれは散り逝く",
+          "ko": "Time to Say Farewell",
+          "zh_TW": "終有謝時"
+        },
+        {
+          "length": 65640,
+          "ids": {
+            "ca": "1585633722",
+            "cn": "1585624898",
+            "jp": "1585608872",
+            "kr": "1585620715",
+            "tw": "1585609824"
+          },
+          "en": "Flickering Sakura",
+          "zh_CN": "雷樱闪闪",
+          "ja": "煌めく雷櫻",
+          "ko": "Flickering Sakura",
+          "zh_TW": "雷櫻閃閃"
+        },
+        {
+          "length": 73667,
+          "ids": {
+            "ca": "1585633726",
+            "cn": "1585624901",
+            "jp": "1585608940",
+            "kr": "1585620718",
+            "tw": "1585609826"
+          },
+          "en": "Sigh of an Old Friend",
+          "zh_CN": "故人的哀嗔",
+          "ja": "故人の嘆き",
+          "ko": "Sigh of an Old Friend",
+          "zh_TW": "故人的哀嗔"
+        },
+        {
+          "length": 72853,
+          "ids": {
+            "ca": "1585633729",
+            "cn": "1585624906",
+            "jp": "1585608944",
+            "kr": "1585620939",
+            "tw": "1585609827"
+          },
+          "en": "The Sealed Harbor",
+          "zh_CN": "闭锁之港",
+          "ja": "閉鎖された港",
+          "ko": "The Sealed Harbor",
+          "zh_TW": "閉鎖之港"
+        },
+        {
+          "length": 93040,
+          "ids": {
+            "ca": "1585633734",
+            "cn": "1585624909",
+            "jp": "1585608970",
+            "kr": "1585620942",
+            "tw": "1585609829"
+          },
+          "en": "Island for Outlanders",
+          "zh_CN": "外人之岛",
+          "ja": "異邦人の島",
+          "ko": "Island for Outlanders",
+          "zh_TW": "外人之島"
+        },
+        {
+          "length": 63733,
+          "ids": {
+            "ca": "1585633740",
+            "cn": "1585624913",
+            "jp": "1585608972",
+            "kr": "1585620943",
+            "tw": "1585609991"
+          },
+          "en": "Dream of Homeland",
+          "zh_CN": "商人的思归",
+          "ja": "商人の懐郷",
+          "ko": "Dream of Homeland",
+          "zh_TW": "商人的思歸"
+        },
+        {
+          "length": 62440,
+          "ids": {
+            "ca": "1585634137",
+            "cn": "1585624918",
+            "jp": "1585608975",
+            "kr": "1585620944",
+            "tw": "1585609998"
+          },
+          "en": "Interwoven Nostalgia",
+          "zh_CN": "乡愁如丝",
+          "ja": "郷愁は糸の如く",
+          "ko": "Interwoven Nostalgia",
+          "zh_TW": "鄉愁如絲"
+        },
+        {
+          "length": 140907,
+          "ids": {
+            "ca": "1585634139",
+            "cn": "1585625171",
+            "jp": "1585608978",
+            "kr": "1585620951",
+            "tw": "1585609999"
+          },
+          "en": "Preparation of Matsuri",
+          "zh_CN": "祭典将至",
+          "ja": "祭りがやってくる",
+          "ko": "Preparation of Matsuri",
+          "zh_TW": "祭典將至"
+        },
+        {
+          "length": 69080,
+          "ids": {
+            "ca": "1585634142",
+            "cn": "1585625175",
+            "jp": "1585608984",
+            "kr": "1585620953",
+            "tw": "1585610058"
+          },
+          "en": "Island of Hanabi",
+          "zh_CN": "硝彩回忆",
+          "ja": "硝彩の思い出",
+          "ko": "Island of Hanabi",
+          "zh_TW": "硝彩回憶"
+        },
+        {
+          "length": 92400,
+          "ids": {
+            "ca": "1585634147",
+            "cn": "1585625177",
+            "jp": "1585608988",
+            "kr": "1585621267",
+            "tw": "1585610216"
+          },
+          "en": "Murmuring Creek",
+          "zh_CN": "林间清流",
+          "ja": "林間の清流",
+          "ko": "Murmuring Creek",
+          "zh_TW": "林間清流"
+        },
+        {
+          "length": 110227,
+          "ids": {
+            "ca": "1585634157",
+            "cn": "1585625179",
+            "jp": "1585608992",
+            "kr": "1585621283",
+            "tw": "1585610288"
+          },
+          "en": "Remaining Tenderness",
+          "zh_CN": "可待追忆",
+          "ja": "思い出に残るように",
+          "ko": "Remaining Tenderness",
+          "zh_TW": "可待追憶"
+        },
+        {
+          "length": 160400,
+          "ids": {
+            "ca": "1585634412",
+            "cn": "1585625181",
+            "jp": "1585608995",
+            "kr": "1585621290",
+            "tw": "1585610374"
+          },
+          "en": "A Harmonious Rest",
+          "zh_CN": "安宁的天光",
+          "ja": "安寧の天光",
+          "ko": "A Harmonious Rest",
+          "zh_TW": "安寧的天光"
+        },
+        {
+          "length": 128973,
+          "ids": {
+            "ca": "1585634496",
+            "cn": "1585625188",
+            "jp": "1585609358",
+            "kr": "1585621295",
+            "tw": "1585610476"
+          },
+          "en": "Hakushin's Lullaby",
+          "zh_CN": "神狐的祝福",
+          "ja": "神狐の祝福",
+          "ko": "Hakushin's Lullaby",
+          "zh_TW": "神狐的祝福"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Stories of the Floating World",
+        "ja": "浮世の栄枯",
+        "ko": "부세의 성쇠",
+        "zh_CN": "浮世之枯荣",
+        "zh_TW": "浮世之枯榮"
+      },
+      "video": {
+        "en": "https://youtu.be/9xtAKakzZDs",
+        "ja": "https://youtu.be/Ceddv3TaRJs",
+        "ko": "https://youtu.be/c18BuQE9zSw"
+      },
+      "duration": 2685811,
+      "tracks": [
+        {
+          "length": 115000,
+          "ids": {
+            "ca": "1585634501",
+            "cn": "1585625466",
+            "jp": "1585609360",
+            "kr": "1585621459",
+            "tw": "1585610477"
+          },
+          "en": "Where the Heart Settles",
+          "zh_CN": "神愿之所",
+          "ja": "神願の所",
+          "ko": "Where the Heart Settles",
+          "zh_TW": "神願之所"
+        },
+        {
+          "length": 119933,
+          "ids": {
+            "ca": "1585634509",
+            "cn": "1585625472",
+            "jp": "1585609361",
+            "kr": "1585621462",
+            "tw": "1585610478"
+          },
+          "en": "Miko's Night",
+          "zh_CN": "空寂如常",
+          "ja": "空寂常の如し",
+          "ko": "Miko's Night",
+          "zh_TW": "空寂如常"
+        },
+        {
+          "length": 82293,
+          "ids": {
+            "ca": "1585634624",
+            "cn": "1585625476",
+            "jp": "1585609365",
+            "kr": "1585621463",
+            "tw": "1585610482"
+          },
+          "en": "Where the Shirasagi Dances",
+          "zh_CN": "翩翩之庭",
+          "ja": "ひらひらと舞う庭",
+          "ko": "Where the Shirasagi Dances",
+          "zh_TW": "翩翩之庭"
+        },
+        {
+          "length": 73453,
+          "ids": {
+            "ca": "1585634630",
+            "cn": "1585625481",
+            "jp": "1585609373",
+            "kr": "1585621465",
+            "tw": "1585610483"
+          },
+          "en": "Shirasagi's Demeanor",
+          "zh_CN": "白鹭风仪",
+          "ja": "白鷺の風儀",
+          "ko": "Shirasagi's Demeanor",
+          "zh_TW": "白鷺風儀"
+        },
+        {
+          "length": 105440,
+          "ids": {
+            "ca": "1585634635",
+            "cn": "1585625485",
+            "jp": "1585609375",
+            "kr": "1585621467",
+            "tw": "1585610485"
+          },
+          "en": "Valor & Prowess",
+          "zh_CN": "天领奉行御帐前",
+          "ja": "天領奉行御帳",
+          "ko": "Valor & Prowess",
+          "zh_TW": "天領奉行御帳前"
+        },
+        {
+          "length": 80000,
+          "ids": {
+            "ca": "1585634644",
+            "cn": "1585625489",
+            "jp": "1585609383",
+            "kr": "1585621475",
+            "tw": "1585610486"
+          },
+          "en": "A Night Watch",
+          "zh_CN": "营垒森森",
+          "ja": "陣営は森森なり",
+          "ko": "A Night Watch",
+          "zh_TW": "營壘森森"
+        },
+        {
+          "length": 133933,
+          "ids": {
+            "ca": "1585634895",
+            "cn": "1585625772",
+            "jp": "1585609566",
+            "kr": "1585621689",
+            "tw": "1585610487"
+          },
+          "en": "Samurai's Sorrow",
+          "zh_CN": "无家之伤",
+          "ja": "家なき悲しみ",
+          "ko": "Samurai's Sorrow",
+          "zh_TW": "無家之傷"
+        },
+        {
+          "length": 78120,
+          "ids": {
+            "ca": "1585634902",
+            "cn": "1585625780",
+            "jp": "1585609568",
+            "kr": "1585621694",
+            "tw": "1585610489"
+          },
+          "en": "Scarred Island",
+          "zh_CN": "伤痛的事话",
+          "ja": "傷痛みの物語",
+          "ko": "Scarred Island",
+          "zh_TW": "傷痛的事話"
+        },
+        {
+          "length": 85213,
+          "ids": {
+            "ca": "1585634913",
+            "cn": "1585625783",
+            "jp": "1585609595",
+            "kr": "1585621696",
+            "tw": "1585610491"
+          },
+          "en": "Silent Testimony",
+          "zh_CN": "寂静的证言",
+          "ja": "静まった証言",
+          "ko": "Silent Testimony",
+          "zh_TW": "寂靜的證言"
+        },
+        {
+          "length": 102640,
+          "ids": {
+            "ca": "1585635008",
+            "cn": "1585625787",
+            "jp": "1585609650",
+            "kr": "1585621699",
+            "tw": "1585610493"
+          },
+          "en": "Soul of Soulless Conditions",
+          "zh_CN": "无灵魂处的灵魂",
+          "ja": "無魂の地の魂",
+          "ko": "Soul of Soulless Conditions",
+          "zh_TW": "無靈魂處的靈魂"
+        },
+        {
+          "length": 120267,
+          "ids": {
+            "ca": "1585635014",
+            "cn": "1585626036",
+            "jp": "1585609657",
+            "kr": "1585621702",
+            "tw": "1585610678"
+          },
+          "en": "Ones Who Strive to Live",
+          "zh_CN": "八酝之民",
+          "ja": "ヤシオリの民",
+          "ko": "Ones Who Strive to Live",
+          "zh_TW": "八醞之民"
+        },
+        {
+          "length": 100040,
+          "ids": {
+            "ca": "1585635018",
+            "cn": "1585626041",
+            "jp": "1585609662",
+            "kr": "1585621708",
+            "tw": "1585610680"
+          },
+          "en": "Resounding of Silence",
+          "zh_CN": "湮没之音",
+          "ja": "埋もれた音",
+          "ko": "Resounding of Silence",
+          "zh_TW": "湮沒之音"
+        },
+        {
+          "length": 94507,
+          "ids": {
+            "ca": "1585635022",
+            "cn": "1585626049",
+            "jp": "1585609664",
+            "kr": "1585621710",
+            "tw": "1585610682"
+          },
+          "en": "You Shall Not Tempt It",
+          "zh_CN": "无可试探",
+          "ja": "探る処無し",
+          "ko": "You Shall Not Tempt It",
+          "zh_TW": "無可試探"
+        },
+        {
+          "length": 71547,
+          "ids": {
+            "ca": "1585635031",
+            "cn": "1585626057",
+            "jp": "1585609669",
+            "kr": "1585621713",
+            "tw": "1585610690"
+          },
+          "en": "The Lost Mound",
+          "zh_CN": "无神的丘冢",
+          "ja": "神の無い塚",
+          "ko": "The Lost Mound",
+          "zh_TW": "無神的丘塚"
+        },
+        {
+          "length": 67120,
+          "ids": {
+            "ca": "1585635278",
+            "cn": "1585626062",
+            "jp": "1585609672",
+            "kr": "1585621897",
+            "tw": "1585610693"
+          },
+          "en": "Dirge of the Soundless",
+          "zh_CN": "失语的哀诉",
+          "ja": "無言の哀訴",
+          "ko": "Dirge of the Soundless",
+          "zh_TW": "失語的哀訴"
+        },
+        {
+          "length": 77040,
+          "ids": {
+            "ca": "1585635283",
+            "cn": "1585626065",
+            "jp": "1585609675",
+            "kr": "1585621901",
+            "tw": "1585610699"
+          },
+          "en": "Nothing but Ivy",
+          "zh_CN": "葛藤无奈满石垣",
+          "ja": "葛藤は如何せん石垣に満ちて",
+          "ko": "Nothing but Ivy",
+          "zh_TW": "葛藤無奈滿石垣"
+        },
+        {
+          "length": 55613,
+          "ids": {
+            "ca": "1585635291",
+            "cn": "1585626367",
+            "jp": "1585609677",
+            "kr": "1585621906",
+            "tw": "1585610813"
+          },
+          "en": "Shadow of War",
+          "zh_CN": "荒丘残月阴翳浓",
+          "ja": "荒れ丘の残月、木陰濃く",
+          "ko": "Shadow of War",
+          "zh_TW": "荒丘殘月陰翳濃"
+        },
+        {
+          "length": 87453,
+          "ids": {
+            "ca": "1585635297",
+            "cn": "1585626381",
+            "jp": "1585609679",
+            "kr": "1585621913",
+            "tw": "1585610816"
+          },
+          "en": "Another Conflict Incoming",
+          "zh_CN": "哀哉鼓角未曾歇",
+          "ja": "哀しきかな、鼓角に休むこと無し",
+          "ko": "Another Conflict Incoming",
+          "zh_TW": "哀哉鼓角未曾歇"
+        },
+        {
+          "length": 70067,
+          "ids": {
+            "ca": "1585635298",
+            "cn": "1585626384",
+            "jp": "1585609680",
+            "kr": "1585621918",
+            "tw": "1585610818"
+          },
+          "en": "Fortification of Resistance",
+          "zh_CN": "义军之砦",
+          "ja": "義軍の砦",
+          "ko": "Fortification of Resistance",
+          "zh_TW": "義軍之砦"
+        },
+        {
+          "length": 80253,
+          "ids": {
+            "ca": "1585635544",
+            "cn": "1585626386",
+            "jp": "1585609685",
+            "kr": "1585621922",
+            "tw": "1585610887"
+          },
+          "en": "Unwavering March",
+          "zh_CN": "坚毅的行军",
+          "ja": "毅然たる行軍",
+          "ko": "Unwavering March",
+          "zh_TW": "堅毅的行軍"
+        },
+        {
+          "length": 64573,
+          "ids": {
+            "ca": "1585635601",
+            "cn": "1585626389",
+            "jp": "1585609901",
+            "kr": "1585621925",
+            "tw": "1585610892"
+          },
+          "en": "Caress of the Spirit",
+          "zh_CN": "名椎之滩",
+          "ja": "名椎の浜",
+          "ko": "Caress of the Spirit",
+          "zh_TW": "名椎之灘"
+        },
+        {
+          "length": 77933,
+          "ids": {
+            "ca": "1585635605",
+            "cn": "1585626606",
+            "jp": "1585609904",
+            "kr": "1585622228",
+            "tw": "1585610899"
+          },
+          "en": "Stranded Wish",
+          "zh_CN": "搁浅的愿景",
+          "ja": "擱坐した願い",
+          "ko": "Stranded Wish",
+          "zh_TW": "擱淺的願景"
+        },
+        {
+          "length": 86213,
+          "ids": {
+            "ca": "1585635786",
+            "cn": "1585626624",
+            "jp": "1585609908",
+            "kr": "1585622229",
+            "tw": "1585610900"
+          },
+          "en": "Busy Silhouettes",
+          "zh_CN": "碌碌残影",
+          "ja": "慌ただしい影",
+          "ko": "Busy Silhouettes",
+          "zh_TW": "碌碌殘影"
+        },
+        {
+          "length": 91360,
+          "ids": {
+            "ca": "1585635787",
+            "cn": "1585626699",
+            "jp": "1585609912",
+            "kr": "1585622233",
+            "tw": "1585610902"
+          },
+          "en": "A Hollowed Skull",
+          "zh_CN": "虚空的处境",
+          "ja": "虚空の境遇",
+          "ko": "A Hollowed Skull",
+          "zh_TW": "虛空的處境"
+        },
+        {
+          "length": 69693,
+          "ids": {
+            "ca": "1585635791",
+            "cn": "1585626701",
+            "jp": "1585609924",
+            "kr": "1585622235",
+            "tw": "1585610904"
+          },
+          "en": "Whispering Tatarigami",
+          "zh_CN": "祟神低语",
+          "ja": "祟り神の囁き",
+          "ko": "Whispering Tatarigami",
+          "zh_TW": "祟神低語"
+        },
+        {
+          "length": 66760,
+          "ids": {
+            "ca": "1585635792",
+            "cn": "1585626704",
+            "jp": "1585610077",
+            "kr": "1585622239",
+            "tw": "1585610914"
+          },
+          "en": "Orobashi's Teaching",
+          "zh_CN": "牺牲的教谕",
+          "ja": "犠牲の教諭",
+          "ko": "Orobashi's Teaching",
+          "zh_TW": "犧牲的教諭"
+        },
+        {
+          "length": 91147,
+          "ids": {
+            "ca": "1585635804",
+            "cn": "1585626706",
+            "jp": "1585610079",
+            "kr": "1585622243",
+            "tw": "1585611071"
+          },
+          "en": "Forgotten Epic",
+          "zh_CN": "雷隐遗事",
+          "ja": "雷隠しの遺事",
+          "ko": "Forgotten Epic",
+          "zh_TW": "雷隱遺事"
+        },
+        {
+          "length": 97613,
+          "ids": {
+            "ca": "1585635815",
+            "cn": "1585626710",
+            "jp": "1585610086",
+            "kr": "1585622246",
+            "tw": "1585611076"
+          },
+          "en": "Serpent's Tragedy",
+          "zh_CN": "亡者的诉说",
+          "ja": "亡き者が語りき",
+          "ko": "Serpent's Tragedy",
+          "zh_TW": "亡者的訴說"
+        },
+        {
+          "length": 240587,
+          "ids": {
+            "ca": "1585636140",
+            "cn": "1585626716",
+            "jp": "1585610097",
+            "kr": "1585622497",
+            "tw": "1585611086"
+          },
+          "en": "Embrace of Sea Waves",
+          "zh_CN": "熟悉的航程",
+          "ja": "慣れた航路",
+          "ko": "Embrace of Sea Waves",
+          "zh_TW": "熟悉的航程"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Battles of Inazuma",
+        "ja": "稲妻征戦記",
+        "ko": "이나즈마 전쟁기",
+        "zh_CN": "稻妻征战记",
+        "zh_TW": "稻妻征戰記"
+      },
+      "video": {
+        "en": "https://youtu.be/B2JFHBB-zRE",
+        "ja": "https://youtu.be/bOT_0rCh3rc",
+        "ko": "https://youtu.be/_WSQcE8lcBI"
+      },
+      "duration": 1019027,
+      "tracks": [
+        {
+          "length": 248040,
+          "ids": {
+            "ca": "1585636143",
+            "cn": "1585626718",
+            "jp": "1585610100",
+            "kr": "1585622502",
+            "tw": "1585611089"
+          },
+          "en": "Duel in the Mist",
+          "zh_CN": "斩雾破竹",
+          "ja": "斬霧破竹",
+          "ko": "Duel in the Mist",
+          "zh_TW": "斬霧破竹"
+        },
+        {
+          "length": 255307,
+          "ids": {
+            "ca": "1585636299",
+            "cn": "1585627064",
+            "jp": "1585610105",
+            "kr": "1585622504",
+            "tw": "1585611094"
+          },
+          "en": "Against the Invisible Net",
+          "zh_CN": "难逃之阵",
+          "ja": "逃れられぬ陣",
+          "ko": "Against the Invisible Net",
+          "zh_TW": "難逃之陣"
+        },
+        {
+          "length": 260613,
+          "ids": {
+            "ca": "1585636304",
+            "cn": "1585627067",
+            "jp": "1585610501",
+            "kr": "1585622511",
+            "tw": "1585611226"
+          },
+          "en": "Overlord of the Thunderstorm",
+          "zh_CN": "空行不羁",
+          "ja": "空を翔ける不羈",
+          "ko": "Overlord of the Thunderstorm",
+          "zh_TW": "空行不羈"
+        },
+        {
+          "length": 255067,
+          "ids": {
+            "ca": "1585636316",
+            "cn": "1585627069",
+            "jp": "1585610505",
+            "kr": "1585622796",
+            "tw": "1585611232"
+          },
+          "en": "Fiery Pursuit",
+          "zh_CN": "驱敌逐北",
+          "ja": "追奔逐北",
+          "ko": "Fiery Pursuit",
+          "zh_TW": "驅敵逐北"
+        }
+      ]
+    }
+  ]
+}

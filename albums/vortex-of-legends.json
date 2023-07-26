@@ -1,0 +1,316 @@
+{
+  "id": "vortex-of-legends",
+  "title": {
+    "en": "Vortex of Legends",
+    "zh_CN": "漩涡、落星与冰山",
+    "ja": "渦巻、落星と雪山",
+    "ko": "소용돌이, 별부름과 빙산",
+    "zh_TW": "漩渦、落星與冰山"
+  },
+  "game": "genshin_impact",
+  "upc": "3616554247876",
+  "releaseDate": "2021-04-02",
+  "artistName": "Yu-Peng Chen & HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 17,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1559224205",
+      "cn": "1559217220",
+      "jp": "1559231092",
+      "kr": "1559217264",
+      "tw": "1559225038"
+    }
+  },
+  "colors": {
+    "background": "#1a5e9d",
+    "colors": [
+      "#f7efe4",
+      "#e9c876",
+      "#cbd2d6",
+      "#c0b27d"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/c1/8f/9bc18f8e-abfd-4d07-2afe-857fc8a39619/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/19/c7/c219c769-3c81-fafd-c45d-7cee2ab74ecf/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/6f/b4/ee6fb4d6-814c-18fa-acd7-9e2b108a3e85/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/df/30/06/df300678-d2ad-0f5d-4c79-a4a0b14304e9/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/78/87/6c/78876c0d-5631-8264-dfd3-af77e3adff0d/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "Vortex of Legends",
+        "ja": "渦巻、落星と雪山",
+        "ko": "소용돌이, 별부름과 빙산",
+        "zh_CN": "漩涡、落星与冰山",
+        "zh_TW": "漩渦、落星與冰山"
+      },
+      "video": {
+        "en": "https://youtu.be/n_-9mrBMLA8",
+        "ja": "https://youtu.be/iYs8Fv7hrzA",
+        "ko": "https://youtu.be/go6BAy08M08"
+      },
+      "duration": 1495017,
+      "tracks": [
+        {
+          "length": 91984,
+          "ids": {
+            "ca": "1559224808",
+            "cn": "1559217223",
+            "jp": "1559231097",
+            "kr": "1559217267",
+            "tw": "1559225468"
+          },
+          "en": "Snow-Buried Tales",
+          "zh_CN": "雪掩的往事",
+          "ja": "雪に隠された往事",
+          "ko": "Snow-Buried Tales",
+          "zh_TW": "雪掩的往事"
+        },
+        {
+          "length": 120900,
+          "ids": {
+            "ca": "1559224823",
+            "cn": "1559217228",
+            "jp": "1559231104",
+            "kr": "1559217270",
+            "tw": "1559225489"
+          },
+          "en": "Fragile Fantasy",
+          "zh_CN": "银白的希望",
+          "ja": "銀白の希望",
+          "ko": "Fragile Fantasy",
+          "zh_TW": "銀白的希望"
+        },
+        {
+          "length": 105918,
+          "ids": {
+            "ca": "1559224832",
+            "cn": "1559217236",
+            "jp": "1559231105",
+            "kr": "1559217275",
+            "tw": "1559225495"
+          },
+          "en": "Chattering Snowflakes",
+          "zh_CN": "霜的精灵",
+          "ja": "霜の精霊",
+          "ko": "Chattering Snowflakes",
+          "zh_TW": "霜的精靈"
+        },
+        {
+          "length": 66106,
+          "ids": {
+            "ca": "1559224989",
+            "cn": "1559217242",
+            "jp": "1559231497",
+            "kr": "1559217581",
+            "tw": "1559225796"
+          },
+          "en": "Serene and Sweet Adieu",
+          "zh_CN": "在梦乡重聚",
+          "ja": "夢で再会しよう",
+          "ko": "Serene and Sweet Adieu",
+          "zh_TW": "在夢鄉重聚"
+        },
+        {
+          "length": 72251,
+          "ids": {
+            "ca": "1559224994",
+            "cn": "1559217245",
+            "jp": "1559231501",
+            "kr": "1559217585",
+            "tw": "1559225803"
+          },
+          "en": "Glistening Shards",
+          "zh_CN": "冰下的碎梦",
+          "ja": "氷に砕けた夢",
+          "ko": "Glistening Shards",
+          "zh_TW": "冰下的碎夢"
+        },
+        {
+          "length": 133749,
+          "ids": {
+            "ca": "1559225008",
+            "cn": "1559217549",
+            "jp": "1559231504",
+            "kr": "1559217596",
+            "tw": "1559225818"
+          },
+          "en": "Ad Oblivione",
+          "zh_CN": "遗忘的流风",
+          "ja": "忘れられた風",
+          "ko": "Ad Oblivione",
+          "zh_TW": "遺忘的流風"
+        },
+        {
+          "length": 60587,
+          "ids": {
+            "ca": "1559225012",
+            "cn": "1559217555",
+            "jp": "1559231508",
+            "kr": "1559217601",
+            "tw": "1559226131"
+          },
+          "en": "Abiding Chills",
+          "zh_CN": "寒潮的余响",
+          "ja": "寒波の余響",
+          "ko": "Abiding Chills",
+          "zh_TW": "寒潮的餘響"
+        },
+        {
+          "length": 98906,
+          "ids": {
+            "ca": "1559225226",
+            "cn": "1559217556",
+            "jp": "1559231512",
+            "kr": "1559217697",
+            "tw": "1559226147"
+          },
+          "en": "Menacing Cove",
+          "zh_CN": "极寒的险地",
+          "ja": "極寒の悪所",
+          "ko": "Menacing Cove",
+          "zh_TW": "極寒的險地"
+        },
+        {
+          "length": 72577,
+          "ids": {
+            "ca": "1559225229",
+            "cn": "1559217559",
+            "jp": "1559231514",
+            "kr": "1559217701",
+            "tw": "1559226276"
+          },
+          "en": "Striding in the Snowstorm",
+          "zh_CN": "雪暴中迷途",
+          "ja": "吹雪に迷う",
+          "ko": "Striding in the Snowstorm",
+          "zh_TW": "雪暴中迷途"
+        },
+        {
+          "length": 64639,
+          "ids": {
+            "ca": "1559225230",
+            "cn": "1559217561",
+            "jp": "1559231818",
+            "kr": "1559217707",
+            "tw": "1559226293"
+          },
+          "en": "Sinister Mist",
+          "zh_CN": "隐匿的凶兆",
+          "ja": "隠匿する前兆",
+          "ko": "Sinister Mist",
+          "zh_TW": "隱匿的凶兆"
+        },
+        {
+          "length": 72018,
+          "ids": {
+            "ca": "1559225232",
+            "cn": "1559217562",
+            "jp": "1559231820",
+            "kr": "1559217713",
+            "tw": "1559226303"
+          },
+          "en": "In the Desolate Hallway",
+          "zh_CN": "静谧的厅堂",
+          "ja": "静謐なホール",
+          "ko": "In the Desolate Hallway",
+          "zh_TW": "靜謐的廳堂"
+        },
+        {
+          "length": 98878,
+          "ids": {
+            "ca": "1559225237",
+            "cn": "1559217569",
+            "jp": "1559231823",
+            "kr": "1559217719",
+            "tw": "1559226304"
+          },
+          "en": "The Flourishing Past",
+          "zh_CN": "山林的故园",
+          "ja": "山林の故地",
+          "ko": "The Flourishing Past",
+          "zh_TW": "山林的故園"
+        },
+        {
+          "length": 91385,
+          "ids": {
+            "ca": "1559225240",
+            "cn": "1559217571",
+            "jp": "1559231886",
+            "kr": "1559217724",
+            "tw": "1559226642"
+          },
+          "en": "Unfinished Frescoes",
+          "zh_CN": "未完成的画作",
+          "ja": "未完成のフレスコ",
+          "ko": "Unfinished Frescoes",
+          "zh_TW": "未完成的畫作"
+        },
+        {
+          "length": 102205,
+          "ids": {
+            "ca": "1559225241",
+            "cn": "1559217575",
+            "jp": "1559231889",
+            "kr": "1559218058",
+            "tw": "1559226649"
+          },
+          "en": "Spin of Ice Crystals",
+          "zh_CN": "冰风的独舞",
+          "ja": "氷風の舞い",
+          "ko": "Spin of Ice Crystals",
+          "zh_TW": "冰風的獨舞"
+        },
+        {
+          "length": 102956,
+          "ids": {
+            "ca": "1559225250",
+            "cn": "1559217997",
+            "jp": "1559231897",
+            "kr": "1559218062",
+            "tw": "1559226660"
+          },
+          "en": "Finale of the Snowtomb",
+          "zh_CN": "雪国的终曲",
+          "ja": "雪国のフィナーレ",
+          "ko": "Finale of the Snowtomb",
+          "zh_TW": "雪國的終曲"
+        },
+        {
+          "length": 61999,
+          "ids": {
+            "ca": "1559225586",
+            "cn": "1559217999",
+            "jp": "1559232055",
+            "kr": "1559218064",
+            "tw": "1559226665"
+          },
+          "en": "Once-Colored Memories",
+          "zh_CN": "色彩的记忆",
+          "ja": "色彩の記憶",
+          "ko": "Once-Colored Memories",
+          "zh_TW": "色彩的記憶"
+        },
+        {
+          "length": 77959,
+          "ids": {
+            "ca": "1559225589",
+            "cn": "1559218002",
+            "jp": "1559232065",
+            "kr": "1559218068",
+            "tw": "1559227006"
+          },
+          "en": "Moonlike Smile",
+          "zh_CN": "皎洁的笑颜",
+          "ja": "清らかな笑顔",
+          "ko": "Moonlike Smile",
+          "zh_TW": "皎潔的笑顏"
+        }
+      ]
+    }
+  ]
+}

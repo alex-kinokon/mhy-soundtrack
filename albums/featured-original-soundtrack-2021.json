@@ -1,0 +1,238 @@
+{
+  "id": "featured-original-soundtrack-2021",
+  "title": {
+    "en": "Featured Original Soundtrack (2021)",
+    "zh_CN": "精选原声带曲目(2021)",
+    "ja": "オリジナルサウンドトラックベストセレクション2021",
+    "ko": "엄선 오리지널 사운드 트랙 (2021)",
+    "zh_TW": "精選原聲帶曲目(2021)"
+  },
+  "game": "genshin_impact",
+  "upc": "3616842417905",
+  "releaseDate": "2021-12-17",
+  "artistName": "Yu-Peng Chen & HOYO-MiX",
+  "recordLabel": "MiHoYo",
+  "trackCount": 12,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1598116672",
+      "cn": "1598106812",
+      "jp": "1598102161",
+      "kr": "1598099416",
+      "tw": "1598108221"
+    }
+  },
+  "colors": {
+    "background": "#e5bbc9",
+    "colors": [
+      "#0d0a09",
+      "#0f2d0d",
+      "#382e2f",
+      "#3a4932"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/d5/0b/fbd50b7a-9290-91ac-147c-e91178d0bbdd/dj.gwkhphdw.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8e/20/de/8e20de4d-57e2-55e6-0fb3-57bba7d5bbdb/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/8f/07/3c8f0794-2092-748f-c02f-efe5856add10/dj.gzjnhocu.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fe/26/f2/fe26f229-d25d-97ed-90c6-4cad301c0c1d/dj.hcsnguua.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/c7/9c/a9c79c49-c7cc-63ee-e5e4-a87cda75487b/dj.xkmhnhzs.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "Featured Original Soundtrack (2021)",
+        "ja": "オリジナルサウンドトラックベストセレクション2021",
+        "ko": "엄선 오리지널 사운드 트랙 (2021)",
+        "zh_CN": "精选原声带曲目(2021)",
+        "zh_TW": "精選原聲帶曲目(2021)"
+      },
+      "tweet": "https://twitter.com/GenshinImpact/status/1472423184171343872",
+      "video": {},
+      "duration": 2405649,
+      "tracks": [
+        {
+          "length": 106500,
+          "ids": {
+            "ca": "1598116869",
+            "cn": "1598106814",
+            "jp": "1598102291",
+            "kr": "1598099417",
+            "tw": "1598108224"
+          },
+          "en": "Genshin Impact Main Theme",
+          "zh_CN": "原神",
+          "ja": "原神メインテーマ",
+          "ko": "Genshin Impact Main Theme",
+          "zh_TW": "原神"
+        },
+        {
+          "length": 59750,
+          "ids": {
+            "ca": "1598116878",
+            "cn": "1598107246",
+            "jp": "1598102294",
+            "kr": "1598099422",
+            "tw": "1598108649"
+          },
+          "en": "A Day in Mondstadt",
+          "zh_CN": "蒙德的一日",
+          "ja": "モンドの一日",
+          "ko": "A Day In Mondstadt",
+          "zh_TW": "蒙德的一日"
+        },
+        {
+          "length": 260000,
+          "ids": {
+            "ca": "1598116890",
+            "cn": "1598107251",
+            "jp": "1598102296",
+            "kr": "1598099426",
+            "tw": "1598108652"
+          },
+          "en": "Rite of Battle",
+          "zh_CN": "战斗的秘仪",
+          "ja": "バトルの秘儀",
+          "ko": "Rite Of Battle",
+          "zh_TW": "戰鬥的秘儀"
+        },
+        {
+          "length": 68321,
+          "ids": {
+            "ca": "1598117143",
+            "cn": "1598107253",
+            "jp": "1598102313",
+            "kr": "1598099429",
+            "tw": "1598108658"
+          },
+          "en": "Dawn Winery Theme",
+          "zh_CN": "晨曦酒庄",
+          "ja": "アカツキワイナリー",
+          "ko": "Dawn Winery Theme",
+          "zh_TW": "晨曦酒莊"
+        },
+        {
+          "length": 276250,
+          "ids": {
+            "ca": "1598117152",
+            "cn": "1598107258",
+            "jp": "1598102475",
+            "kr": "1598099431",
+            "tw": "1598108665"
+          },
+          "en": "Liyue",
+          "zh_CN": "璃月",
+          "ja": "璃月",
+          "ko": "Liyue",
+          "zh_TW": "璃月"
+        },
+        {
+          "length": 259588,
+          "ids": {
+            "ca": "1598117155",
+            "cn": "1598107261",
+            "jp": "1598102481",
+            "kr": "1598100006",
+            "tw": "1598108669"
+          },
+          "en": "Rapid as Wildfires",
+          "zh_CN": "疾如猛火",
+          "ja": "烈火の如く",
+          "ko": "Rapid as Wildfires",
+          "zh_TW": "疾如猛火"
+        },
+        {
+          "length": 131000,
+          "ids": {
+            "ca": "1598117162",
+            "cn": "1598107262",
+            "jp": "1598102489",
+            "kr": "1598100010",
+            "tw": "1598108673"
+          },
+          "en": "Peaceful Hike (Qingce Daytime)",
+          "zh_CN": "⼭⻛拂萝⾐(轻策昼间)",
+          "ja": "遠足に行こう(軽策昼間)",
+          "ko": "Peaceful Hike (Qingce Daytime)",
+          "zh_TW": "⼭風拂蘿⾐ (輕策晝間)"
+        },
+        {
+          "length": 329773,
+          "ids": {
+            "ca": "1598117378",
+            "cn": "1598107447",
+            "jp": "1598102685",
+            "kr": "1598100012",
+            "tw": "1598109040"
+          },
+          "en": "Inazuma",
+          "zh_CN": "稻妻",
+          "ja": "稲妻",
+          "ko": "Inazuma",
+          "zh_TW": "稻妻"
+        },
+        {
+          "length": 255067,
+          "ids": {
+            "ca": "1598117382",
+            "cn": "1598107448",
+            "jp": "1598102697",
+            "kr": "1598100021",
+            "tw": "1598109046"
+          },
+          "en": "Fiery Pursuit",
+          "zh_CN": "驱敌逐北",
+          "ja": "追奔逐北",
+          "ko": "Fiery Pursuit",
+          "zh_TW": "驅敵逐北"
+        },
+        {
+          "length": 160400,
+          "ids": {
+            "ca": "1598117387",
+            "cn": "1598107451",
+            "jp": "1598102886",
+            "kr": "1598100022",
+            "tw": "1598109054"
+          },
+          "en": "A Harmonious Rest",
+          "zh_CN": "安宁的天光",
+          "ja": "安寧の天光",
+          "ko": "A Harmonious Rest",
+          "zh_TW": "安寧的天光"
+        },
+        {
+          "length": 208000,
+          "ids": {
+            "ca": "1598117392",
+            "cn": "1598107454",
+            "jp": "1598102893",
+            "kr": "1598100248",
+            "tw": "1598109061"
+          },
+          "en": "Caelestinum Finale Termini",
+          "zh_CN": "终天的闭幕曲",
+          "ja": "終焉のフィナーレ",
+          "ko": "Caelestinum Finale Termini",
+          "zh_TW": "終天的閉幕曲"
+        },
+        {
+          "length": 291000,
+          "ids": {
+            "ca": "1598117395",
+            "cn": "1598107457",
+            "jp": "1598102898",
+            "kr": "1598100256",
+            "tw": "1598109288"
+          },
+          "en": "Symphony of Boreal Wind",
+          "zh_CN": "冰封交响曲",
+          "ja": "氷封のシンフォニー",
+          "ko": "Symphony of Boreal Wind",
+          "zh_TW": "冰封交響曲"
+        }
+      ]
+    }
+  ]
+}

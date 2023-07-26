@@ -1,0 +1,1040 @@
+{
+  "id": "city-of-winds-and-idylls",
+  "title": {
+    "en": "City of Winds and Idylls",
+    "zh_CN": "风与牧歌之城",
+    "ja": "風と牧歌の城",
+    "ko": "바람과 목가의 성",
+    "zh_TW": "風與牧歌之城"
+  },
+  "game": "genshin_impact",
+  "upc": "3616409652268",
+  "releaseDate": "2020-09-28",
+  "artistName": "Yu-Peng Chen & HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 63,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1535605650",
+      "cn": "1537054208",
+      "jp": "1535678443",
+      "kr": "1535746914",
+      "tw": "1535605673"
+    }
+  },
+  "colors": {
+    "background": "#075a93",
+    "colors": [
+      "#d1e7fc",
+      "#dee2d7",
+      "#a9cae7",
+      "#b3c7c9"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/41/64/7a/41647a63-cc63-fd19-ce59-7fda44440d29/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e9/f9/80/e9f980b0-b504-50f1-8257-ba6e9f70c9ae/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/57/13/b2/5713b2ec-a734-180f-8971-8ad8c431009b/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/46/1a/17461a37-ead9-3b92-2963-c1bcbaaaa5ce/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/81/bb/61/81bb6158-f053-7f3a-9e89-22b61ab266c0/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "en": "City of Winds and Idylls",
+        "ja": "風と牧歌の城",
+        "ko": "바람과 목가의 성",
+        "zh_CN": "风与牧歌之城",
+        "zh_TW": "風與牧歌之城"
+      },
+      "video": {
+        "en": "https://youtu.be/AALrH26HAmw",
+        "ja": "https://youtu.be/7MyCCMWJAkw",
+        "ko": "https://youtu.be/DYJfawFkdhs"
+      },
+      "duration": 1987471,
+      "tracks": [
+        {
+          "length": 101555,
+          "ids": {
+            "ca": "1535606077",
+            "cn": "1537054211",
+            "jp": "1535678446",
+            "kr": "1535746917",
+            "tw": "1535605682"
+          },
+          "en": "Twilight Serenity (Genshin Impact Main Theme Var.)",
+          "zh_CN": "宁静的黄昏",
+          "ja": "安静の夕暮れ",
+          "ko": "Twilight Serenity (Genshin Impact Main Theme Var.)",
+          "zh_TW": "寧靜的黃昏"
+        },
+        {
+          "length": 86843,
+          "ids": {
+            "ca": "1535606078",
+            "cn": "1537054227",
+            "jp": "1535678448",
+            "kr": "1535746921",
+            "tw": "1535605899"
+          },
+          "en": "Legend of the Wind",
+          "zh_CN": "风的传说",
+          "ja": "レジェンド・オブ・ザ・ウィンド",
+          "ko": "Legend of the Wind",
+          "zh_TW": "風的傳說"
+        },
+        {
+          "length": 63250,
+          "ids": {
+            "ca": "1535606082",
+            "cn": "1537054233",
+            "jp": "1535678451",
+            "kr": "1535747376",
+            "tw": "1535605902"
+          },
+          "en": "The City Favored by Wind",
+          "zh_CN": "风所爱之城",
+          "ja": "風に愛される都",
+          "ko": "The City Favored by Wind",
+          "zh_TW": "風所愛之城"
+        },
+        {
+          "length": 108274,
+          "ids": {
+            "ca": "1535606086",
+            "cn": "1537054419",
+            "jp": "1535678455",
+            "kr": "1535747377",
+            "tw": "1535605904"
+          },
+          "en": "Bustling Afternoon in Mondstadt",
+          "zh_CN": "蒙德城繁忙的午后",
+          "ja": "繁忙なモンドの午後",
+          "ko": "Bustling Afternoon in Mondstadt",
+          "zh_TW": "蒙德城繁忙的午後"
+        },
+        {
+          "length": 108771,
+          "ids": {
+            "ca": "1535606089",
+            "cn": "1537054423",
+            "jp": "1535678457",
+            "kr": "1535747381",
+            "tw": "1535605905"
+          },
+          "en": "Dusk in Mondstadt",
+          "zh_CN": "蒙德的黄昏",
+          "ja": "モンドの夕暮れ",
+          "ko": "Dusk in Mondstadt",
+          "zh_TW": "蒙德的黃昏"
+        },
+        {
+          "length": 60711,
+          "ids": {
+            "ca": "1535606092",
+            "cn": "1537054430",
+            "jp": "1535678462",
+            "kr": "1535747386",
+            "tw": "1535605906"
+          },
+          "en": "Mondstadt Starlit",
+          "zh_CN": "星光下的蒙德",
+          "ja": "スターライト・オブ・モンド",
+          "ko": "Mondstadt Starlit",
+          "zh_TW": "星光下的蒙德"
+        },
+        {
+          "length": 49340,
+          "ids": {
+            "ca": "1535606096",
+            "cn": "1537054443",
+            "jp": "1535678588",
+            "kr": "1535747389",
+            "tw": "1535605907"
+          },
+          "en": "Moonlight in Mondstadt",
+          "zh_CN": "蒙德的月光",
+          "ja": "ムーンライト・オブ・モンド",
+          "ko": "Moonlight in Mondstadt",
+          "zh_TW": "蒙德的月光"
+        },
+        {
+          "length": 52686,
+          "ids": {
+            "ca": "1535606099",
+            "cn": "1537054444",
+            "jp": "1535678594",
+            "kr": "1535747393",
+            "tw": "1535605916"
+          },
+          "en": "Another Day in Mondstadt",
+          "zh_CN": "蒙德的又一日",
+          "ja": "アナザーデイ・イン・モンド",
+          "ko": "Another Day in Mondstadt",
+          "zh_TW": "蒙德的又一日"
+        },
+        {
+          "length": 108008,
+          "ids": {
+            "ca": "1535606102",
+            "cn": "1537054630",
+            "jp": "1535678596",
+            "kr": "1535747395",
+            "tw": "1535605919"
+          },
+          "en": "Windborne Hymn",
+          "zh_CN": "风带来的圣歌",
+          "ja": "風が運んだ聖歌",
+          "ko": "Windborne Hymn",
+          "zh_TW": "風帶來的聖歌"
+        },
+        {
+          "length": 75411,
+          "ids": {
+            "ca": "1535606537",
+            "cn": "1537054634",
+            "jp": "1535678602",
+            "kr": "1535747397",
+            "tw": "1535606313"
+          },
+          "en": "Knights of Favonius",
+          "zh_CN": "西风骑士团",
+          "ja": "西風騎士団",
+          "ko": "Knights of Favonius",
+          "zh_TW": "西風騎士團"
+        },
+        {
+          "length": 113196,
+          "ids": {
+            "ca": "1535606543",
+            "cn": "1537054639",
+            "jp": "1535678604",
+            "kr": "1535747398",
+            "tw": "1535606314"
+          },
+          "en": "Angel's Share",
+          "zh_CN": "天使的馈赠",
+          "ja": "エンジェルズシェア",
+          "ko": "Angel's Share",
+          "zh_TW": "天使的饋贈"
+        },
+        {
+          "length": 91369,
+          "ids": {
+            "ca": "1535606547",
+            "cn": "1537054642",
+            "jp": "1535678609",
+            "kr": "1535747401",
+            "tw": "1535606437"
+          },
+          "en": "Silhouette and Silk Steps",
+          "zh_CN": "剪影与蹑步",
+          "ja": "シルエットと猫足",
+          "ko": "Silhouette and Silk Steps",
+          "zh_TW": "剪影與躡步"
+        },
+        {
+          "length": 139340,
+          "ids": {
+            "ca": "1535606550",
+            "cn": "1537054643",
+            "jp": "1535678612",
+            "kr": "1535747497",
+            "tw": "1535606438"
+          },
+          "en": "Perilous Path",
+          "zh_CN": "危险的小径",
+          "ja": "際どい小道",
+          "ko": "Perilous Path",
+          "zh_TW": "危險的小徑"
+        },
+        {
+          "length": 111936,
+          "ids": {
+            "ca": "1535606555",
+            "cn": "1537054647",
+            "jp": "1535678736",
+            "kr": "1535747509",
+            "tw": "1535606445"
+          },
+          "en": "Say My Name",
+          "zh_CN": "直面",
+          "ja": "向き合い",
+          "ko": "Say My Name",
+          "zh_TW": "直面"
+        },
+        {
+          "length": 82987,
+          "ids": {
+            "ca": "1535606798",
+            "cn": "1537054649",
+            "jp": "1535678739",
+            "kr": "1535747510",
+            "tw": "1535606451"
+          },
+          "en": "Welp, Didn't Expect That",
+          "zh_CN": "呃,这可没想到...",
+          "ja": "ウッ、これは思いつかなかった...",
+          "ko": "Welp, Didn't Expect That",
+          "zh_TW": "呃,這可沒想到..."
+        },
+        {
+          "length": 86987,
+          "ids": {
+            "ca": "1535606800",
+            "cn": "1537054655",
+            "jp": "1535678745",
+            "kr": "1535747512",
+            "tw": "1535606571"
+          },
+          "en": "An Interesting Labour",
+          "zh_CN": "有趣的挑战",
+          "ja": "愉快な挑戦",
+          "ko": "An Interesting Labour",
+          "zh_TW": "有趣的挑戰"
+        },
+        {
+          "length": 88408,
+          "ids": {
+            "ca": "1535606805",
+            "cn": "1537054867",
+            "jp": "1535678746",
+            "kr": "1535747513",
+            "tw": "1535606575"
+          },
+          "en": "Make Haste, Partner",
+          "zh_CN": "速度加快",
+          "ja": "スピードアップ",
+          "ko": "Make Haste, Partner",
+          "zh_TW": "速度加快"
+        },
+        {
+          "length": 28703,
+          "ids": {
+            "ca": "1535606825",
+            "cn": "1537054869",
+            "jp": "1535678747",
+            "kr": "1535747516",
+            "tw": "1535606584"
+          },
+          "en": "A Happy Day",
+          "zh_CN": "开心的一天",
+          "ja": "楽しい一日",
+          "ko": "A Happy Day",
+          "zh_TW": "開心的一天"
+        },
+        {
+          "length": 37081,
+          "ids": {
+            "ca": "1535607048",
+            "cn": "1537054873",
+            "jp": "1535678751",
+            "kr": "1535747517",
+            "tw": "1535606777"
+          },
+          "en": "Reunion in the Whispering Woods",
+          "zh_CN": "低语森林的重逢",
+          "ja": "囁きの森での再会",
+          "ko": "Reunion in the Whispering Woods",
+          "zh_TW": "低語森林的重逢"
+        },
+        {
+          "length": 29369,
+          "ids": {
+            "ca": "1535607051",
+            "cn": "1537054879",
+            "jp": "1535678752",
+            "kr": "1535747519",
+            "tw": "1535606779"
+          },
+          "en": "Startled",
+          "zh_CN": "震惊",
+          "ja": "びっくりした",
+          "ko": "Startled",
+          "zh_TW": "震驚"
+        },
+        {
+          "length": 13520,
+          "ids": {
+            "ca": "1535607056",
+            "cn": "1537054881",
+            "jp": "1535678753",
+            "kr": "1535747520",
+            "tw": "1535606785"
+          },
+          "en": "Meeting Amber",
+          "zh_CN": "初遇安柏",
+          "ja": "アンバーと初対面",
+          "ko": "Meeting Amber",
+          "zh_TW": "初遇安柏"
+        },
+        {
+          "length": 65259,
+          "ids": {
+            "ca": "1535607058",
+            "cn": "1537054890",
+            "jp": "1535678757",
+            "kr": "1535747523",
+            "tw": "1535606787"
+          },
+          "en": "Storm Befalls",
+          "zh_CN": "风暴降临",
+          "ja": "ストーム・ビフォールズ",
+          "ko": "Storm Befalls",
+          "zh_TW": "風暴降臨"
+        },
+        {
+          "length": 141118,
+          "ids": {
+            "ca": "1535607060",
+            "cn": "1537055106",
+            "jp": "1535678762",
+            "kr": "1535747525",
+            "tw": "1535606791"
+          },
+          "en": "Slight Distress",
+          "zh_CN": "淡淡的不安",
+          "ja": "陰陰たる不安",
+          "ko": "Slight Distress",
+          "zh_TW": "淡淡的不安"
+        },
+        {
+          "length": 82756,
+          "ids": {
+            "ca": "1535607063",
+            "cn": "1537055109",
+            "jp": "1535678764",
+            "kr": "1535747707",
+            "tw": "1535607070"
+          },
+          "en": "Tender Strength",
+          "zh_CN": "同伴的力量",
+          "ja": "仲間の力",
+          "ko": "Tender Strength",
+          "zh_TW": "同伴的力量"
+        },
+        {
+          "length": 60593,
+          "ids": {
+            "ca": "1535607369",
+            "cn": "1537055114",
+            "jp": "1535678765",
+            "kr": "1535747710",
+            "tw": "1535607074"
+          },
+          "en": "Imminent Triumph",
+          "zh_CN": "将至的凯歌",
+          "ja": "差し迫う勝利の歌",
+          "ko": "Imminent Triumph",
+          "zh_TW": "將至的凱歌"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "The Horizon of Dandelion",
+        "ja": "蒲公英の国",
+        "ko": "민들레의 지평선",
+        "zh_CN": "蒲公英的国度",
+        "zh_TW": "蒲公英的國度"
+      },
+      "video": {
+        "en": "https://youtu.be/aeEkatw2Heg",
+        "ja": "https://youtu.be/1e0VGOOYF6w",
+        "ko": "https://youtu.be/LdPrWtBFOZw"
+      },
+      "duration": 2289831,
+      "tracks": [
+        {
+          "length": 102291,
+          "ids": {
+            "ca": "1535607377",
+            "cn": "1537055117",
+            "jp": "1535679103",
+            "kr": "1535747712",
+            "tw": "1535607092"
+          },
+          "en": "Beckoning (Genshin Impact Main Theme Var.)",
+          "zh_CN": "情不自禁",
+          "ja": "抑えきれない思い",
+          "ko": "Beckoning (Genshin Impact Main Theme Var.)",
+          "zh_TW": "情不自禁"
+        },
+        {
+          "length": 74422,
+          "ids": {
+            "ca": "1535607381",
+            "cn": "1537055119",
+            "jp": "1535679113",
+            "kr": "1535747714",
+            "tw": "1535607252"
+          },
+          "en": "Hence, Begins the Journey",
+          "zh_CN": "旅途的开始",
+          "ja": "旅の始まり",
+          "ko": "Hence, Begins the Journey",
+          "zh_TW": "旅途的開始"
+        },
+        {
+          "length": 67237,
+          "ids": {
+            "ca": "1535607388",
+            "cn": "1537055129",
+            "jp": "1535679116",
+            "kr": "1535747716",
+            "tw": "1535607266"
+          },
+          "en": "Dawn Winery Theme",
+          "zh_CN": "晨曦酒庄",
+          "ja": "アカツキワイナリー",
+          "ko": "Dawn Winery Theme",
+          "zh_TW": "晨曦酒莊"
+        },
+        {
+          "length": 69393,
+          "ids": {
+            "ca": "1535607791",
+            "cn": "1537055133",
+            "jp": "1535679123",
+            "kr": "1535747718",
+            "tw": "1535607271"
+          },
+          "en": "Before Dawn, at the Winery",
+          "zh_CN": "破晓前的流光",
+          "ja": "夜明け前のワイナリー",
+          "ko": "Before Dawn, at the Winery",
+          "zh_TW": "破曉前的流光"
+        },
+        {
+          "length": 67500,
+          "ids": {
+            "ca": "1535607792",
+            "cn": "1537055466",
+            "jp": "1535679428",
+            "kr": "1535747720",
+            "tw": "1535607274"
+          },
+          "en": "A Familiar Sight and Leisure",
+          "zh_CN": "见惯的风景",
+          "ja": "見慣れた風景",
+          "ko": "A Familiar Sight and Leisure",
+          "zh_TW": "見慣的風景"
+        },
+        {
+          "length": 67579,
+          "ids": {
+            "ca": "1535607795",
+            "cn": "1537055471",
+            "jp": "1535679442",
+            "kr": "1535747725",
+            "tw": "1535607529"
+          },
+          "en": "Cold Night",
+          "zh_CN": "饰金的夜色",
+          "ja": "黄金色の夜",
+          "ko": "Cold Night",
+          "zh_TW": "飾金的夜色"
+        },
+        {
+          "length": 70000,
+          "ids": {
+            "ca": "1535607800",
+            "cn": "1537055473",
+            "jp": "1535679445",
+            "kr": "1535747729",
+            "tw": "1535607533"
+          },
+          "en": "Whispering Plain",
+          "zh_CN": "平原的低语",
+          "ja": "平原の囁き",
+          "ko": "Whispering Plain",
+          "zh_TW": "平原的低語"
+        },
+        {
+          "length": 84819,
+          "ids": {
+            "ca": "1535607805",
+            "cn": "1537055480",
+            "jp": "1535679446",
+            "kr": "1535747730",
+            "tw": "1535607536"
+          },
+          "en": "Statue of the Seven",
+          "zh_CN": "七天神像",
+          "ja": "七天神像",
+          "ko": "Statue of The Seven",
+          "zh_TW": "七天神像"
+        },
+        {
+          "length": 21819,
+          "ids": {
+            "ca": "1535607812",
+            "cn": "1537055482",
+            "jp": "1535679584",
+            "kr": "1535747731",
+            "tw": "1535607612"
+          },
+          "en": "Acquaintance (Statue of the Seven)",
+          "zh_CN": "命运的初识",
+          "ja": "運命の繋がり",
+          "ko": "Acquaintance (Statue of The Seven)",
+          "zh_TW": "命運的初識"
+        },
+        {
+          "length": 84588,
+          "ids": {
+            "ca": "1535608118",
+            "cn": "1537055487",
+            "jp": "1535679591",
+            "kr": "1535747732",
+            "tw": "1535607616"
+          },
+          "en": "Stealing Words of the Moon",
+          "zh_CN": "月亮处盗来的歌",
+          "ja": "月から盗んだ歌",
+          "ko": "Stealing Words of the Moon",
+          "zh_TW": "月亮處盜來的歌"
+        },
+        {
+          "length": 88000,
+          "ids": {
+            "ca": "1535608126",
+            "cn": "1537055488",
+            "jp": "1535679592",
+            "kr": "1535747733",
+            "tw": "1535607625"
+          },
+          "en": "Wayfarer's Peace",
+          "zh_CN": "旅人的暂歇",
+          "ja": "旅人の休憩",
+          "ko": "Wayfarer's Peace",
+          "zh_TW": "旅人的暫歇"
+        },
+        {
+          "length": 41000,
+          "ids": {
+            "ca": "1535608135",
+            "cn": "1537055491",
+            "jp": "1535679594",
+            "kr": "1535747734",
+            "tw": "1535607881"
+          },
+          "en": "Wind-Washed Mountains",
+          "zh_CN": "风洗的群山",
+          "ja": "風に洗われし山々",
+          "ko": "Wind-Washed Mountains",
+          "zh_TW": "風洗的群山"
+        },
+        {
+          "length": 65455,
+          "ids": {
+            "ca": "1535608140",
+            "cn": "1537055680",
+            "jp": "1535679597",
+            "kr": "1535747735",
+            "tw": "1535607888"
+          },
+          "en": "Wayward Souls",
+          "zh_CN": "不散的魂灵",
+          "ja": "漫然たる魂たち",
+          "ko": "Wayward Souls",
+          "zh_TW": "不散的魂靈"
+        },
+        {
+          "length": 95000,
+          "ids": {
+            "ca": "1535608476",
+            "cn": "1537055684",
+            "jp": "1535679600",
+            "kr": "1535747946",
+            "tw": "1535607890"
+          },
+          "en": "Reminiscence (Genshin Impact Main Theme Var.)",
+          "zh_CN": "追忆",
+          "ja": "追憶",
+          "ko": "Reminiscence (Genshin Impact Main Theme Var.)",
+          "zh_TW": "追憶"
+        },
+        {
+          "length": 95071,
+          "ids": {
+            "ca": "1535608567",
+            "cn": "1537055695",
+            "jp": "1535679602",
+            "kr": "1535747947",
+            "tw": "1535607896"
+          },
+          "en": "Restless Blazing Sun",
+          "zh_CN": "烈日之残响",
+          "ja": "休まぬ烈日",
+          "ko": "Restless Blazing Sun",
+          "zh_TW": "烈日之殘響"
+        },
+        {
+          "length": 82903,
+          "ids": {
+            "ca": "1535608570",
+            "cn": "1537055696",
+            "jp": "1535679605",
+            "kr": "1535747949",
+            "tw": "1535608146"
+          },
+          "en": "Remembrance (Genshin Impact Main Theme Var.)",
+          "zh_CN": "一段回忆",
+          "ja": "リメンブランス",
+          "ko": "Remembrance (Genshin Impact Main Theme Var.)",
+          "zh_TW": "一段回憶"
+        },
+        {
+          "length": 72934,
+          "ids": {
+            "ca": "1535608575",
+            "cn": "1537055701",
+            "jp": "1535680060",
+            "kr": "1535747953",
+            "tw": "1535608157"
+          },
+          "en": "The Horizon",
+          "zh_CN": "地平",
+          "ja": "ザ・ホライゾン",
+          "ko": "The Horizon",
+          "zh_TW": "地平"
+        },
+        {
+          "length": 85115,
+          "ids": {
+            "ca": "1535608593",
+            "cn": "1537056006",
+            "jp": "1535680065",
+            "kr": "1535747954",
+            "tw": "1535608166"
+          },
+          "en": "Awaiting the Future",
+          "zh_CN": "静候未来",
+          "ja": "未来を待つ",
+          "ko": "Awaiting the Future",
+          "zh_TW": "靜候未來"
+        },
+        {
+          "length": 76681,
+          "ids": {
+            "ca": "1535608781",
+            "cn": "1537056011",
+            "jp": "1535680071",
+            "kr": "1535747955",
+            "tw": "1535608171"
+          },
+          "en": "Moonlit Wilderness",
+          "zh_CN": "月照的荒野",
+          "ja": "月光が照らす荒野",
+          "ko": "Moonlit Wilderness",
+          "zh_TW": "月照的荒野"
+        },
+        {
+          "length": 103238,
+          "ids": {
+            "ca": "1535608789",
+            "cn": "1537056012",
+            "jp": "1535680075",
+            "kr": "1535747962",
+            "tw": "1535608175"
+          },
+          "en": "A New Day with Hope",
+          "zh_CN": "希望的新一天",
+          "ja": "希望に満ちるアナザーデイ",
+          "ko": "A New Day with Hope",
+          "zh_TW": "希望的新一天"
+        },
+        {
+          "length": 81381,
+          "ids": {
+            "ca": "1535608799",
+            "cn": "1537056018",
+            "jp": "1535680077",
+            "kr": "1535747963",
+            "tw": "1535608424"
+          },
+          "en": "Journey of Hope (Genshin Impact Main Theme Var.)",
+          "zh_CN": "希望之旅",
+          "ja": "希望の旅",
+          "ko": "Journey of Hope (Genshin Impact Main Theme Var.)",
+          "zh_TW": "希望之旅"
+        },
+        {
+          "length": 199355,
+          "ids": {
+            "ca": "1535609141",
+            "cn": "1537056246",
+            "jp": "1535680083",
+            "kr": "1535747965",
+            "tw": "1535608445"
+          },
+          "en": "Forlorn Child of Archaic Winds (Dvalin's Nest)",
+          "zh_CN": "万古之风的弃儿",
+          "ja": "万古の風の捨子",
+          "ko": "Forlorn Child of Archaic Winds (Dvalin's Nest)",
+          "zh_TW": "萬古之風的棄兒"
+        },
+        {
+          "length": 175000,
+          "ids": {
+            "ca": "1535609150",
+            "cn": "1537056254",
+            "jp": "1535680267",
+            "kr": "1535747966",
+            "tw": "1535608709"
+          },
+          "en": "Forsaken Child of Ancient Times (Dvalin's Nest)",
+          "zh_CN": "太古时光的遗孤",
+          "ja": "太古の孤児",
+          "ko": "Forsaken Child of Ancient Times (Dvalin's Nest)",
+          "zh_TW": "太古時光的遺孤"
+        },
+        {
+          "length": 98929,
+          "ids": {
+            "ca": "1535609161",
+            "cn": "1537056256",
+            "jp": "1535680271",
+            "kr": "1535747967",
+            "tw": "1535608714"
+          },
+          "en": "Midday Prospects",
+          "zh_CN": "午日的眺望",
+          "ja": "正午の見通し",
+          "ko": "Midday Prospects",
+          "zh_TW": "午日的眺望"
+        },
+        {
+          "length": 101110,
+          "ids": {
+            "ca": "1535609800",
+            "cn": "1537056261",
+            "jp": "1535680273",
+            "kr": "1535747968",
+            "tw": "1535608809"
+          },
+          "en": "Dwelling in the Past",
+          "zh_CN": "久住往昔",
+          "ja": "過去の虜",
+          "ko": "Dwelling in the Past",
+          "zh_TW": "久住往昔"
+        },
+        {
+          "length": 119011,
+          "ids": {
+            "ca": "1535609813",
+            "cn": "1537056266",
+            "jp": "1535680276",
+            "kr": "1535747969",
+            "tw": "1535608815"
+          },
+          "en": "Eternal Anamnesis (Genshin Impact Main Theme Var.)",
+          "zh_CN": "永恒的回忆",
+          "ja": "エターナル・アナムネーシス",
+          "ko": "Eternal Anamnesis (Genshin Impact Main Theme Var.)",
+          "zh_TW": "永恆的回憶"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Saga of the West Wind",
+        "ja": "モンド戦記",
+        "ko": "몬드 사가",
+        "zh_CN": "蒙德战记",
+        "zh_TW": "蒙德戰記"
+      },
+      "video": {
+        "en": "https://youtu.be/FYgGSFgWjBw",
+        "ja": "https://youtu.be/PeDFyoCxNJc",
+        "ko": "https://youtu.be/sR5DVJD3yOA"
+      },
+      "duration": 2868241,
+      "tracks": [
+        {
+          "length": 194515,
+          "ids": {
+            "ca": "1535609821",
+            "cn": "1537056269",
+            "jp": "1535680280",
+            "kr": "1535747970",
+            "tw": "1535608826"
+          },
+          "en": "Photon of Fluctuation",
+          "zh_CN": "光辉的涨落",
+          "ja": "彷徨する輝き",
+          "ko": "Photon of Fluctuation",
+          "zh_TW": "光輝的漲落"
+        },
+        {
+          "length": 283802,
+          "ids": {
+            "ca": "1535610188",
+            "cn": "1537056275",
+            "jp": "1535680291",
+            "kr": "1535747971",
+            "tw": "1535609238"
+          },
+          "en": "His Resolution",
+          "zh_CN": "解决之道",
+          "ja": "解決案",
+          "ko": "His Resolution",
+          "zh_TW": "解決之道"
+        },
+        {
+          "length": 220445,
+          "ids": {
+            "ca": "1535610195",
+            "cn": "1537056610",
+            "jp": "1535680292",
+            "kr": "1535747972",
+            "tw": "1535609248"
+          },
+          "en": "Rhythm from Ancient Times",
+          "zh_CN": "亘古的韵律",
+          "ja": "太古の韻律",
+          "ko": "Rhythm from Ancient Times",
+          "zh_TW": "亙古的韻律"
+        },
+        {
+          "length": 252762,
+          "ids": {
+            "ca": "1535610203",
+            "cn": "1537056619",
+            "jp": "1535680295",
+            "kr": "1535747973",
+            "tw": "1535609253"
+          },
+          "en": "Endless Echoes",
+          "zh_CN": "无尽的回响",
+          "ja": "無限の響き",
+          "ko": "Endless Echoes",
+          "zh_TW": "無盡的迴響"
+        },
+        {
+          "length": 238709,
+          "ids": {
+            "ca": "1535610207",
+            "cn": "1537056623",
+            "jp": "1535680507",
+            "kr": "1535747974",
+            "tw": "1535609768"
+          },
+          "en": "Charge! Fearless Warriors",
+          "zh_CN": "冲啊!无畏的勇士",
+          "ja": "征け!不敵な戦士よ",
+          "ko": "Charge! Fearless Warriors",
+          "zh_TW": "衝啊!無畏的勇士"
+        },
+        {
+          "length": 243446,
+          "ids": {
+            "ca": "1535610214",
+            "cn": "1537056625",
+            "jp": "1535680516",
+            "kr": "1535748494",
+            "tw": "1535609918"
+          },
+          "en": "Beats of Water Drops",
+          "zh_CN": "水滴的节拍",
+          "ja": "ビート・オブ・ウォータードロップ",
+          "ko": "Beats of Water Drops",
+          "zh_TW": "水滴的節拍"
+        },
+        {
+          "length": 230504,
+          "ids": {
+            "ca": "1535610824",
+            "cn": "1537056634",
+            "jp": "1535680522",
+            "kr": "1535748496",
+            "tw": "1535609927"
+          },
+          "en": "Magic Intrigues",
+          "zh_CN": "魔导的深秘",
+          "ja": "魔導の奥義",
+          "ko": "Magic Intrigues",
+          "zh_TW": "魔導的深秘"
+        },
+        {
+          "length": 321953,
+          "ids": {
+            "ca": "1535610836",
+            "cn": "1537056853",
+            "jp": "1535680529",
+            "kr": "1535748497",
+            "tw": "1535609933"
+          },
+          "en": "Against All Odds",
+          "zh_CN": "无数的逆境",
+          "ja": "数え切れない逆境",
+          "ko": "Against All Odds",
+          "zh_TW": "無數的逆境"
+        },
+        {
+          "length": 212779,
+          "ids": {
+            "ca": "1535611209",
+            "cn": "1537056863",
+            "jp": "1535680698",
+            "kr": "1535748498",
+            "tw": "1535610254"
+          },
+          "en": "Perpetual Motion of Wind",
+          "zh_CN": "不休的风航",
+          "ja": "止まらぬ航行",
+          "ko": "Perpetual Motion of Wind",
+          "zh_TW": "不休的風航"
+        },
+        {
+          "length": 186826,
+          "ids": {
+            "ca": "1535611222",
+            "cn": "1537056983",
+            "jp": "1535680704",
+            "kr": "1535748499",
+            "tw": "1535610255"
+          },
+          "en": "Riders of the Wind, Onward",
+          "zh_CN": "乘风前行",
+          "ja": "風に乗って進もう",
+          "ko": "Riders of the Wind, Onward",
+          "zh_TW": "乘風前行"
+        },
+        {
+          "length": 191500,
+          "ids": {
+            "ca": "1535611228",
+            "cn": "1537056993",
+            "jp": "1535680708",
+            "kr": "1535748500",
+            "tw": "1535610267"
+          },
+          "en": "Whirl of Boreal Wind",
+          "zh_CN": "冰风回荡",
+          "ja": "漂う氷風",
+          "ko": "Whirl of Boreal Wind",
+          "zh_TW": "冰風迴盪"
+        },
+        {
+          "length": 291000,
+          "ids": {
+            "ca": "1535611501",
+            "cn": "1537057121",
+            "jp": "1535680715",
+            "kr": "1535748501",
+            "tw": "1535610275"
+          },
+          "en": "Symphony of Boreal Wind",
+          "zh_CN": "冰风的协奏曲",
+          "ja": "氷封のシンフォニー",
+          "ko": "Symphony of Boreal Wind",
+          "zh_TW": "冰封交響曲"
+        }
+      ]
+    }
+  ]
+}

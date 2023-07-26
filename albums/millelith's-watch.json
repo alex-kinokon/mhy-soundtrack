@@ -1,0 +1,695 @@
+{
+  "id": "millelith's-watch",
+  "title": {
+    "en": "Millelith's Watch",
+    "zh_CN": "千岩旷望",
+    "ko": "천암을 바라보며",
+    "ja": "千岩の眺望",
+    "zh_TW": "千岩曠望"
+  },
+  "game": "genshin_impact",
+  "upc": "3616848322289",
+  "releaseDate": "2022-06-22",
+  "artistName": "HOYO-MiX",
+  "recordLabel": "miHoYo",
+  "trackCount": 40,
+  "isComplete": true,
+  "externalLinks": {
+    "appleMusic": {
+      "ca": "1630111317",
+      "cn": "1630127613",
+      "kr": "1630147324",
+      "jp": "1630159499",
+      "tw": "1630108011"
+    }
+  },
+  "colors": {
+    "background": "#0b69ae",
+    "colors": [
+      "#fdfffe",
+      "#d8f8ff",
+      "#cce1ee",
+      "#afdbee"
+    ]
+  },
+  "covers": {
+    "en": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/31/e3/00/31e30066-1165-59d8-0a82-7e9718782abc/cover.jpg/632x632bb.webp",
+    "zh_CN": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5c/15/69/5c156963-2012-fa17-00f7-86878dbf03c4/cover.jpg/632x632bb.webp",
+    "ko": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/10/7c/5c/107c5c99-75bc-62ac-da1d-a8abc7f885c1/cover.jpg/632x632bb.webp",
+    "ja": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/aa/b1/be/aab1be7b-5714-11ac-c5d3-27a4a49cca4c/cover.jpg/632x632bb.webp",
+    "zh_TW": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/47/57/60/47576095-f938-245c-db63-025fe541150c/cover.jpg/632x632bb.webp"
+  },
+  "disks": [
+    {
+      "title": {
+        "ja": "山岳重畳",
+        "en": "Wrinkled Peaks",
+        "ko": "들쭉날쭉한 산등성이",
+        "zh_CN": "山嶂参差",
+        "zh_TW": "山嶂參差"
+      },
+      "video": {
+        "ja": "https://youtu.be/4m4tMjZf828",
+        "en": "https://youtu.be/nlc41gME5F0",
+        "ko": "https://youtu.be/lMCyyC84iyc"
+      },
+      "duration": 1218692,
+      "tracks": [
+        {
+          "length": 111606,
+          "ids": {
+            "ca": "1630111394",
+            "cn": "1630127920",
+            "kr": "1630147446",
+            "jp": "1630159504",
+            "tw": "1630108014"
+          },
+          "en": "Wordless Cliffs",
+          "zh_CN": "丹砂巍巍",
+          "ko": "Wordless Cliffs",
+          "ja": "魏々たる丹砂",
+          "zh_TW": "丹砂巍巍"
+        },
+        {
+          "length": 89681,
+          "ids": {
+            "ca": "1630111406",
+            "cn": "1630127929",
+            "kr": "1630147450",
+            "jp": "1630159667",
+            "tw": "1630108016"
+          },
+          "en": "On the Vast Earth",
+          "zh_CN": "绝域苍茫",
+          "ko": "On the Vast Earth",
+          "ja": "蒼茫たる絶域",
+          "zh_TW": "絕域蒼茫"
+        },
+        {
+          "length": 124173,
+          "ids": {
+            "ca": "1630111415",
+            "cn": "1630127940",
+            "kr": "1630147454",
+            "jp": "1630159784",
+            "tw": "1630108023"
+          },
+          "en": "Lithic Oath",
+          "zh_CN": "万壑千岩",
+          "ko": "Lithic Oath",
+          "ja": "千巌万壑",
+          "zh_TW": "萬壑千岩"
+        },
+        {
+          "length": 124700,
+          "ids": {
+            "ca": "1630111607",
+            "cn": "1630128186",
+            "kr": "1630147457",
+            "jp": "1630159790",
+            "tw": "1630108329"
+          },
+          "en": "Under the Clear Sky",
+          "zh_CN": "清风朗月",
+          "ko": "Under the Clear Sky",
+          "ja": "清風朗月",
+          "zh_TW": "清風朗月"
+        },
+        {
+          "length": 57689,
+          "ids": {
+            "ca": "1630111613",
+            "cn": "1630128199",
+            "kr": "1630147463",
+            "jp": "1630159798",
+            "tw": "1630108341"
+          },
+          "en": "As Dusk Falls",
+          "zh_CN": "日落百嶂静",
+          "ko": "As Dusk Falls",
+          "ja": "群峰、粛然と残陽を浴びる",
+          "zh_TW": "日落百嶂靜"
+        },
+        {
+          "length": 57480,
+          "ids": {
+            "ca": "1630111619",
+            "cn": "1630128210",
+            "kr": "1630147467",
+            "jp": "1630159803",
+            "tw": "1630108345"
+          },
+          "en": "Beyond the Distant Horizon",
+          "zh_CN": "大荒沉沉",
+          "ko": "Beyond the Distant Horizon",
+          "ja": "大荒沈々",
+          "zh_TW": "大荒沉沉"
+        },
+        {
+          "length": 90939,
+          "ids": {
+            "ca": "1630111837",
+            "cn": "1630128400",
+            "kr": "1630147471",
+            "jp": "1630160082",
+            "tw": "1630108351"
+          },
+          "en": "On a Cold Night",
+          "zh_CN": "寒夜月如霜",
+          "ko": "On a Cold Night",
+          "ja": "霜の如き寒夜の月",
+          "zh_TW": "寒夜月如霜"
+        },
+        {
+          "length": 91661,
+          "ids": {
+            "ca": "1630111852",
+            "cn": "1630128546",
+            "kr": "1630147475",
+            "jp": "1630160088",
+            "tw": "1630108354"
+          },
+          "en": "Defenders' Volition",
+          "zh_CN": "古戍苍苍",
+          "ko": "Defenders' Volition",
+          "ja": "古戍蒼蒼",
+          "zh_TW": "古戍蒼蒼"
+        },
+        {
+          "length": 91694,
+          "ids": {
+            "ca": "1630111859",
+            "cn": "1630128557",
+            "kr": "1630147807",
+            "jp": "1630160099",
+            "tw": "1630108536"
+          },
+          "en": "Solitary Stray Bird",
+          "zh_CN": "杳杳孤鸿",
+          "ko": "Solitary Stray Bird",
+          "ja": "孤雁は遠く...",
+          "zh_TW": "杳杳孤鴻"
+        },
+        {
+          "length": 89943,
+          "ids": {
+            "ca": "1630112020",
+            "cn": "1630128561",
+            "kr": "1630147808",
+            "jp": "1630160104",
+            "tw": "1630108540"
+          },
+          "en": "The Starlit Dome",
+          "zh_CN": "山瞑星河稀",
+          "ko": "The Starlit Dome",
+          "ja": "黎明に稀なる天の河",
+          "zh_TW": "山瞑星河稀"
+        },
+        {
+          "length": 79934,
+          "ids": {
+            "ca": "1630112023",
+            "cn": "1630128566",
+            "kr": "1630147815",
+            "jp": "1630160363",
+            "tw": "1630108545"
+          },
+          "en": "The Faint Distant Mountains",
+          "zh_CN": "苍岭悠悠",
+          "ko": "The Faint Distant Mountains",
+          "ja": "青山悠々",
+          "zh_TW": "蒼嶺悠悠"
+        },
+        {
+          "length": 79886,
+          "ids": {
+            "ca": "1630112030",
+            "cn": "1630128574",
+            "kr": "1630147817",
+            "jp": "1630160370",
+            "tw": "1630108554"
+          },
+          "en": "Moon Above the Valley",
+          "zh_CN": "空山霄月",
+          "ko": "Moon Above the Valley",
+          "ja": "深山に皎月",
+          "zh_TW": "空山霄月"
+        },
+        {
+          "length": 129306,
+          "ids": {
+            "ca": "1630112034",
+            "cn": "1630128848",
+            "kr": "1630147823",
+            "jp": "1630160589",
+            "tw": "1630108556"
+          },
+          "en": "Wandering Clouds",
+          "zh_CN": "野云万里",
+          "ko": "Wandering Clouds",
+          "ja": "荒れ野をただよう雲",
+          "zh_TW": "野雲萬里"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Underground Adventures",
+        "ja": "淵に沈みゆく日没",
+        "ko": "석양을 삼킨 심연",
+        "zh_CN": "隅谷渊沉",
+        "zh_TW": "隅谷淵沈"
+      },
+      "video": {
+        "en": "https://youtu.be/abPQnIMnoTw",
+        "ja": "https://youtu.be/Dx5V-_cwlP0",
+        "ko": "https://youtu.be/uVVlYz5gBbc"
+      },
+      "duration": 3387453,
+      "tracks": [
+        {
+          "length": 109261,
+          "ids": {
+            "ca": "1630112041",
+            "cn": "1630128967",
+            "kr": "1630147826",
+            "jp": "1630160598",
+            "tw": "1630108561"
+          },
+          "en": "Secret Is Held",
+          "zh_CN": "缄默的意义",
+          "ko": "Secret Is Held",
+          "ja": "沈黙の意味",
+          "zh_TW": "緘默的意義"
+        },
+        {
+          "length": 115427,
+          "ids": {
+            "ca": "1630112043",
+            "cn": "1630128978",
+            "kr": "1630147832",
+            "jp": "1630160611",
+            "tw": "1630108747"
+          },
+          "en": "Dreaming Earth",
+          "zh_CN": "无人知晓的梦",
+          "ko": "Dreaming Earth",
+          "ja": "知りえぬ夢",
+          "zh_TW": "無人知曉的夢"
+        },
+        {
+          "length": 122200,
+          "ids": {
+            "ca": "1630112262",
+            "cn": "1630128982",
+            "kr": "1630147834",
+            "jp": "1630160867",
+            "tw": "1630108755"
+          },
+          "en": "Frail Peace",
+          "zh_CN": "不稳的预感",
+          "ko": "Frail Peace",
+          "ja": "不穏な予感",
+          "zh_TW": "不穩的預感"
+        },
+        {
+          "length": 122968,
+          "ids": {
+            "ca": "1630112266",
+            "cn": "1630128987",
+            "kr": "1630148322",
+            "jp": "1630160880",
+            "tw": "1630108759"
+          },
+          "en": "Falls the Shadow",
+          "zh_CN": "隐映霜崖",
+          "ko": "Falls the Shadow",
+          "ja": "霞む、霜の崖",
+          "zh_TW": "隱映霜崖"
+        },
+        {
+          "length": 127752,
+          "ids": {
+            "ca": "1630112275",
+            "cn": "1630129327",
+            "kr": "1630148326",
+            "jp": "1630161017",
+            "tw": "1630108766"
+          },
+          "en": "Prowl the Shadows",
+          "zh_CN": "暗影潜形",
+          "ko": "Prowl the Shadows",
+          "ja": "暗影潜形",
+          "zh_TW": "暗影潛形"
+        },
+        {
+          "length": 128603,
+          "ids": {
+            "ca": "1630112280",
+            "cn": "1630129333",
+            "kr": "1630148345",
+            "jp": "1630161020",
+            "tw": "1630108773"
+          },
+          "en": "A Moment of Unsettledness",
+          "zh_CN": "穷地之险",
+          "ko": "A Moment of Unsettledness",
+          "ja": "危険な絶境",
+          "zh_TW": "窮地之險"
+        },
+        {
+          "length": 120504,
+          "ids": {
+            "ca": "1630112438",
+            "cn": "1630129336",
+            "kr": "1630148503",
+            "jp": "1630161258",
+            "tw": "1630108775"
+          },
+          "en": "Blind Search",
+          "zh_CN": "盲目的探索",
+          "ko": "Blind Search",
+          "ja": "光無き探索",
+          "zh_TW": "盲目的探索"
+        },
+        {
+          "length": 128363,
+          "ids": {
+            "ca": "1630112450",
+            "cn": "1630129347",
+            "kr": "1630148508",
+            "jp": "1630161272",
+            "tw": "1630108869"
+          },
+          "en": "Into the Airless Void",
+          "zh_CN": "虚旷之地",
+          "ko": "Into the Airless Void",
+          "ja": "空虚の地",
+          "zh_TW": "虛曠之地"
+        },
+        {
+          "length": 119008,
+          "ids": {
+            "ca": "1630112454",
+            "cn": "1630129354",
+            "kr": "1630148513",
+            "jp": "1630161382",
+            "tw": "1630108875"
+          },
+          "en": "A Glimmer of Hope",
+          "zh_CN": "萤爝微光",
+          "ko": "A Glimmer of Hope",
+          "ja": "かすかな燭光",
+          "zh_TW": "螢爝微光"
+        },
+        {
+          "length": 119435,
+          "ids": {
+            "ca": "1630112456",
+            "cn": "1630129848",
+            "kr": "1630148516",
+            "jp": "1630161386",
+            "tw": "1630108881"
+          },
+          "en": "Crossing Roads",
+          "zh_CN": "尘路绮错",
+          "ko": "Crossing Roads",
+          "ja": "交錯する塵界",
+          "zh_TW": "塵路綺錯"
+        },
+        {
+          "length": 122987,
+          "ids": {
+            "ca": "1630112458",
+            "cn": "1630129857",
+            "kr": "1630148518",
+            "jp": "1630161394",
+            "tw": "1630108886"
+          },
+          "en": "Stillness of the Ground",
+          "zh_CN": "静默的土地",
+          "ko": "Stillness of the Ground",
+          "ja": "静かな地",
+          "zh_TW": "靜默的土地"
+        },
+        {
+          "length": 122795,
+          "ids": {
+            "ca": "1630112460",
+            "cn": "1630130138",
+            "kr": "1630148796",
+            "jp": "1630161593",
+            "tw": "1630108895"
+          },
+          "en": "Lost in Gravel and Stone",
+          "zh_CN": "行过重岩",
+          "ko": "Lost in Gravel and Stone",
+          "ja": "連山を越えて",
+          "zh_TW": "行過重岩"
+        },
+        {
+          "length": 110016,
+          "ids": {
+            "ca": "1630112464",
+            "cn": "1630130147",
+            "kr": "1630148804",
+            "jp": "1630161601",
+            "tw": "1630109112"
+          },
+          "en": "In Gloomy Meditation",
+          "zh_CN": "冥岩的覃思",
+          "ko": "In Gloomy Meditation",
+          "ja": "幽谷に深思する",
+          "zh_TW": "冥岩的覃思"
+        },
+        {
+          "length": 102634,
+          "ids": {
+            "ca": "1630112771",
+            "cn": "1630130149",
+            "kr": "1630148810",
+            "jp": "1630161772",
+            "tw": "1630109116"
+          },
+          "en": "A Venture Into the Unknown",
+          "zh_CN": "重岫而游",
+          "ko": "A Venture Into the Unknown",
+          "ja": "深き洞穴に遊ぶ",
+          "zh_TW": "重岫而遊"
+        },
+        {
+          "length": 228519,
+          "ids": {
+            "ca": "1630112773",
+            "cn": "1630130156",
+            "kr": "1630148814",
+            "jp": "1630161941",
+            "tw": "1630109122"
+          },
+          "en": "Decayed in the Darkness",
+          "zh_CN": "繁华已逝",
+          "ko": "Decayed in the Darkness",
+          "ja": "過ぎ去りし華",
+          "zh_TW": "繁華已逝"
+        },
+        {
+          "length": 229572,
+          "ids": {
+            "ca": "1630112777",
+            "cn": "1630130163",
+            "kr": "1630148821",
+            "jp": "1630161948",
+            "tw": "1630109129"
+          },
+          "en": "A Shard From Past Glories",
+          "zh_CN": "破碎的荣耀",
+          "ko": "A Shard From Past Glories",
+          "ja": "砕け散った誇り",
+          "zh_TW": "破碎的榮耀"
+        },
+        {
+          "length": 259392,
+          "ids": {
+            "ca": "1630112786",
+            "cn": "1630130786",
+            "kr": "1630148825",
+            "jp": "1630161955",
+            "tw": "1630109297"
+          },
+          "en": "Ripples of the Past",
+          "zh_CN": "向时的涟沦",
+          "ko": "Ripples of the Past",
+          "ja": "往時のさざ波",
+          "zh_TW": "向時的漣淪"
+        },
+        {
+          "length": 259392,
+          "ids": {
+            "ca": "1630112793",
+            "cn": "1630130791",
+            "kr": "1630149070",
+            "jp": "1630161961",
+            "tw": "1630109303"
+          },
+          "en": "The Long Lost Days",
+          "zh_CN": "久已消逝之物",
+          "ko": "The Long Lost Days",
+          "ja": "疾うに消えたもの",
+          "zh_TW": "久已消逝之物"
+        },
+        {
+          "length": 247168,
+          "ids": {
+            "ca": "1630113038",
+            "cn": "1630130985",
+            "kr": "1630149088",
+            "jp": "1630162186",
+            "tw": "1630109311"
+          },
+          "en": "A Path to Delusions",
+          "zh_CN": "深邃诡幻之径",
+          "ko": "A Path to Delusions",
+          "ja": "幽邃怪奇の道",
+          "zh_TW": "深邃詭幻之徑"
+        },
+        {
+          "length": 245547,
+          "ids": {
+            "ca": "1630113049",
+            "cn": "1630130986",
+            "kr": "1630149092",
+            "jp": "1630162199",
+            "tw": "1630109408"
+          },
+          "en": "A Route to Fantasies",
+          "zh_CN": "觭梦沉酣之处",
+          "ko": "A Route to Fantasies",
+          "ja": "怪夢に酔いしれる処",
+          "zh_TW": "觭夢沉酣之處"
+        },
+        {
+          "length": 245910,
+          "ids": {
+            "ca": "1630113054",
+            "cn": "1630131246",
+            "kr": "1630149281",
+            "jp": "1630162444",
+            "tw": "1630109419"
+          },
+          "en": "Stories of Remote Antiquity",
+          "zh_CN": "深埋地心的瑰秘",
+          "ko": "Stories of Remote Antiquity",
+          "ja": "地核に隠されし秘宝",
+          "zh_TW": "深埋地心的瑰秘"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Battles of the Chasm",
+        "ja": "戦いの響音",
+        "ko": "울려 퍼지는 창검의 소리",
+        "zh_CN": "戈剑铿然",
+        "zh_TW": "戈劍鏗然"
+      },
+      "video": {
+        "en": "https://youtu.be/nXWaTUBHnOc",
+        "ja": "https://youtu.be/w9F3wqXWZdM",
+        "ko": "https://youtu.be/yi0BxRsbGrE"
+      },
+      "duration": 1478559,
+      "tracks": [
+        {
+          "length": 249936,
+          "ids": {
+            "ca": "1630113063",
+            "cn": "1630131260",
+            "kr": "1630149287",
+            "jp": "1630162538",
+            "tw": "1630109427"
+          },
+          "en": "Irresistible Force",
+          "zh_CN": "势若风雷",
+          "ko": "Irresistible Force",
+          "ja": "猛然たる風雷",
+          "zh_TW": "勢若風雷"
+        },
+        {
+          "length": 249643,
+          "ids": {
+            "ca": "1630113486",
+            "cn": "1630131269",
+            "kr": "1630149295",
+            "jp": "1630162548",
+            "tw": "1630109556"
+          },
+          "en": "Tremor of Menace",
+          "zh_CN": "临阵的战栗",
+          "ko": "Tremor of Menace",
+          "ja": "武者震い",
+          "zh_TW": "臨陣的戰慄"
+        },
+        {
+          "length": 228773,
+          "ids": {
+            "ca": "1630113492",
+            "cn": "1630131462",
+            "kr": "1630149304",
+            "jp": "1630162550",
+            "tw": "1630109562"
+          },
+          "en": "Seething Animosity",
+          "zh_CN": "腾溢的敌意",
+          "ko": "Seething Animosity",
+          "ja": "湧き立つ敵意",
+          "zh_TW": "騰溢的敵意"
+        },
+        {
+          "length": 257819,
+          "ids": {
+            "ca": "1630113499",
+            "cn": "1630131465",
+            "kr": "1630149493",
+            "jp": "1630162558",
+            "tw": "1630109568"
+          },
+          "en": "Undercurrents of Hostility",
+          "zh_CN": "争斗的暗流",
+          "ko": "Undercurrents of Hostility",
+          "ja": "闘争の暗流",
+          "zh_TW": "爭鬥的暗流"
+        },
+        {
+          "length": 245525,
+          "ids": {
+            "ca": "1630113504",
+            "cn": "1630131472",
+            "kr": "1630149497",
+            "jp": "1630162563",
+            "tw": "1630109571"
+          },
+          "en": "Impending Danger",
+          "zh_CN": "迫近的险乱",
+          "ko": "Impending Danger",
+          "ja": "危機迫る",
+          "zh_TW": "迫近的險亂"
+        },
+        {
+          "length": 246863,
+          "ids": {
+            "ca": "1630113732",
+            "cn": "1630131786",
+            "kr": "1630149501",
+            "jp": "1630163048",
+            "tw": "1630109579"
+          },
+          "en": "Inevitable Conflict",
+          "zh_CN": "激扬的韧战",
+          "ko": "Inevitable Conflict",
+          "ja": "白熱する接戦",
+          "zh_TW": "激揚的韌戰"
+        }
+      ]
+    }
+  ]
+}
